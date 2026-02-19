@@ -1,0 +1,182 @@
+<div
+  style="background-color: #f4f6f8; border-left: 6px solid #1f4e79; padding: 20px; border-radius: 6px; font-family: Arial, Helvetica, sans-serif; color: #2c2c2c;">
+  <h3 style="margin-top: 0; color: #1f4e79;">📘 Actividad – Modelo de Gestión de
+    PQ</h3>
+  <hr>
+  <h4 style="color: #1f4e79;">Instrucciones</h4>
+  <ol>
+    <li>Formen <strong>grupos de tres (3) estudiantes</strong>.</li>
+    <li>Lean cuidadosamente cada una de las <strong>20 acciones</strong>
+      listadas a continuación.</li>
+    <li>Analicen y discutan a cuál <strong>etapa del modelo de higiene
+        industrial</strong> corresponde cada acción.</li>
+    <li>Escriban la etapa correspondiente al lado de cada acción. Las etapas
+      son:
+      <ul>
+        <li><strong>Anticipación</strong></li>
+        <li><strong>Reconocimiento</strong></li>
+        <li><strong>Evaluación</strong></li>
+        <li><strong>Control</strong></li>
+        <li><strong>Confirmación</strong></li>
+      </ul>
+    </li>
+    <li>Se espera una <strong>participación activa</strong> de todos los
+      integrantes del grupo.</li>
+    <li>Al finalizar, entreguen el trabajo con los <strong>nombres
+        completos</strong> de los integrantes.</li>
+  </ol>
+  <hr>
+  <h4 style="color: #1f4e79;">📄 Lista de Acciones (completar con la etapa
+    correspondiente)</h4>
+  <ol>
+    <li>Revisión de procesos nuevos antes de su implementación</li>
+    <li>Identificación de puntos donde se generan vapores tóxicos</li>
+    <li>Medición cuantitativa de contaminantes químicos en el aire (humos de
+      soldadura)</li>
+    <li>Instalación de sistemas de extracción localizada</li>
+    <li>Monitoreo periódico de exposición a ruido en áreas de maquinaria</li>
+    <li>Validación de efectividad de ventilación general en talleres</li>
+    <li>Anticipación de posibles riesgos en tareas de mantenimiento en espacios
+      confinados</li>
+    <li>Entrevistas al personal sobre síntomas relacionados con exposición a
+      sustancias químicas</li>
+    <li>Uso de sensores para evaluar concentración de gases en atmósfera laboral
+    </li>
+    <li>Implementación de uso obligatorio de respiradores con filtros
+      específicos</li>
+    <li>Evaluación de carga térmica en ambientes cerrados</li>
+    <li>Ensayo de humo para verificar efectividad del sistema de extracción</li>
+    <li>Estimación de peligros potenciales en procesos nuevos con productos
+      volátiles</li>
+    <li>Análisis de fichas de datos de seguridad de productos químicos usados
+    </li>
+    <li>Evaluación del cumplimiento de límites permisibles de exposición</li>
+    <li>Aplicación de controles administrativos (rotación de personal, pausas
+      activas)</li>
+    <li>Calibración y revisión periódica de equipos de medición</li>
+    <li>Evaluación de exposición dérmica a sustancias irritantes</li>
+    <li>Identificación de trabajadores con mayor riesgo por condiciones médicas
+      previas</li>
+    <li>Uso de indicadores biológicos para verificar eficacia de medidas
+      preventivas</li>
+  </ol>
+  <hr>
+  <p>Utilicen la siguiente tabla para realizar la entrega de su actividad grupal
+    (Del total de las 20 acciones). Asegúrense de completar cada campo con el
+    rigor técnico solicitado.</p>
+  <table
+    style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; border: 1px solid #000;">
+    <thead>
+      <tr style="background-color: #f2f2f2; text-align: center;">
+        <th style="border: 1px solid #000; padding: 10px; width: 5%;">#</th>
+        <th style="border: 1px solid #000; padding: 10px; width: 35%;">Acción
+          (Tal como fue proporcionada)</th>
+        <th style="border: 1px solid #000; padding: 10px; width: 20%;">Etapa(s)
+        </th>
+        <th style="border: 1px solid #000; padding: 10px; width: 40%;">
+          Justificación Técnica Profunda</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="border: 1px solid #000; padding: 10px; text-align: center;">1
+        </td>
+        <td style="border: 1px solid #000; padding: 10px;">Revisión de procesos
+          nuevos antes de su implementación</td>
+        <td style="border: 1px solid #000; padding: 10px;"> </td>
+        <td style="border: 1px solid #000; padding: 10px;"> </td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #000; padding: 10px; text-align: center;">2
+        </td>
+        <td style="border: 1px solid #000; padding: 10px;">Identificación de
+          puntos donde se generan vapores tóxicos</td>
+        <td style="border: 1px solid #000; padding: 10px;"> </td>
+        <td style="border: 1px solid #000; padding: 10px;"> </td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #000; padding: 10px; text-align: center;">3
+        </td>
+        <td style="border: 1px solid #000; padding: 10px;">Medición cuantitativa
+          de contaminantes químicos en el aire (humos de soldadura)</td>
+        <td style="border: 1px solid #000; padding: 10px;"> </td>
+        <td style="border: 1px solid #000; padding: 10px;"> </td>
+      </tr>
+    </tbody>
+  </table>
+  <br>
+  <hr>
+  <h3
+    style="color: #2c3e50; border-bottom: 2px solid #1f4e79; padding-bottom: 8px;">
+    📊 Rúbrica de Evaluación – Actividad Modelo de Gestión de PQ</h3>
+  <table style="width: 100%; border-collapse: collapse; margin-top: 15px;">
+    <thead>
+      <tr style="background-color: #1f4e79; color: white; text-align: center;">
+        <th style="padding: 10px; border: 1px solid #ddd;">Criterio</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Excelente (5.0)</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Bueno (4.0)</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Aceptable (3.0)</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Insuficiente (1.0 –
+          2.0)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td
+          style="padding: 10px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+          Identificación de Etapas</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Clasifica
+          correctamente las 20 acciones, demostrando comprensión total del ciclo
+          de higiene.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Clasifica
+          correctamente entre 16 y 18 acciones.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Clasifica
+          correctamente entre 12 y 15 acciones.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Clasifica
+          correctamente menos de 12 acciones.</td>
+      </tr>
+      <tr>
+        <td
+          style="padding: 10px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+          Justificación Técnica</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Justificaciones
+          profundas con terminología técnica (TLVs, dosis, ingeniería).</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Justifica la mayoría
+          de acciones con lenguaje técnico adecuado.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Justificaciones
+          breves o descriptivas.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Justificaciones
+          inexistentes o con errores conceptuales.</td>
+      </tr>
+      <tr>
+        <td
+          style="padding: 10px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+          Análisis Multietapa</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Reconoce y justifica
+          acciones con más de una etapa.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Identifica algunas
+          acciones multietapa con débil justificación.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Asigna una sola etapa
+          sin análisis de complejidad.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">No reconoce la
+          interrelación entre etapas.</td>
+      </tr>
+      <tr>
+        <td
+          style="padding: 10px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+          Organización y Formato</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Entrega clara,
+          organizada, sin errores y en el formato solicitado.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Presenta pocos
+          errores de forma u ortografía.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">Formato incompleto o
+          difícil de seguir.</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">No cumple el formato
+          indicado.</td>
+      </tr>
+    </tbody>
+  </table>
+  <p style="margin-top: 15px; font-style: italic; color: #555;">* Nota: Se
+    requiere la participación activa de los tres (3) integrantes para obtener la
+    calificación grupal.</p>
+</div>
