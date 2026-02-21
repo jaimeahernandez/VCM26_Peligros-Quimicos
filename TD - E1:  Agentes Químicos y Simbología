@@ -1,0 +1,303 @@
+<div class="container-fluid shadow-sm p-4 mb-5 bg-white rounded"
+  style="font-family: 'Arial', sans-serif; border: 1px solid #e3e6f0;">
+  <!-- ENCABEZADO -->
+  <div class="text-white p-3 mb-4 rounded"
+    style="background-color: #2c3e50; border-left: 10px solid #3498db;">
+    <h2 class="m-0"><i class="fa fa-flask"></i> Taller Práctico: Gestión del
+      Peligro Químico</h2>
+    <p class="mb-0 text-light">Enfoque aplicado en Seguridad y Salud en el
+      Trabajo</p>
+  </div>
+  <div class="alert alert-info" style="border-radius: 10px;">
+    <strong>Objetivo:</strong> Comprender y aplicar los conceptos de peligro
+    químico, simbología SGA y el comportamiento biológico de los tóxicos
+    mediante el análisis técnico y herramientas visuales.</div>
+  <hr><!-- MOMENTO 1 -->
+  <div class="row mb-4">
+    <div class="col-md-1"><span class="badge badge-pill badge-primary p-3"
+        style="font-size: 1.2em;">01</span></div>
+    <div class="col-md-11">
+      <h4 style="color: #2c3e50;"><strong>Momento 1: Matriz de Identificación
+          SGA (60 min)</strong></h4>
+      <p>A partir de las 10 Fichas de Datos de Seguridad (FDS) suministradas en
+        este ejercicio, el grupo deberá construir una matriz técnica de
+        identificación de peligros para las siguientes sustancias químicas:</p>
+      <ul>
+        <li>Metanol</li>
+        <li>Etanol</li>
+        <li>Fenolftaleína</li>
+        <li>Acetaldehído</li>
+        <li>Ácido Fosfórico</li>
+        <li>Hipoclorito de Sodio</li>
+        <li>Cloro</li>
+        <li>Ácido Clorhídrico</li>
+        <li>Furfural</li>
+        <li>Benceno</li>
+      </ul>
+      <p><strong>Instrucción técnica:</strong> La información debe extraerse de
+        la Sección 2 (Identificación de peligros) y Sección 14 (Información
+        sobre transporte) de las FDS correspondientes. Con la información
+        obtenida de las FDS cada grupo deben diligenciar la siguiente tabla:</p>
+      <!-- TABLA -->
+      <table
+        style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; font-size: 13px;">
+        <thead>
+          <tr
+            style="background-color: #1f4e79; color: #ffffff; text-align: center; font-weight: bold;">
+            <th style="border: 1px solid #000; padding: 8px;">N°</th>
+            <th style="border: 1px solid #000; padding: 8px;">Nombre del
+              Producto</th>
+            <th style="border: 1px solid #000; padding: 8px;">N° CAS</th>
+            <th style="border: 1px solid #000; padding: 8px;">N° UN</th>
+            <th style="border: 1px solid #000; padding: 8px;">Clasificación SGA
+            </th>
+            <th style="border: 1px solid #000; padding: 8px;">Categorías de
+              Peligro</th>
+            <th style="border: 1px solid #000; padding: 8px;">Palabra de
+              Advertencia</th>
+            <th style="border: 1px solid #000; padding: 8px;">Frases H</th>
+            <th style="border: 1px solid #000; padding: 8px;">Frases P</th>
+            <th style="border: 1px solid #000; padding: 8px;">Pictogramas</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="border: 1px solid #000; height: 50px;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #000; height: 50px;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #000; height: 50px;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #000; height: 50px;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #000; height: 50px;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+            <td style="border: 1px solid #000;"> </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <hr><!-- MOMENTO 2 -->
+  <div class="row mb-4">
+    <div class="col-md-1"><span class="badge badge-pill badge-success p-3"
+        style="font-size: 1.2em;">02</span></div>
+    <div class="col-md-11">
+      <h4 style="color: #2c3e50;"><strong>Momento 2: Infografía de
+          Toxicocinética (ADME) (60 min)</strong></h4>
+      <p><strong>Instrucción obligatoria: </strong>Elaborar una infografía en
+        Canva, Genially o Piktochart donde se analice la Toxicocinética (ADME) y
+        la Toxicodinamia del Benceno. </p>
+      <!-- DIAGRAMA ADME -->
+      <div
+        style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 6px solid #28a745;">
+        <div
+          style="display: flex; justify-content: space-between; text-align: center; font-weight: bold;">
+          <div
+            style="flex: 1; background: #d4edda; padding: 10px; border-radius: 6px;">
+            A<br>Absorción</div>
+          <div style="flex: 1; font-size: 24px;">→</div>
+          <div
+            style="flex: 1; background: #cce5ff; padding: 10px; border-radius: 6px;">
+            D<br>Distribución</div>
+          <div style="flex: 1; font-size: 24px;">→</div>
+          <div
+            style="flex: 1; background: #fff3cd; padding: 10px; border-radius: 6px;">
+            M<br>Metabolismo</div>
+          <div style="flex: 1; font-size: 24px;">→</div>
+          <div
+            style="flex: 1; background: #f8d7da; padding: 10px; border-radius: 6px;">
+            E<br>Eliminación</div>
+        </div>
+      </div>
+      <div class="mt-3 p-3"
+        style="border-left: 5px solid #28a745; background-color: #f1f9f1; border-radius: 0 8px 8px 0;">
+        <p style="text-align: justify; line-height: 1.6; margin-bottom: 0;">
+          <strong>Instrucción de desarrollo:</strong> Para la elaboración de la
+          infografía, el grupo debe describir la <strong>toxicocinética</strong>
+          del Benceno detallando sus vías de ingreso (énfasis en inhalatoria),
+          su distribución en tejidos grasos y médula ósea, la biotransformación
+          hepática (oxidación vía Citocromo P-450) y su excreción urinaria
+          mediante biomarcadores de exposición. Asimismo, deben definir la
+          <strong>toxicodinamia</strong> identificando el mecanismo de acción
+          molecular en la médula ósea (órgano blanco), explicando su efecto
+          mielotóxico y su clasificación como agente cancerígeno comprobado,
+          vinculando estos conceptos con la necesidad de vigilancia médica
+          ocupacional. Señalar fuente de información.</p>
+      </div>
+    </div>
+  </div>
+  <hr><!-- MOMENTO 3 -->
+  <div class="row mb-4">
+    <div class="col-md-1"><span class="badge badge-pill badge-warning p-3"
+        style="font-size: 1.2em;">03</span></div>
+    <div class="col-md-11">
+      <h4 style="color: #2c3e50;"><strong>Momento 3: Cierre y Entrega (30
+          min)</strong></h4>
+      <p>Consoliden la Matriz y la Infografía en un solo documento. Entregar en
+        PDF y subir en este mismo espacio</p>
+      <p><strong>Reflexión técnica obligatoria:</strong> Expliquen cómo el
+        análisis de la matriz SGA y la comprensión de la toxicocinética permiten
+        fundamentar la Gestión Integral del Riesgo Químico, incluyendo:</p>
+      <ul>
+        <li>Evaluación del riesgo químico.</li>
+        <li>Aplicación de la jerarquía de controles.</li>
+        <li>Selección técnica de EPP.</li>
+        <li>Vigilancia epidemiológica ocupacional.</li>
+        <li>Planificación de emergencias químicas.</li>
+      </ul>
+    </div>
+  </div>
+  <div class="mt-4 text-center"><small class="text-muted">Curso: Peligros
+      Químicos • Facultad de Educación a Distancia y Virtual (FEDV)</small>
+  </div>
+</div>
+<!-- RÚBRICA DE EVALUACIÓN COLAPSABLE -->
+<hr>
+<div class="row mb-4">
+  <div class="col-md-12">
+    <div class="card shadow-sm"><!-- TÍTULO CLICKEABLE -->
+      <div class="card-header" style="background-color: #1f4e79;">
+        <h5 class="mb-0"><button class="btn btn-link text-white"
+            style="text-decoration: none; font-weight: bold;"
+            data-toggle="collapse" data-target="#rubricaCollapse"
+            aria-expanded="false"> Rúbrica de Evaluación (Click para abrir /
+            cerrar) </button></h5>
+      </div>
+      <!-- CONTENIDO COLAPSABLE -->
+      <div id="rubricaCollapse" class="collapse">
+        <div class="card-body">
+          <table
+            style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; font-size: 13px;">
+            <thead>
+              <tr
+                style="background-color: #1f4e79; color: #ffffff; text-align: center; font-weight: bold;">
+                <th style="border: 1px solid #000; padding: 8px;">Criterio</th>
+                <th style="border: 1px solid #000; padding: 8px;">Ponderación
+                </th>
+                <th style="border: 1px solid #000; padding: 8px;">Excelente
+                  (4.5–5.0)</th>
+                <th style="border: 1px solid #000; padding: 8px;">Bueno
+                  (4.0–4.4)</th>
+                <th style="border: 1px solid #000; padding: 8px;">Aceptable
+                  (3.0–3.9)</th>
+                <th style="border: 1px solid #000; padding: 8px;">Insuficiente
+                  (&lt;3.0)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td style="border: 1px solid #000; padding: 8px;"><strong>Matriz
+                    de Identificación SGA</strong></td>
+                <td
+                  style="border: 1px solid #000; padding: 8px; text-align: center;">
+                  <strong>40%</strong></td>
+                <td style="border: 1px solid #000; padding: 8px;">Información
+                  completa, correcta y coherente con la FDS.</td>
+                <td style="border: 1px solid #000; padding: 8px;">Información
+                  mayormente correcta con mínimos errores.</td>
+                <td style="border: 1px solid #000; padding: 8px;">Presenta
+                  omisiones o errores técnicos.</td>
+                <td style="border: 1px solid #000; padding: 8px;">Información
+                  incompleta o sin sustento técnico.</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #000; padding: 8px;">
+                  <strong>Toxicocinética y Toxicodinamia del Benceno</strong>
+                </td>
+                <td
+                  style="border: 1px solid #000; padding: 8px; text-align: center;">
+                  <strong>35%</strong></td>
+                <td style="border: 1px solid #000; padding: 8px;">Explica
+                  detalladamente ADME, órgano blanco y mecanismo de acción.</td>
+                <td style="border: 1px solid #000; padding: 8px;">Describe
+                  adecuadamente el proceso ADME.</td>
+                <td style="border: 1px solid #000; padding: 8px;">Explicación
+                  general con poca profundidad.</td>
+                <td style="border: 1px solid #000; padding: 8px;">Información
+                  superficial o incorrecta.</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #000; padding: 8px;">
+                  <strong>Aplicación en Gestión del Riesgo</strong></td>
+                <td
+                  style="border: 1px solid #000; padding: 8px; text-align: center;">
+                  <strong>15%</strong></td>
+                <td style="border: 1px solid #000; padding: 8px;">Relaciona
+                  técnicamente toxicología y gestión del riesgo químico.</td>
+                <td style="border: 1px solid #000; padding: 8px;">Relación
+                  adecuada con menor profundidad.</td>
+                <td style="border: 1px solid #000; padding: 8px;">Relación
+                  básica sin análisis crítico.</td>
+                <td style="border: 1px solid #000; padding: 8px;">No articula
+                  conceptos.</td>
+              </tr>
+              <tr>
+                <td style="border: 1px solid #000; padding: 8px;">
+                  <strong>Presentación y Calidad Visual</strong></td>
+                <td
+                  style="border: 1px solid #000; padding: 8px; text-align: center;">
+                  <strong>10%</strong></td>
+                <td style="border: 1px solid #000; padding: 8px;">Diseño
+                  profesional, coherente y estructurado.</td>
+                <td style="border: 1px solid #000; padding: 8px;">Presentación
+                  clara con pequeños ajustes.</td>
+                <td style="border: 1px solid #000; padding: 8px;">Diseño básico.
+                </td>
+                <td style="border: 1px solid #000; padding: 8px;">Documento
+                  desorganizado o incompleto.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
