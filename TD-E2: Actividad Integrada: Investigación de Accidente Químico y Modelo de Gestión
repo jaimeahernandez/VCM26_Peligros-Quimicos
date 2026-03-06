@@ -1,0 +1,98 @@
+<div
+  style="font-family: Arial, sans-serif; border: 1px solid #dee2e6; padding: 20px; border-radius: 8px; background-color: #f8f9fa;">
+  <h2
+    style="color: #004a99; border-bottom: 2px solid #004a99; padding-bottom: 10px;">
+    Actividad Integrada: Investigación de Accidente Químico y Modelo de Gestión
+    – Caso MGPI (Kansas)</h2>
+  <p><strong>Contexto:</strong> El 21 de octubre de 2016, una mezcla inadvertida
+    de productos químicos incompatibles generó liberación de gas cloro,
+    afectando a más de 140 personas. El caso fue investigado por la CSB.</p>
+  <div style="margin: 20px 0; text-align: center;"><iframe
+      src="https://www.youtube.com/embed/sGnAMmn8VRs" width="560" height="315"
+      frameborder="0" allowfullscreen="allowfullscreen">
+    </iframe>
+    <p><small>Fuente: CSB – Chemical Mixing Incident</small></p>
+  </div>
+  <h3 style="color: #d9534f;">Fase 1: Análisis Técnico del Evento</h3>
+  <ol>
+    <li><strong>Identificación de Sustancias:</strong> Identifique los químicos
+      involucrados y explique la peligrosidad del gas cloro conforme al SGA y su
+      FDS.</li>
+    <li><strong>Factores Humanos y de Diseño:</strong> Analice cómo el diseño
+      físico de las líneas y la ausencia de señalización favorecieron el error
+      operativo.</li>
+    <li><strong>Fallas en Barreras de Control:</strong> Identifique al menos
+      tres barreras que fallaron (ingeniería, administrativas o EPP).</li>
+  </ol>
+  <hr>
+  <h3 style="color: #f0ad4e;">Fase 2: Análisis de Causas – Metodología de
+    Investigación</h3>
+  <p>El estudiante deberá elaborar un análisis estructurado utilizando UNA de
+    las siguientes metodologías:</p>
+  <ul>
+    <li><strong>Árbol de Causas</strong> (secuencia lógica causa–efecto).</li>
+    <li><strong>Diagrama de Espina de Pescado (Ishikawa)</strong>, considerando
+      como mínimo las categorías: Método, Mano de Obra, Maquinaria, Materiales,
+      Medio Ambiente y Gestión.</li>
+  </ul>
+  <div
+    style="background-color: #fff3cd; padding: 15px; border-left: 5px solid #f0ad4e;">
+    <strong>Exigencia técnica:</strong> El análisis debe diferenciar:
+    <ul>
+      <li>Causas inmediatas.</li>
+      <li>Causas básicas.</li>
+      <li>Fallas del sistema de gestión.</li>
+    </ul>
+  </div>
+  <hr>
+  <h3 style="color: #5cb85c;">Fase 3: Aplicación de Modelo de Gestión y Plan de
+    Intervención</h3>
+  <p>A partir del análisis causal realizado, el estudiante deberá formular un
+    <strong>Plan de Intervención estructurado bajo un Modelo de Gestión del
+      Riesgo Químico</strong>.</p>
+  <p>El plan debe contener:</p>
+  <ol>
+    <li><strong>Diagnóstico resumido</strong> (síntesis del análisis causal).
+    </li>
+    <li><strong>Objetivo general de intervención.</strong></li>
+    <li><strong>Acciones correctivas y preventivas</strong> clasificadas según
+      la Jerarquía de Controles:
+      <ul>
+        <li>Eliminación / Sustitución.</li>
+        <li>Controles de Ingeniería.</li>
+        <li>Controles Administrativos.</li>
+        <li>EPP.</li>
+      </ul>
+    </li>
+    <li><strong>Responsables.</strong></li>
+    <li><strong>Indicadores de seguimiento.</strong></li>
+    <li><strong>Cronograma general.</strong></li>
+  </ol>
+  <div
+    style="background-color: #e8f5e9; padding: 15px; border-left: 5px solid #5cb85c; margin-top: 20px;">
+    <p><strong>Enfoque requerido:</strong></p>
+    <p>El plan debe evidenciar integración con un Sistema de Gestión de
+      Seguridad y Salud en el Trabajo y demostrar cómo la mejora organizacional
+      reduce la probabilidad de recurrencia del evento.</p>
+  </div>
+  <hr>
+  <h3 style="color: #004a99;">Producto Final a Entregar</h3>
+  <ul>
+    <li>Documento técnico en PDF.</li>
+    <li>Diagrama causal elaborado digitalmente.</li>
+    <li>Plan de intervención estructurado en tabla técnica.</li>
+    <li>Conclusión crítica sobre la cultura de seguridad organizacional.</li>
+  </ul>
+  <div
+    style="background-color: #ffffff; padding: 15px; border-left: 5px solid #004a99; margin-top: 20px;">
+    <p><strong>Criterios de Evaluación:</strong></p>
+    <ul>
+      <li>Rigor técnico en la identificación de causas.</li>
+      <li>Coherencia entre análisis causal y plan de intervención.</li>
+      <li>Uso adecuado de terminología técnica (SGA, barreras, gestión del
+        riesgo).</li>
+      <li>Capacidad de integrar factores humanos, técnicos y organizacionales.
+      </li>
+    </ul>
+  </div>
+</div>
