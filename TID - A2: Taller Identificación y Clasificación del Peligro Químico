@@ -1,0 +1,319 @@
+<div class="container-fluid shadow-sm p-4 mb-5 bg-white rounded"
+  style="font-family: Arial, sans-serif; border: 1px solid #e3e6f0;">
+  <!-- ENCABEZADO -->
+  <div class="text-white p-3 mb-4 rounded"
+    style="background-color: #1f3a60; border-left: 10px solid #0d6efd;">
+    <h2 class="m-0">Taller Aplicado: Elaboración de Documentos Técnicos en
+      Gestión del Riesgo Químico</h2>
+    <p class="mb-0">Curso: Peligros Químicos</p>
+  </div>
+  <!-- OBJETIVO -->
+  <div class="alert alert-info"><strong>Objetivo general:</strong> Aplicar los
+    lineamientos del Sistema Globalmente Armonizado (SGA) y la normativa de
+    transporte de mercancías peligrosas mediante la elaboración de Etiquetas SGA
+    y Tarjetas de Emergencia, a partir del análisis técnico de Fichas de Datos
+    de Seguridad (FDS).</div>
+  <!-- INSTRUCCIÓN GENERAL -->
+  <div class="alert alert-secondary"><strong>Instrucción General:</strong> La
+    actividad se desarrollará en tres momentos académicos. En cada momento el
+    estudiante deberá analizar rigurosamente las Fichas de Datos de Seguridad
+    (FDS) suministradas, interpretar técnicamente la información normativa y
+    elaborar los productos solicitados, garantizando coherencia conceptual,
+    precisión técnica y cumplimiento del SGA.</div>
+  <hr><!-- MOMENTO 1 -->
+  <div class="row mb-4">
+    <div class="col-md-1"><span class="badge badge-primary p-3"
+        style="font-size: 20px;">01</span></div>
+    <div class="col-md-11">
+      <h4><strong>Momento 1: Elaboración de Etiquetas SGA</strong></h4>
+      <div class="alert alert-light border"><strong>Sustancias
+          asignadas:</strong>
+        <ul>
+          <li>Cloro</li>
+          <li>Benceno</li>
+          <li>Metanol</li>
+        </ul>
+      </div>
+      <p><strong>Actividad a desarrollar:</strong></p>
+      <p>El estudiante deberá diseñar tres etiquetas conforme al Sistema
+        Globalmente Armonizado (SGA), una para cada sustancia asignada,
+        utilizando exclusivamente la información contenida en la Sección 2 de
+        cada FDS y el model de etiqueta SGA.</p>
+      <p><strong>Cada etiqueta debe contener:</strong></p>
+      <ul>
+        <li>Nombre de la sustancia química.</li>
+        <li>Pictogramas oficiales del SGA.</li>
+        <li>Palabra de advertencia (Peligro / Atención).</li>
+        <li>Frases H (Indicaciones de peligro).</li>
+        <li>Frases P (Consejos de prudencia).</li>
+        <li>Datos del fabricante o proveedor.</li>
+      </ul>
+      <div class="alert alert-warning">La información debe extraerse
+        textualmente de la FDS correspondiente y mantener coherencia normativa.
+      </div>
+      <div style="text-align: center; margin-top: 20px;">
+        <h5><strong>Modelo de Etiqueta SGA</strong></h5>
+        <img class="img-fluid"
+          style="width: 75%; max-width: 750px; border: 2px solid #2c3e50; border-radius: 8px;"
+          src="https://escuelasq.com/wp-content/uploads/2022/06/Etiquetas-ajustadas-al-SGA.png">
+      </div>
+      <!-- INTERPRETACIÓN TÉCNICA -->
+      <div
+        style="background-color: #eef5ff; padding: 15px; border-left: 5px solid #2980b9; margin-top: 20px;">
+        <h6><strong>Interpretación Técnica de la Numeración:</strong></h6>
+        <ol>
+          <li><strong>Nombre de la Sustancia Química:</strong> Identificador
+            técnico o comercial del producto, el cual debe coincidir con el
+            declarado en la FDS para asegurar coherencia documental.</li>
+          <li><strong>Frases H (Indicaciones de Peligro):</strong> Declaraciones
+            normalizadas que describen la naturaleza y gravedad de los peligros
+            físicos, para la salud o el medio ambiente.</li>
+          <li><strong>Frases P (Consejos de Prudencia):</strong> Declaraciones
+            estandarizadas que describen medidas preventivas, de respuesta,
+            almacenamiento y disposición final para reducir la exposición o
+            minimizar consecuencias adversas.</li>
+          <li><strong>Contacto de emergencia:</strong> Información del proveedor
+            responsable (nombre, dirección y teléfono de contacto), garantizando
+            trazabilidad y comunicación en caso de emergencia.</li>
+          <li><strong>Pictogramas de Peligro:</strong> Símbolos gráficos
+            normalizados que permiten identificar visualmente el tipo de riesgo
+            (inflamabilidad, toxicidad, corrosividad, peligro ambiental, entre
+            otros).</li>
+          <li><strong>Palabra de Advertencia:</strong> Indica el nivel relativo
+            de severidad del peligro. Puede ser “PELIGRO” (mayor gravedad) o
+            “ATENCIÓN” (menor gravedad), según la clasificación del producto
+            químico.</li>
+        </ol>
+        <p><strong>Indicaciones académicas:</strong> El estudiante deberá
+          garantizar coherencia entre estos elementos, la clasificación de
+          peligros y la información contenida en la FDS, demostrando comprensión
+          integral del sistema de comunicación del riesgo químico.</p>
+      </div>
+    </div>
+  </div>
+  <hr><!-- MOMENTO 2 -->
+  <div class="row mb-4">
+    <div class="col-md-1"><span class="badge badge-warning p-3"
+        style="font-size: 20px; font-weight: 600;">02</span></div>
+    <div class="col-md-11">
+      <h4><strong>Momento 2: Elaboración de Tarjetas de Emergencia</strong></h4>
+      <div class="alert alert-light border"><strong>Sustancias
+          asignadas:</strong>
+        <ul>
+          <li>Hipoclorito de sodio</li>
+          <li>Ácido clorhídrico</li>
+          <li>Acetaldehído</li>
+        </ul>
+      </div>
+      <p><strong>Actividad a desarrollar:</strong></p>
+      <p>El estudiante deberá elaborar tres Tarjetas de Emergencia
+        independientes, siguiendo estrictamente el modelo estructural
+        suministrado. La información deberá obtenerse del análisis técnico de
+        cada FDS.</p>
+      <h5><strong>La Tarjeta de Emergencia debe contener:</strong></h5>
+      <ul>
+        <li>Nombre de la sustancia.</li>
+        <li>Ítem o código interno.</li>
+        <li>Fabricante / proveedor responsable de la FDS.</li>
+        <li>Comunicación de peligros:
+          <ul>
+            <li>Pictogramas SGA.</li>
+            <li>Clasificación ONU para transporte.</li>
+            <li>Palabra de advertencia.</li>
+          </ul>
+        </li>
+        <li>Protección personal:
+          <ul>
+            <li>Protección visual.</li>
+            <li>Protección respiratoria.</li>
+            <li>Tipo de respirador.</li>
+            <li>Protección de manos.</li>
+            <li>Traje.</li>
+            <li>Delantal.</li>
+            <li>Botas.</li>
+          </ul>
+        </li>
+        <li>Estado físico.</li>
+        <li>Identificación de riesgos.</li>
+        <li>Primeros auxilios.</li>
+        <li>Manipulación y almacenamiento.</li>
+        <li>Medidas contra incendio / explosión.</li>
+        <li>Medidas contra derrame o escape.</li>
+        <li>Teléfonos de emergencia.</li>
+      </ul>
+      <div class="alert alert-warning">La información debe extraerse de las
+        Secciones 2, 4, 5, 6, 7, 8, 9 y 14 de cada FDS.</div>
+      <div style="text-align: center; margin-top: 20px;">
+        <h5><strong>Modelo de Tarjeta de Emergencia</strong></h5>
+        <img class="img-fluid"
+          style="width: 80%; max-width: 900px; border: 2px solid #2c3e50; border-radius: 8px;"
+          src="https://aulasvirtuales.unicamacho.edu.co/draftfile.php/766258/user/draft/852586231/Model%20de%20tarjeta%20de%20emergencia%20%281%29.png">
+      </div>
+    </div>
+  </div>
+  <hr><!-- MOMENTO 3 -->
+  <div class="row mb-4">
+    <div class="col-md-1"><span class="badge badge-success p-3"
+        style="font-size: 20px; font-weight: 600;">03</span></div>
+    <div class="col-md-11">
+      <h4><strong>Momento 3: Conclusiones y Entrega Final</strong></h4>
+      <p><strong>Actividad a desarrollar:</strong></p>
+      <p>El estudiante deberá consolidar las tres etiquetas SGA y las tres
+        tarjetas de emergencia en un único documento final estructurado por
+        momentos.</p>
+      <p><strong>Requisitos de entrega:</strong></p>
+      <ul>
+        <li>Formato PDF o Word (.docx).</li>
+        <li>Portada con nombre completo, curso y fecha.</li>
+        <li>Organización clara por momentos.</li>
+      </ul>
+      <p><strong>Conclusión técnica obligatoria (mínimo 200 palabras):</strong>
+      </p>
+      <ul>
+        <li>Importancia de la comunicación del peligro químico.</li>
+        <li>Relación entre FDS, Etiqueta SGA y Tarjeta de Emergencia.</li>
+        <li>Relevancia en la gestión integral del riesgo químico.</li>
+      </ul>
+      <div class="alert alert-light border">La conclusión debe evidenciar
+        análisis crítico y apropiación conceptual del SGA.</div>
+    </div>
+  </div>
+  <hr><!-- RÚBRICA DE EVALUACIÓN -->
+  <div class="mt-4">
+    <h4 class="mb-3"><strong>Rúbrica de Evaluación</strong></h4>
+    <div id="rubricaAcordeon"><!-- CRITERIO 1 -->
+      <div class="card">
+        <div class="card-header bg-primary text-white">
+          <h6 class="mb-0"><a class="text-white" href="#criterio1"
+              data-toggle="collapse"> Momento 1 – Etiquetas SGA (30 puntos) </a>
+          </h6>
+        </div>
+        <div id="criterio1" class="collapse" data-parent="#rubricaAcordeon">
+          <div class="card-body">
+            <p><strong>Se evalúa:</strong></p>
+            <ul>
+              <li>Exactitud técnica en la transcripción de información de la
+                FDS.</li>
+              <li>Correcta identificación de pictogramas y palabra de
+                advertencia.</li>
+              <li>Coherencia entre clasificación del peligro y elementos de la
+                etiqueta.</li>
+              <li>Cumplimiento estricto del modelo SGA.</li>
+            </ul>
+            <p><strong>Niveles de desempeño:</strong></p>
+            <ul>
+              <li><strong>Excelente (27–30 pts):</strong> Información completa,
+                sin errores técnicos, coherencia total con la FDS y cumplimiento
+                normativo absoluto.</li>
+              <li><strong>Alto (23–26 pts):</strong> Información correcta con
+                mínimos detalles formales.</li>
+              <li><strong>Básico (18–22 pts):</strong> Presenta omisiones o
+                inconsistencias técnicas.</li>
+              <li><strong>Bajo (0–17 pts):</strong> Errores conceptuales,
+                omisión de elementos obligatorios o incoherencia normativa.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- CRITERIO 2 -->
+      <div class="card">
+        <div class="card-header bg-warning">
+          <h6 class="mb-0"><a class="text-dark" href="#criterio2"
+              data-toggle="collapse"> Momento 2 – Tarjetas de Emergencia (40
+              puntos) </a></h6>
+        </div>
+        <div id="criterio2" class="collapse" data-parent="#rubricaAcordeon">
+          <div class="card-body">
+            <p><strong>Se evalúa:</strong></p>
+            <ul>
+              <li>Integración correcta de información de Secciones 2, 4, 5, 6,
+                7, 8, 9 y 14 de la FDS.</li>
+              <li>Precisión en clasificación ONU y riesgos asociados.</li>
+              <li>Coherencia entre identificación de riesgos y medidas de
+                respuesta.</li>
+              <li>Rigor técnico en medidas de primeros auxilios y control de
+                emergencias.</li>
+              <li>Claridad estructural y organización del documento.</li>
+            </ul>
+            <p><strong>Niveles de desempeño:</strong></p>
+            <ul>
+              <li><strong>Excelente (36–40 pts):</strong> Documento técnicamente
+                sólido, sin omisiones, con interpretación crítica y coherente
+                del riesgo químico.</li>
+              <li><strong>Alto (31–35 pts):</strong> Información correcta con
+                leves imprecisiones formales.</li>
+              <li><strong>Básico (24–30 pts):</strong> Omisiones parciales o
+                debilidad en análisis técnico.</li>
+              <li><strong>Bajo (0–23 pts):</strong> Inconsistencias normativas,
+                errores técnicos o información incompleta.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- CRITERIO 3 -->
+      <div class="card">
+        <div class="card-header bg-success text-white">
+          <h6 class="mb-0"><a class="text-white" href="#criterio3"
+              data-toggle="collapse"> Momento 3 – Conclusión Técnica y
+              Presentación Final (20 puntos) </a></h6>
+        </div>
+        <div id="criterio3" class="collapse" data-parent="#rubricaAcordeon">
+          <div class="card-body">
+            <p><strong>Se evalúa:</strong></p>
+            <ul>
+              <li>Profundidad analítica en la conclusión (mínimo 200 palabras).
+              </li>
+              <li>Relación crítica entre FDS, Etiqueta SGA y Tarjeta de
+                Emergencia.</li>
+              <li>Argumentación técnica sólida y fundamentada.</li>
+              <li>Claridad conceptual en gestión del riesgo químico.</li>
+            </ul>
+            <p><strong>Niveles de desempeño:</strong></p>
+            <ul>
+              <li><strong>Excelente (18–20 pts):</strong> Análisis crítico
+                profundo, argumentación técnica rigurosa y articulación
+                normativa clara.</li>
+              <li><strong>Alto (15–17 pts):</strong> Buena reflexión con
+                adecuada coherencia conceptual.</li>
+              <li><strong>Básico (12–14 pts):</strong> Reflexión superficial o
+                parcialmente desarrollada.</li>
+              <li><strong>Bajo (0–11 pts):</strong> Conclusión débil,
+                descriptiva o sin análisis técnico.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- CRITERIO 4 -->
+      <div class="card">
+        <div class="card-header bg-dark text-white">
+          <h6 class="mb-0"><a class="text-white" href="#criterio4"
+              data-toggle="collapse"> Presentación, Redacción Técnica y Rigor
+              Normativo (10 puntos) </a></h6>
+        </div>
+        <div id="criterio4" class="collapse" data-parent="#rubricaAcordeon">
+          <div class="card-body">
+            <ul>
+              <li>Redacción técnica formal.</li>
+              <li>Ortografía y coherencia textual.</li>
+              <li>Organización clara por momentos.</li>
+              <li>Cumplimiento del formato solicitado.</li>
+            </ul>
+            <p><strong>Escala:</strong></p>
+            <ul>
+              <li><strong>9–10 pts:</strong> Presentación impecable y técnica.
+              </li>
+              <li><strong>7–8 pts:</strong> Buena presentación con mínimos
+                detalles.</li>
+              <li><strong>5–6 pts:</strong> Presenta fallas formales moderadas.
+              </li>
+              <li><strong>0–4 pts:</strong> Presentación deficiente.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="alert alert-info mt-3"><strong>Total: 100 puntos.</strong> La
+      evaluación prioriza el rigor técnico, la coherencia normativa y la
+      capacidad de análisis crítico en la gestión del riesgo químico.</div>
+  </div>
+</div>
