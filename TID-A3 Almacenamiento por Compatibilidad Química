@@ -1,0 +1,153 @@
+<div
+  style="max-width: 950px; margin: auto; font-family: Arial, Helvetica, sans-serif; line-height: 1.7;">
+  <!-- CONTEXTO / ENCABEZADO PRINCIPAL -->
+  <div
+    style="background: linear-gradient(90deg,#243a5e,#3f5f8c); color: white; padding: 28px; border-radius: 8px; box-shadow: 0px 4px 12px rgba(0,0,0,0.15);">
+    <h2 style="margin-top: 0; margin-bottom: 10px;">🧪 Contexto de la actividad
+    </h2>
+    <p style="text-align: justify; margin-bottom: 0; font-size: 1.05rem;">En
+      esta actividad se desarrollará un caso práctico orientado al
+      almacenamiento seguro de sustancias químicas. Los estudiantes se dividirán
+      en 6 grupos de trabajo, deberán clasificar los productos asignados,
+      interpretar su compatibilidad y proponer un plan básico de almacenamiento
+      mediante una matriz que evidencie criterios técnicos de segregación y
+      control del riesgo químico.</p>
+  </div>
+  <br><!-- OBJETIVO -->
+  <div
+    style="background: white; border: 1px solid #d9d9d9; padding: 18px; border-radius: 6px;">
+    <h4 style="color: #243a5e; margin-top: 0;">🎯 <strong>Objetivo de la
+        actividad</strong></h4>
+    <p style="text-align: justify; margin-bottom: 0;">Aplicar los criterios
+      técnicos de compatibilidad química para clasificar sustancias peligrosas,
+      determinar sus condiciones seguras de almacenamiento y elaborar una matriz
+      básica que permita estructurar un plan de almacenamiento orientado a la
+      segregación adecuada y la prevención del riesgo químico.</p>
+  </div>
+  <br><!-- INSTRUCCIONES -->
+  <div
+    style="background: #eef3f8; padding: 18px; border-radius: 6px; border-left: 6px solid #243a5e;">
+    <h4 style="color: #243a5e; margin-top: 0;">📌 <strong>Instrucciones</strong>
+    </h4>
+    <ul style="margin-bottom: 0;">
+      <li>Organizarse en grupos de trabajo según las indicaciones del docente.
+      </li>
+      <li>Revisar cuidadosamente el caso práctico presentado a continuación.
+      </li>
+      <li>Identificar los grupos funcionales de las sustancias químicas.</li>
+      <li>Analizar la matriz de compatibilidad química y/o la guía de
+        almacenamiento.</li>
+      <li>Definir y justificar técnicamente la forma segura de almacenamiento a
+        través del plan de almacenamiento.</li>
+      <li>Registrar las conclusiones con redacción técnica clara.</li>
+    </ul>
+  </div>
+  <br><!-- DESARROLLO -->
+  <div
+    style="background: white; border: 1px solid #d9d9d9; padding: 18px; border-radius: 6px; text-align: center;">
+    <h4 style="color: #243a5e; margin-top: 0;">🧠 <strong>Desarrollo de la
+        actividad</strong></h4>
+    <iframe title="Caso práctico"
+      src="https://slides.com/lic-jaimea-hernandezj/forum-php-ddd-apip/embed"
+      width="100%" height="480" frameborder="0" scrolling="no"
+      allowfullscreen="allowfullscreen">
+    </iframe>
+  </div>
+  <br><!-- ENTREGA -->
+  <div
+    style="background: #f4f6f8; padding: 18px; border-left: 6px solid #243a5e; border-radius: 6px;">
+    <h4 style="color: #243a5e; margin-top: 0;">📤 <strong>Entrega de la
+        actividad</strong></h4>
+    <p style="text-align: justify;">El trabajo deberá entregarse en formato PDF,
+      debidamente organizado y con sustentación técnica de las decisiones
+      tomadas. La actividad debe desarrollarse en grupo y cargarse en el espacio
+      <strong>"TID-A3 Almacenamiento por Compatibilidad Química"</strong> de la
+      plataforma virtual.</p>
+    <p style="margin-top: 10px;">El documento debe contener como mínimo la
+      siguiente estructura del Plan Básico de Almacenamiento de Riesgo Químico:
+    </p>
+    <ul style="margin-bottom: 0;">
+      <li>Objetivo del plan.</li>
+      <li>Alcance.</li>
+      <li>Clasificación de las sustancias químicas.</li>
+      <li>Análisis de compatibilidad química.</li>
+      <li>Esquema o imagen de almacenamiento de los productos químicos (Cómo
+        quedan almacenados).</li>
+      <li>Matriz del Plan Básico de Almacenamiento (ubicación segura,
+        condiciones y observaciones).</li>
+      <li>Recomendaciones de seguridad.</li>
+      <li>Conclusiones.</li>
+    </ul>
+    <p style="margin-top: 10px; text-align: justify;">El plan debe evidenciar
+      coherencia técnica entre la clasificación de las sustancias, la
+      interpretación de su compatibilidad y la propuesta de almacenamiento
+      seguro planteada por el grupo.</p>
+  </div>
+  <!-- RUBRICA ACORDEON MOODLE --> <br>
+  <details
+    style="background: white; border: 1px solid #d9d9d9; border-radius: 6px;">
+    <summary
+      style="background: #243a5e; color: white; padding: 16px; cursor: pointer; font-weight: bold;">
+      📊 Rúbrica de Evaluación</summary>
+    <div style="padding: 20px;">
+      <table
+        style="width: 100%; border-collapse: collapse; font-size: 0.96rem;">
+        <tbody>
+          <tr style="background: #243a5e; color: white;">
+            <th style="padding: 12px; border: 1px solid #ccc;">Nivel de
+              desempeño</th>
+            <th style="padding: 12px; border: 1px solid #ccc;">Descripción del
+              desempeño esperado</th>
+            <th style="padding: 12px; border: 1px solid #ccc;">Rango sugerido de
+              calificación</th>
+          </tr>
+          <tr>
+            <td style="padding: 12px; border: 1px solid #ccc;"><strong>Alto
+                desempeño</strong></td>
+            <td style="padding: 12px; border: 1px solid #ccc;">El grupo
+              clasifica correctamente las sustancias químicas, interpreta de
+              manera adecuada la compatibilidad química y propone un plan de
+              almacenamiento coherente, técnicamente viable y claramente
+              justificado. La matriz de almacenamiento evidencia criterios
+              seguros de segregación, el esquema de almacenamiento es lógico y
+              comprensible, y el documento presenta excelente redacción técnica,
+              organización y ortografía.</td>
+            <td
+              style="padding: 12px; border: 1px solid #ccc; text-align: center;">
+              4.5 – 5.0</td>
+          </tr>
+          <tr>
+            <td style="padding: 12px; border: 1px solid #ccc;"><strong>Desempeño
+                medio</strong></td>
+            <td style="padding: 12px; border: 1px solid #ccc;">El grupo realiza
+              una clasificación aceptable de las sustancias y un análisis
+              parcial de la compatibilidad química. El plan de almacenamiento es
+              funcional pero presenta vacíos técnicos o inconsistencias menores
+              en la segregación propuesta. La matriz permite interpretar la
+              organización del almacenamiento, aunque la justificación técnica
+              es limitada. El documento presenta algunos errores de redacción u
+              ortografía.</td>
+            <td
+              style="padding: 12px; border: 1px solid #ccc; text-align: center;">
+              3.5 – 4.4</td>
+          </tr>
+          <tr>
+            <td style="padding: 12px; border: 1px solid #ccc;"><strong>Desempeño
+                bajo</strong></td>
+            <td style="padding: 12px; border: 1px solid #ccc;">El grupo presenta
+              dificultades para clasificar las sustancias o interpretar la
+              compatibilidad química. El plan de almacenamiento carece de
+              coherencia técnica o no evidencia criterios seguros de
+              segregación. La matriz y el esquema no permiten comprender la
+              propuesta de almacenamiento y no existe justificación técnica
+              suficiente. El documento presenta errores frecuentes de redacción,
+              organización u ortografía.</td>
+            <td
+              style="padding: 12px; border: 1px solid #ccc; text-align: center;">
+              1.0 – 3.4</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
