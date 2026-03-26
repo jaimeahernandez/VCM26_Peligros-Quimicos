@@ -1,0 +1,76 @@
+<section
+  style="background-color: #f4f7f9; background-image: radial-gradient(#d1d9e6 0.5px, #f4f7f9 0.5px); background-size: 20px 20px; padding: 40px 0;">
+  <div class="container" style="max-width: 1000px; margin: auto;">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <div class="card shadow-lg border-0"
+          style="background: rgba(255, 255, 255, 0.95); border-left: 8px solid #004080; border-radius: 15px; overflow: hidden;">
+          <div class="card-body p-5">
+            <div
+              style="text-align: right; font-size: 12px; color: #6c757d; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px;">
+              Sección 7: Propiedades Físicas | Punto de Inflamación (Flash
+              Point)</div>
+            <div
+              style="font-size: 20px; color: #2c3e50; line-height: 1.8; text-align: justify; margin-bottom: 30px;">
+              Es la temperatura mínima, a presión de una atmósfera (101,3 kPa;
+              ver la definición más adelante), a la que una sustancia
+              combustible, en contacto con el aire, desprende la cantidad
+              suficiente de vapor para que se produzca la inflamación de la
+              mezcla vapor - aire mediante el aporte a la misma de una energía
+              de activación externa, ya sea de origen térmico (llama), mecánico
+              (fricción), eléctrico (chispa) o químico (reacción exotérmica). La
+              temperatura o punto de inflamación es un parámetro definido que
+              tiene especial interés para líquidos inflamables. El punto de
+              inflamación indica si un producto arde con facilidad o no a
+              temperatura ambiente, al entrar en contacto con una fuente o foco
+              de ignición. Cuanto menor sea este valor para un líquido, mayor es
+              el peligro de incendio.</div>
+            <div
+              style="background-color: #e6f4ea; border-left: 5px solid #28a745; border-radius: 10px; padding: 25px; margin: 30px 0;">
+              <h5
+                style="color: #1e7e34; font-weight: bold; margin-bottom: 15px;">
+                Ejemplo de liquidos con punto de inflamación bajo:</h5>
+              <p
+                style="font-size: 18px; color: #1e7e34; line-height: 1.6; text-align: justify;">
+                "Un ejemplo de una sustancia con un punto de inflamación bajo
+                que podría afectar la salud de un trabajador es el éter
+                dietílico (C2H5OC2H5), también conocido como éter etílico. El
+                éter dietílico es un líquido altamente inflamable con un punto
+                de inflamación de alrededor de -45 grados Celsius. Debido a su
+                bajo punto de inflamación, el éter dietílico puede encenderse
+                fácilmente en presencia de una fuente de ignición, como chispas,
+                llamas abiertas o calor. Esto puede aumentar el riesgo de
+                incendios y explosiones en el lugar de trabajo si no se maneja
+                correctamente. La inhalación de estos vapores puede causar
+                irritación en las vías respiratorias, mareos, somnolencia y, en
+                casos graves, pérdida del conocimiento."</p>
+            </div>
+            <div style="text-align: center; margin-top: 30px;">
+              <div
+                style="background: white; padding: 15px; border: 1px solid #e1e4e8; border-radius: 10px; display: inline-block; max-width: 500px;">
+                <img class="img-fluid"
+                  style="max-width: 100%; height: auto; border-radius: 5px;"
+                  src="https://www.creativesafetysupply.com/content/images/qa/flashpoint.jpg"
+                  alt="Punto de Inflamación">
+                <p
+                  style="margin-top: 15px; color: #004080; font-weight: bold; font-size: 15px; margin-bottom: 0;">
+                  Figura: Representación del riesgo por inflamabilidad</p>
+              </div>
+            </div>
+          </div>
+          <div
+            style="background: #f8f9fa; color: #495057; padding: 15px 25px; text-align: left; font-size: 13px; border-top: 1px solid #dee2e6;">
+            <strong>Nota Técnica:</strong> El punto de inflamación es el
+            criterio principal para clasificar líquidos como "Inflamables" o
+            "Combustibles" según el SGA.</div>
+          <div
+            style="background: #004080; color: white; padding: 20px 25px; text-align: right; font-size: 16px; border-top: 2px solid #003366;">
+            <span style="opacity: 0.8;">Continuar tema →</span> <a
+              style="color: #ffc107; font-weight: bold; text-decoration: underline; margin-left: 10px;"
+              href="https://aulasvirtuales.unicamacho.edu.co/mod/book/view.php?id=1448056&amp;chapterid=274363">SECCION
+              8: Temperatura de Autoignición</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
