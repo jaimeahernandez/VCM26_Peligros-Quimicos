@@ -1,0 +1,85 @@
+<section
+  style="background-color: #f4f7f9; background-image: radial-gradient(#d1d9e6 0.5px, #f4f7f9 0.5px); background-size: 20px 20px; padding: 40px 0;">
+  <div class="container" style="max-width: 1000px; margin: auto;">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <div class="card shadow-lg border-0"
+          style="background: rgba(255, 255, 255, 0.95); border-left: 8px solid #004080; border-radius: 15px; overflow: hidden;">
+          <div class="card-body p-5">
+            <div
+              style="text-align: right; font-size: 12px; color: #6c757d; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px;">
+              Sección 4: Propiedades Físicas | Punto de Fusión</div>
+            <div
+              style="font-size: 20px; color: #2c3e50; line-height: 1.8; text-align: justify; margin-bottom: 30px;">
+              El punto de fusión de una sustancia química es la temperatura a la
+              cual cambia de estado sólido a líquido. Si bien el punto de fusión
+              en sí mismo no indica directamente peligrosidad, puede tener
+              implicaciones importantes para la seguridad y salud en el trabajo
+              dependiendo de la naturaleza de la sustancia y el entorno laboral.
+              Si una sustancia tiene un punto de fusión bajo, puede fundirse
+              fácilmente a temperaturas ambientales normales o en caso de
+              fluctuaciones de temperatura. Esto puede requerir condiciones de
+              almacenamiento especiales para evitar derrames o fugas, lo que
+              podría causar contaminación o riesgos de seguridad y salud.
+              Algunas sustancias se descomponen al alcanzar el punto de fusión o
+              antes de alcanzarlo; en este último caso, es importante conocer
+              cuál es esa temperatura y, en ambos, cuáles son los productos
+              resultantes de la descomposición.</div>
+            <div
+              style="background-color: #f1f3f5; border-left: 5px solid #6c757d; border-radius: 10px; padding: 25px; margin: 30px 0;">
+              <h5
+                style="color: #343a40; font-weight: bold; margin-bottom: 15px;">
+                Ejemplo:</h5>
+              <p
+                style="font-size: 18px; color: #495057; line-height: 1.6; text-align: justify;">
+                "Un ejemplo de una sustancia con un punto de fusión bajo que
+                podría afectar la salud de un trabajador es el cloruro de
+                metileno (diclorometano). El cloruro de metileno es un solvente
+                orgánico comúnmente utilizado en procesos industriales, como la
+                fabricación de productos químicos, la producción de pinturas y
+                recubrimientos, y la limpieza de superficies. El punto de fusión
+                del cloruro de metileno es de aproximadamente -95 grados
+                Celsius, lo que significa que es líquido a temperatura ambiente.
+                Esto lo hace particularmente peligroso, ya que puede evaporarse
+                fácilmente y ser inhalado por los trabajadores durante el manejo
+                y la manipulación. La exposición aguda a altas concentraciones
+                de cloruro de metileno puede causar efectos tóxicos graves,
+                incluyendo mareos, dolores de cabeza, náuseas, vómitos, pérdida
+                del conocimiento e incluso la muerte por inhalación de altas
+                concentraciones. La exposición repetida o prolongada al cloruro
+                de metileno puede causar daño hepático, renal y neurológico.
+                Además, estudios han sugerido que puede estar asociado con un
+                mayor riesgo de cáncer, especialmente cáncer de hígado y pulmón.
+                El cloruro de metileno es altamente inflamable y puede formar
+                mezclas explosivas con el aire. La presencia de fuentes de
+                ignición en el lugar de trabajo puede aumentar el riesgo de
+                incendios y explosiones."</p>
+            </div>
+            <div style="text-align: center; margin-top: 10px;">
+              <div
+                style="background: white; padding: 15px; border: 1px solid #e1e4e8; border-radius: 10px; display: inline-block; max-width: 500px;">
+                <img class="img-fluid"
+                  src="https://aulasvirtuales.unicamacho.edu.co/draftfile.php/766258/user/draft/8180690/Gemini_Generated_Image_x8z01cx8z01cx8z0.png"
+                  alt="I" width="1408" height="768"><br>
+                <p
+                  style="margin-top: 5px; color: #004080; font-weight: bold; font-size: 15px; margin-bottom: 0;">
+                  Figura: Cambio de Estado de una sustancia por fusión</p>
+              </div>
+            </div>
+          </div>
+          <div
+            style="background: #f8f9fa; color: #495057; padding: 15px 25px; text-align: left; font-size: 13px; border-top: 1px solid #dee2e6;">
+            <strong>Nota Técnica:</strong> La temperatura de descomposición es
+            un parámetro crítico de seguridad que suele ser cercano al punto de
+            fusión en sustancias inestables.</div>
+          <div
+            style="background: #004080; color: white; padding: 20px 25px; text-align: right; font-size: 16px; border-top: 2px solid #003366;">
+            <span style="opacity: 0.8;">Continuar tema →</span> <a
+              style="color: #ffc107; font-weight: bold; text-decoration: underline; margin-left: 10px;"
+              href="https://aulasvirtuales.unicamacho.edu.co/mod/book/view.php?id=1448056&amp;chapterid=274361">SECCION
+              5: Punto de Ebullición</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
