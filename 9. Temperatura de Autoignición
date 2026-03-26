@@ -1,0 +1,76 @@
+<section
+  style="background-color: #f4f7f9; background-image: radial-gradient(#d1d9e6 0.5px, #f4f7f9 0.5px); background-size: 20px 20px; padding: 40px 0;">
+  <div class="container" style="max-width: 1000px; margin: auto;">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <div class="card shadow-lg border-0"
+          style="background: rgba(255, 255, 255, 0.95); border-left: 8px solid #004080; border-radius: 15px; overflow: hidden;">
+          <div class="card-body p-5">
+            <div
+              style="text-align: right; font-size: 12px; color: #6c757d; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 5px;">
+              Sección 8: Seguridad Química | Temperatura de Autoignición</div>
+            <div
+              style="font-size: 20px; color: #2c3e50; line-height: 1.8; text-align: justify; margin-bottom: 30px;">
+              Es la temperatura mínima, a presión de una atmósfera (101,3 kPa),
+              a la que una sustancia, en contacto con el aire (en realidad con
+              el oxígeno), arde espontáneamente sin necesidad de ningún aporte
+              energético adicional a la mezcla. Se diferencia de la temperatura
+              de inflamación en que no necesita foco de ignición para generarse
+              la combustión. La mayoría de líquidos combustibles tienen
+              temperaturas de autoinflamación entre 450-600 ºC. Por ello, la
+              exposición de tales sustancias a un incendio, que genera
+              temperaturas de llama en torno a los 1000 ºC, puede ser
+              determinante, ya que si toda la masa de la sustancia expuesta al
+              fuego es calentada por encima de la temperatura de autoignición,
+              se producirá la autocombustión inminente, generando explosión del
+              recipiente contenedor.</div>
+            <div
+              style="background-color: #e8f5e9; border-left: 5px solid #2e7d32; border-radius: 10px; padding: 25px; margin: 30px 0;">
+              <h5
+                style="color: #1b5e20; font-weight: bold; margin-bottom: 15px;">
+                Ejemplo de líquidos con punto de autoignición bajo:</h5>
+              <p
+                style="font-size: 18px; color: #1b5e20; line-height: 1.6; text-align: justify;">
+                "Un ejemplo de una sustancia con una temperatura de autoignición
+                baja que podría representar un riesgo para la salud de un
+                trabajador es el acetato de etilo (CH3COOC2H5). El acetato de
+                etilo es un líquido inflamable con una temperatura de
+                autoignición de alrededor de 426 grados Celsius (799 grados
+                Fahrenheit). Debido a su temperatura de autoignición
+                relativamente baja, el acetato de etilo puede encenderse
+                espontáneamente si se expone a temperaturas elevadas, como las
+                generadas por equipos mecánicos, motores u otras fuentes de
+                calor en el lugar de trabajo. Esto puede aumentar
+                significativamente el riesgo de incendio y lesiones en el lugar
+                de trabajo."</p>
+            </div>
+            <div style="text-align: center; margin-top: 5px;">
+              <div
+                style="background: white; padding: 15px; border: 1px solid #e1e4e8; border-radius: 10px; display: inline-block; max-width: 500px;">
+                <img class="img-fluid"
+                  style="max-width: 100%; height: auto; border-radius: 5px;"
+                  src="https://static.vecteezy.com/system/resources/previews/023/404/103/original/canister-with-fuel-container-with-oil-flammable-object-danger-and-fire-dangerous-flames-flat-cartoon-icon-illustration-isolated-on-white-background-red-gas-tank-vector.jpg"
+                  alt="Temperatura de Autoignición">
+                <p
+                  style="margin-top: 15px; color: #004080; font-weight: bold; font-size: 15px; margin-bottom: 0;">
+                  Figura: Riesgo de autocombustión en recipientes de combustible
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            style="background: #f8f9fa; color: #495057; padding: 15px 25px; text-align: left; font-size: 13px; border-top: 1px solid #dee2e6;">
+            <strong>Importante:</strong> La temperatura de autoignición es clave
+            para el diseño de instalaciones eléctricas a prueba de explosión
+            (Class/Div).</div>
+          <div
+            style="background: #004080; color: white; padding: 20px 25px; text-align: right; font-size: 16px; border-top: 2px solid #003366;">
+            <span style="opacity: 0.8;">Continuar con el contenido →</span> <a
+              style="color: #ffc107; font-weight: bold; text-decoration: underline; margin-left: 10px;"
+              href="https://aulasvirtuales.unicamacho.edu.co/mod/book/view.php?id=1448056&amp;chapterid=274364">SECCION
+              9: Límites de Inflamabilidad</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
