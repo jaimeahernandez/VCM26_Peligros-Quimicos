@@ -1,0 +1,74 @@
+<section
+  style="background-color: #f4f7f9; background-image: radial-gradient(#d1d9e6 0.5px, #f4f7f9 0.5px); background-size: 20px 20px; padding: 40px 0;">
+  <div class="container" style="max-width: 1000px; margin: auto;">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <div class="card shadow-lg border-0"
+          style="background: rgba(255, 255, 255, 0.95); border-left: 8px solid #004080; border-radius: 15px; overflow: hidden;">
+          <div class="card-body p-5">
+            <div
+              style="text-align: right; font-size: 12px; color: #6c757d; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px;">
+              SECCION 10: Solubilidad en Agua</div>
+            <div
+              style="font-size: 20px; color: #2c3e50; line-height: 1.8; text-align: justify; margin-bottom: 30px;">
+              Facultad o tendencia de una sustancia a mezclarse uniformemente
+              con el agua. Generalmente, se expresa en g/100ml de agua a 20 ºC.
+              Cuando la solubilidad no se conoce con exactitud, puede indicarse
+              con anotaciones como: ninguna, poca, moderada, buena, muy buena.
+              La solubilidad en agua es determinante en la toxicidad de una
+              sustancia, tanto por lo que afecta a la vía de entrada como a su
+              distribución en el organismo. También es determinante en la
+              ecotoxicidad por cuanto afecta a la gestión de derrames y
+              residuos.</div>
+            <div
+              style="background-color: #e3f2fd; border-left: 5px solid #004080; border-radius: 10px; padding: 25px; margin: 30px 0;">
+              <h5
+                style="color: #0d47a1; font-weight: bold; margin-bottom: 5px;">
+                Ejemplo de agentes solubles en agua:</h5>
+              <p
+                style="font-size: 18px; color: #1565c0; line-height: 1.6; text-align: justify;">
+                "Un ejemplo de una sustancia soluble en agua que representa un
+                riesgo de absorción a través de la piel es el metanol (CH3OH).
+                El metanol es un alcohol líquido incoloro con una alta
+                solubilidad en agua. Se utiliza en una variedad de aplicaciones
+                industriales, como disolvente, antifreezes, y en la producción
+                de productos químicos y combustibles. El metanol se disuelve
+                fácilmente en agua y puede penetrar en la piel cuando entra en
+                contacto con ella. Esto puede aumentar el riesgo de absorción
+                dérmica de la sustancia y su posterior entrada en la circulación
+                sistémica. El metanol es tóxico y puede causar una variedad de
+                efectos adversos en el cuerpo humano, incluyendo daño al sistema
+                nervioso central, el hígado, los riñones y los ojos. Se debe
+                tener en cuenta que, cuando una persona suda, la humedad en la
+                piel aumenta, lo que puede facilitar la absorción de sustancias
+                a través de la piel."</p>
+            </div>
+            <div style="text-align: center; margin-top: 5px;">
+              <div
+                style="background: white; padding: 15px; border: 1px solid #e1e4e8; border-radius: 10px; display: inline-block; max-width: 500px;">
+                <img class="img-fluid"
+                  style="max-width: 100%; height: auto; border-radius: 5px;"
+                  src="https://s1.significados.com/foto/solubilidad-og.jpg"
+                  alt="Solubilidad en Agua">
+                <p
+                  style="margin-top: 15px; color: #004080; font-weight: bold; font-size: 15px; margin-bottom: 0;">
+                  Figura: Proceso de disolución y solubilidad</p>
+              </div>
+            </div>
+          </div>
+          <div
+            style="background: #f8f9fa; color: #495057; padding: 15px 25px; text-align: left; font-size: 13px; border-top: 1px solid #dee2e6;">
+            <strong>Nota de Higiene:</strong> Las sustancias hidrosolubles
+            suelen eliminarse más fácilmente por vía renal, pero tienen mayor
+            facilidad de entrada por mucosas.</div>
+          <div
+            style="background: #004080; color: white; padding: 20px 25px; text-align: right; font-size: 16px; border-top: 2px solid #003366;">
+            <span style="opacity: 0.8;">Siguiente propiedad →</span> <a
+              style="color: #ffc107; font-weight: bold; text-decoration: underline; margin-left: 10px;"
+              href="https://aulasvirtuales.unicamacho.edu.co/mod/book/view.php?id=1448056&amp;chapterid=274366">SECCION
+              11: Densidad Relativa</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
