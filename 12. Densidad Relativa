@@ -1,0 +1,86 @@
+<section
+  style="background-color: #f4f7f9; background-image: radial-gradient(#d1d9e6 0.5px, #f4f7f9 0.5px); background-size: 20px 20px; padding: 40px 0;">
+  <div class="container" style="max-width: 1000px; margin: auto;">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <div class="card shadow-lg border-0"
+          style="background: rgba(255, 255, 255, 0.95); border-left: 8px solid #004080; border-radius: 15px; overflow: hidden;">
+          <div class="card-body p-5">
+            <div
+              style="text-align: right; font-size: 12px; color: #6c757d; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px;">
+              SECCION 11: Densidad Relativa</div>
+            <div
+              style="font-size: 20px; color: #2c3e50; line-height: 1.8; text-align: justify; margin-bottom: 30px;">
+              Expresa el número de veces que un producto es más pesado que el
+              agua. En realidad, este valor es equivalente a la densidad
+              absoluta expresada en g/ml, ya que, en estas unidades, la densidad
+              del agua a 4 ºC es 1. Si se trata de sustancias no solubles en
+              agua (no miscibles) indica si flotan o se hunden en ésta. La
+              densidad relativa, también conocida como gravedad específica, es
+              una medida de cuánto más denso o ligero es un líquido en
+              comparación con el agua. Este parámetro es importante en la
+              elección de estrategias para la extinción de incendios, ya que las
+              sustancias que tienen un valor de densidad relativa inferior a la
+              unidad, flotan en el agua, quedando expuestas al oxígeno del aire.
+              En caso de incendio, el agua puede contribuir a su propagación
+              como ocurre con muchos compuestos orgánicos volátiles. Si su
+              densidad relativa es superior a la unidad, el agua puede ser un
+              buen agente extintor. La densidad relativa D(4), indica la
+              densidad absoluta del producto problema (sólido o líquido) a
+              temperatura ambiente (20º), respecto a la densidad absoluta del
+              agua a 4 ºC.</div>
+            <div
+              style="background-color: #e7f1ff; border-left: 5px solid #004080; border-radius: 10px; padding: 25px; margin: 30px 0;">
+              <h5
+                style="color: #084298; font-weight: bold; margin-bottom: 5px;">
+                Ejemplo de densidad relativa:</h5>
+              <p
+                style="font-size: 18px; color: #055160; line-height: 1.6; text-align: justify;">
+                "Un ejemplo de una sustancia con densidad relativa de
+                importancia en seguridad y salud es el cloroformo (CHCl3). El
+                cloroformo es un líquido volátil e incoloro con un olor dulce
+                característico. Su densidad relativa es aproximadamente 1.48 a
+                20 °C. Aunque el cloroformo es más denso que el agua, es volátil
+                y puede evaporarse en la atmósfera. Sin embargo, si se derrama
+                en el agua, debido a su densidad relativa superior a 1, tiende a
+                hundirse y puede contaminar los cuerpos de agua subterráneos.
+                Por lo tanto, en entornos donde se maneje cloroformo, es
+                importante tomar medidas para prevenir derrames y filtraciones
+                que puedan contaminar el agua subterránea. Esto puede incluir el
+                almacenamiento adecuado en contenedores seguros y la
+                implementación de prácticas de manipulación seguras para
+                minimizar el riesgo de derrames. En la siguiente imagen, puede
+                observar la diferencia entre liquidos por su densidad relativa.
+                Las capas que se encuentran mas abajo son las más densas (por su
+                mayor 'peso') y las que se encuentran mas arriba son las menos
+                densas"</p>
+            </div>
+            <div style="text-align: center; margin-top: 10px;">
+              <div
+                style="background: white; padding: 15px; border: 1px solid #e1e4e8; border-radius: 10px; display: inline-block; max-width: 500px;">
+                <img class="img-fluid"
+                  style="max-width: 100%; height: auto; border-radius: 5px;"
+                  src="https://www.shutterstock.com/image-vector/liquids-density-separate-fluids-layers-600nw-1924263200.jpg"
+                  alt="Densidad Relativa">
+                <p
+                  style="margin-top: 15px; color: #004080; font-weight: bold; font-size: 15px; margin-bottom: 0;">
+                  Figura: Estratificación de líquidos por densidad</p>
+              </div>
+            </div>
+          </div>
+          <div
+            style="background: #f8f9fa; color: #495057; padding: 15px 25px; text-align: left; font-size: 13px; border-top: 1px solid #dee2e6;">
+            <strong>Nota de Emergencia:</strong> Para hidrocarburos con densidad
+            &lt; 1, el uso de agua a chorro puede causar "slop-over"
+            (rebosamiento por ebullición).</div>
+          <div
+            style="background: #004080; color: white; padding: 20px 25px; text-align: right; font-size: 16px; border-top: 2px solid #003366;">
+            <span style="opacity: 0.8;">Siguiente propiedad →</span> <a
+              style="color: #ffc107; font-weight: bold; text-decoration: underline; margin-left: 10px;"
+              href="https://aulasvirtuales.unicamacho.edu.co/mod/book/view.php?id=1448056&amp;chapterid=274367">SECCION
+              12: Densidad de Vapor</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
