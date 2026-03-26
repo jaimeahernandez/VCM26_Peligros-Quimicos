@@ -1,0 +1,96 @@
+<section
+  style="background-color: #f4f7f9; background-image: radial-gradient(#d1d9e6 0.5px, #f4f7f9 0.5px); background-size: 20px 20px; padding: 40px 0;">
+  <div class="container" style="max-width: 1000px; margin: auto;">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <div class="card shadow-lg border-0"
+          style="background: rgba(255, 255, 255, 0.95); border-left: 8px solid #004080; border-radius: 15px; overflow: hidden;">
+          <div class="card-body p-5">
+            <div
+              style="text-align: right; font-size: 12px; color: #6c757d; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 20px;">
+              Sección 3: Potencial de Hidrógeno (pH) y Corrosividad</div>
+            <div
+              style="font-size: 20px; color: #2c3e50; line-height: 1.8; text-align: justify; margin-bottom: 30px;">
+              El pH es un valor numérico que representa la acidez o alcalinidad
+              de una solución acuosa. Los productos ácidos tienen un pH inferior
+              a 7, los alcalinos tienen un pH superior a 7 y los neutros igual a
+              7. Los productos, o su disolución en agua, cuyo pH sea extremo
+              (&lt; 3 o &gt; 10) están asociados a efectos irritativos sobre
+              tejidos humanos, básicamente piel y mucosas (inflamación cutánea
+              importante) o corrosivos (destrucción de los tejidos en todo el
+              espesor de la piel) y soportes materiales. El intervalo de pH 4 a
+              9 se considera, en general, exento de este tipo de peligro. Desde
+              el punto de vista de la seguridad, es sabida la importancia de las
+              reacciones de neutralización ante derrames de sustancias de
+              valores extremos del pH. No obstante, ello tiene que realizarse
+              con sustancias de carácter débil, ya que, de lo contrario, la
+              reactividad asociada a un factor de exotermia constituiría un
+              nuevo factor de riesgo.</div>
+            <div
+              style="background-color: #fff9e6; border: 1px solid #ffeeba; border-radius: 10px; padding: 25px; margin-bottom: 20px;">
+              <h5 style="color: #856404; font-weight: bold;">Ejemplo de acidos
+                corrosivos:</h5>
+              <p
+                style="font-size: 18px; color: #856404; line-height: 1.6; text-align: justify;">
+                "El ácido sulfúrico (H2SO4) es un ejemplo de una sustancia
+                altamente ácida. Su pH típicamente oscila entre 0 y 1 cuando
+                está en su forma concentrada. El ácido sulfúrico concentrado es
+                altamente corrosivo y puede causar quemaduras graves en la piel,
+                los ojos y las vías respiratorias en caso de contacto directo.
+                Por lo tanto, el manejo seguro de este ácido es crucial para
+                evitar lesiones. Puede reaccionar violentamente con muchos
+                materiales, incluidos metales, causando liberación de gases
+                peligrosos o incluso generando calor y causando incendios. La
+                reacción exotérmica con el agua puede generar calor y vapor, lo
+                que aumenta el riesgo de lesiones por quemaduras. Los acidos
+                corrosivos tienen el pH opuesto a las bases corrosivas o
+                alcalinas"</p>
+            </div>
+            <div
+              style="background-color: #fff9e6; border: 1px solid #ffeeba; border-radius: 10px; padding: 25px; margin-bottom: 30px;">
+              <h5 style="color: #856404; font-weight: bold;">Ejemplo de bases
+                corrosivas:</h5>
+              <p
+                style="font-size: 18px; color: #856404; line-height: 1.6; text-align: justify;">
+                "La soda cáustica, también conocida como hidróxido de sodio
+                (NaOH), es un ejemplo de una sustancia altamente alcalina. Su pH
+                típicamente oscila entre 13 y 14 cuando está en su forma
+                concentrada. La soda cáustica concentrada es altamente corrosiva
+                y puede causar quemaduras graves en la piel, los ojos y las vías
+                respiratorias en caso de contacto directo. Puede reaccionar de
+                manera peligrosa con muchos materiales, incluidos ácidos,
+                metales y materiales orgánicos, lo que puede generar calor,
+                gases tóxicos o incluso causar explosiones. Su reacción
+                exotérmica con el agua también puede producir calor y vapor,
+                aumentando el riesgo de lesiones. Las bases corrosivas o
+                alcalinas tienen el pH opuesto a los acidos corrosivos"</p>
+            </div>
+            <div style="text-align: center; margin-top: 10px;">
+              <div
+                style="background: white; padding: 10px; border: 1px solid #e1e4e8; border-radius: 10px; display: inline-block; max-width: 500px;">
+                <img class="img-fluid"
+                  style="max-width: 100%; height: auto; border-radius: 5px;"
+                  src="https://www.hidronor.cl/hidronor/wp-content/uploads/2017/12/Pipetas-Corrosivo.jpg"
+                  alt="Efecto Corrosivo">
+                <p
+                  style="margin-top: 15px; color: #004080; font-weight: bold; font-size: 15px; margin-bottom: 0;">
+                  Figura 3: Sustancias corrosivas y su manejo</p>
+              </div>
+            </div>
+          </div>
+          <div
+            style="background: #f8f9fa; color: #495057; padding: 15px 25px; text-align: left; font-size: 13px; border-top: 1px solid #dee2e6;">
+            <strong>Nota Informativa:</strong> El pH extremo afecta tanto la
+            integridad biológica como la resistencia mecánica de los soportes y
+            contenedores.</div>
+          <div
+            style="background: #004080; color: white; padding: 20px 25px; text-align: right; font-size: 16px; border-top: 2px solid #003366;">
+            <span style="opacity: 0.8;">Continuar con el contenido →</span> <a
+              style="color: #ffc107; font-weight: bold; text-decoration: underline; margin-left: 10px;"
+              href="https://aulasvirtuales.unicamacho.edu.co/mod/book/view.php?id=1448056&amp;chapterid=274360">SECCIÓN
+              4: Punto de fusión</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
