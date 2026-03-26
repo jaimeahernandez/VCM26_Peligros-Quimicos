@@ -1,0 +1,85 @@
+<section
+  style="background-color: #f4f7f9; background-image: radial-gradient(#d1d9e6 0.5px, #f4f7f9 0.5px); background-size: 20px 20px; padding: 40px 0;">
+  <div class="container" style="max-width: 1000px; margin: auto;">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <div class="card shadow-lg border-0"
+          style="background: rgba(255, 255, 255, 0.95); border-left: 8px solid #004080; border-radius: 15px; overflow: hidden;">
+          <div class="card-body p-5">
+            <div
+              style="text-align: right; font-size: 12px; color: #6c757d; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px;">
+              SECCION 9: Límites de Inflamabilidad (LII - LSI)</div>
+            <div
+              style="font-size: 20px; color: #2c3e50; line-height: 1.8; text-align: justify; margin-bottom: 30px;">
+              Delimitan los porcentajes de concentración mínimos (límite
+              inferior) y máximos (límite superior) en aire de un gas o vapor
+              inflamable (% de volumen) entre los que la sustancia puede arder o
+              explotar en contacto con un punto de ignición. Por debajo o por
+              encima de estos límites no tiene lugar la ignición de la mezcla
+              vapor - aire (oxígeno). En caso de no conocer uno de los límites
+              de inflamabilidad, se suele indicar con un interrogante. En todas
+              aquellas operaciones en las que se liberen vapores inflamables de
+              un producto deben tenerse en cuenta cuál es su límite inferior de
+              inflamabilidad, adecuando la ventilación o la utilización de
+              atmósferas inertes por debajo de este límite. Cuando ello no es
+              posible, se debe recurrir a la utilización de instalaciones
+              antideflagrantes. El límite inferior de inflamabilidad (LII) es la
+              concentración más baja a la que una mezcla de vapor y aire es
+              inflamable, mientras que el límite superior de inflamabilidad
+              (LSI) es la concentración más alta a la que una mezcla es
+              inflamable.</div>
+            <div
+              style="background-color: #343a40; border-left: 5px solid #004080; border-radius: 10px; padding: 25px; margin: 30px 0; color: #f8f9fa;">
+              <h5
+                style="color: #ffc107; font-weight: bold; margin-bottom: 15px;">
+                Ejemplo de límites de inflamabilidad:</h5>
+              <p
+                style="font-size: 18px; line-height: 1.6; text-align: justify; color: #e9ecef;">
+                "Un ejemplo común de una sustancia con límites de inflamabilidad
+                relevantes en la industria es el propano (C3H8), que se utiliza
+                ampliamente como combustible en aplicaciones industriales,
+                comerciales y domésticas. Los límites de inflamabilidad del
+                propano en el aire son aproximadamente del 2.1% al 9.5% en
+                volumen. Esto significa que las concentraciones de propano en el
+                aire por debajo del 2.1% o por encima del 9.5% no serán
+                inflamables. Sin embargo, las concentraciones de propano entre
+                el 2.1% y el 9.5% tienen el potencial de ser inflamables y, si
+                se presenta una fuente de ignición, pueden encenderse y sostener
+                una combustión. El propano se encuentra comúnmente en tanques de
+                almacenamiento y cilindros para uso industrial y comercial, como
+                en sistemas de calefacción, cocinas, generadores de energía y
+                aplicaciones de corte y soldadura. Debido a su inflamabilidad,
+                es importante manejar el propano con precaución y seguir las
+                medidas de seguridad adecuadas, como evitar fuentes de ignición,
+                mantener una ventilación adecuada y utilizar equipos de
+                protección personal cuando sea necesario."</p>
+            </div>
+            <div style="text-align: center; margin-top: 30px;">
+              <div
+                style="background: white; padding: 15px; border: 1px solid #e1e4e8; border-radius: 10px; display: inline-block; max-width: 500px;">
+                <img class="img-fluid"
+                  style="max-width: 100%; height: auto; border-radius: 5px;"
+                  src="https://www.contraincendioonline.com/images/curso04.jpg"
+                  alt="Límites de Inflamabilidad">
+                <p
+                  style="margin-top: 15px; color: #004080; font-weight: bold; font-size: 15px; margin-bottom: 0;">
+                  Figura: Rango de inflamabilidad y mezcla explosiva</p>
+              </div>
+            </div>
+          </div>
+          <div
+            style="background: #f8f9fa; color: #495057; padding: 15px 25px; text-align: left; font-size: 13px; border-top: 1px solid #dee2e6;">
+            <strong>Nota de Seguridad:</strong> Trabajar cerca del LII (Límite
+            Inferior de Inflamabilidad) requiere monitoreo constante con
+            explosímetros.</div>
+          <div
+            style="background: #004080; color: white; padding: 20px 25px; text-align: right; font-size: 16px; border-top: 2px solid #003366;">
+            <span style="opacity: 0.8;">Continuar con el curso →</span> <a
+              style="color: #ffc107; font-weight: bold; text-decoration: underline; margin-left: 10px;"
+              href="https://aulasvirtuales.unicamacho.edu.co/mod/book/view.php?id=1448056&amp;chapterid=274365">SECCION
+              10: Solubilidad en agua</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
