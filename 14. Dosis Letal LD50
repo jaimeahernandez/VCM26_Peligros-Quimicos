@@ -1,0 +1,84 @@
+<section
+  style="background-color: #f4f7f9; background-image: radial-gradient(#d1d9e6 0.5px, #f4f7f9 0.5px); background-size: 20px 20px; padding: 40px 0;">
+  <div class="container" style="max-width: 1000px; margin: auto;">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <div class="card shadow-lg border-0"
+          style="background: rgba(255, 255, 255, 0.95); border-left: 8px solid #004080; border-radius: 15px; overflow: hidden;">
+          <div class="card-body p-5">
+            <div
+              style="text-align: right; font-size: 12px; color: #6c757d; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px;">
+              SECCION 13: Dosis Letal 50 (DL50)</div>
+            <div
+              style="font-size: 20px; color: #2c3e50; line-height: 1.8; text-align: justify; margin-bottom: 30px;">
+              La Dosis Letal 50 (DL50) es una medida de la toxicidad de una
+              sustancia que se utiliza para determinar la cantidad de la
+              sustancia que causa la muerte en el 50% de un grupo de animales de
+              prueba cuando se administra por vía oral, dérmica o inhalatoria
+              durante un período de tiempo específico. La DL50 se expresa
+              típicamente en términos de miligramos de sustancia por kilogramo
+              de peso corporal del animal (mg/kg). Por ejemplo, si la DL50 de
+              una sustancia es de 100 mg/kg, significa que la dosis que causa la
+              muerte en el 50% de los animales de prueba es de 100 miligramos
+              por cada kilogramo de peso corporal. Es importante tener en cuenta
+              que la DL50 se determina mediante pruebas en animales de
+              laboratorio y que los resultados pueden variar entre diferentes
+              especies animales. Además, la DL50 no proporciona información
+              sobre la toxicidad de una sustancia en los seres humanos ni sobre
+              los efectos no letales que puede tener en dosis más bajas. La LD50
+              es solo una de las muchas consideraciones que se deben tener en
+              cuenta al evaluar los riesgos para la salud asociados con la
+              exposición a sustancias químicas. Otros factores, como la ruta de
+              exposición, la duración de la exposición y la susceptibilidad
+              individual, también deben ser considerados.</div>
+            <div
+              style="background-color: #e7f1ff; border-left: 5px solid #004080; border-radius: 10px; padding: 25px; margin: 30px 0;">
+              <h5
+                style="color: #084298; font-weight: bold; margin-bottom: 5px;">
+                Ejemplo de dosis letal (HCN):</h5>
+              <p
+                style="font-size: 18px; color: #055160; line-height: 1.6; text-align: justify;">
+                "Un ejemplo de una sustancia química con una DL50 que puede
+                afectar la seguridad y la salud de los trabajadores es el
+                cianuro de hidrógeno (HCN). El cianuro de hidrógeno es un
+                compuesto químico extremadamente tóxico que se utiliza en la
+                industria química para la producción de otros compuestos, en la
+                metalurgia para el tratamiento de metales, y en la fabricación
+                de productos farmacéuticos. La DL50 del cianuro de hidrógeno
+                varía dependiendo de la vía de exposición. Por ejemplo, la DL50
+                oral para el cianuro de hidrógeno en ratas es de aproximadamente
+                6 a 9 mg/kg, mientras que, la DL50 dérmica para el cianuro de
+                hidrógeno en conejos es de aproximadamente 11 mg/kg y, la DL50
+                inhalatoria para el cianuro de hidrógeno en ratas es de
+                aproximadamente 100 ppm (partes por millón) durante exposiciones
+                de 30 minutos. Estos valores indican la alta toxicidad del
+                cianuro de hidrógeno y su capacidad para causar efectos adversos
+                graves en dosis relativamente bajas."</p>
+            </div>
+            <div style="text-align: center; margin-top: 5px;">
+              <div
+                style="background: white; padding: 15px; border: 1px solid #e1e4e8; border-radius: 10px; display: inline-block; max-width: 600px;">
+                <img class="img-fluid"
+                  src="https://aulasvirtuales.unicamacho.edu.co/draftfile.php/766258/user/draft/668925362/Gemini_Generated_Image_b4xcb8b4xcb8b4xc.png"
+                  alt="n" width="576" height="407"><br>
+                <p
+                  style="margin-top: 15px; color: #004080; font-weight: bold; font-size: 15px; margin-bottom: 0;">
+                  Figura: Relación Dosis-Respuesta y Escala de Virulencia por
+                  LD50</p>
+              </div>
+            </div>
+          </div>
+          <div
+            style="background: #f8f9fa; color: #495057; padding: 15px 25px; text-align: left; font-size: 13px; border-top: 1px solid #dee2e6;">
+            <strong>Nota de Clase:</strong> Recuerden que a menor valor de DL50,
+            mayor es la toxicidad intrínseca de la sustancia química.</div>
+          <div
+            style="background: #004080; color: white; padding: 20px 25px; text-align: right; font-size: 16px; border-top: 2px solid #003366;">
+            <span style="opacity: 0.8;">Continuar →</span> <a
+              style="color: #ffc107; font-weight: bold; text-decoration: underline; margin-left: 10px;"
+              href="#">Evaluación (Cuestionario)</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
