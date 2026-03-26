@@ -1,0 +1,85 @@
+<section
+  style="background-color: #f4f7f9; background-image: radial-gradient(#d1d9e6 0.5px, #f4f7f9 0.5px); background-size: 20px 20px; padding: 40px 0;">
+  <div class="container" style="max-width: 1000px; margin: auto;">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <div class="card shadow-lg border-0"
+          style="background: rgba(255, 255, 255, 0.95); border-left: 8px solid #004080; border-radius: 15px; overflow: hidden;">
+          <div class="card-body p-5">
+            <div
+              style="text-align: right; font-size: 12px; color: #6c757d; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px;">
+              SECCION 12: Densidad de Vapor (Relativa al Aire)</div>
+            <div
+              style="font-size: 20px; color: #2c3e50; line-height: 1.8; text-align: justify; margin-bottom: 30px;">
+              Este parámetro indica las veces que un gas es más pesado que el
+              aire a la misma temperatura. Dicho valor se emplea para conocer la
+              tendencia de un vapor a elevarse (Dvap &lt; 1) o a acumularse en
+              zonas bajas (Dvap &gt; 1), siendo útil para establecer las
+              condiciones de ventilación necesarias, la ubicación de detectores,
+              etc. La densidad relativa de un gas o vapor es un factor
+              determinante de su comportamiento en la primera etapa de
+              producción de una fuga. Así, por ejemplo, el gas propano generado
+              en un puesto de trabajo de inyección de aerosoles, se difundirá
+              hacia las partes bajas con el consiguiente riesgo de deflagración
+              ante la presencia de un foco de ignición. Al cabo de un tiempo de
+              producirse la fuga, el vapor se mezclará con el aire y tendrá un
+              comportamiento similar al de éste. No obstante, existen otros
+              factores específicos a tener en cuenta, como son las corrientes de
+              aire y las variaciones de temperatura, siendo este último
+              indicador una variable crucial a la hora de favorecer o no dicha
+              tendencia. La mayoría de líquidos y gases inflamables tienen
+              densidades relativas mayores que la del aire.</div>
+            <div
+              style="background-color: #e7f1ff; border-left: 5px solid #004080; border-radius: 10px; padding: 25px; margin: 30px 0;">
+              <h5
+                style="color: #084298; font-weight: bold; margin-bottom: 5px;">
+                Ejemplo de densidad de vapor:</h5>
+              <p
+                style="font-size: 18px; color: #055160; line-height: 1.6; text-align: justify;">
+                "Un ejemplo de una sustancia química con una densidad de vapor
+                más pesada que el aire que puede afectar la seguridad y la salud
+                de los trabajadores es el gas cloro (Cl2). El cloro es un gas
+                amarillo verdoso, altamente reactivo y tóxico que se utiliza en
+                una variedad de aplicaciones industriales, como la producción de
+                productos químicos, la purificación del agua y la fabricación de
+                productos de limpieza. El cloro tiene una densidad de vapor
+                aproximadamente 2.5 veces mayor que la del aire. Esto significa
+                que el cloro es más pesado que el aire y tiende a acumularse en
+                áreas bajas, como zanjas, sótanos y espacios confinados,
+                aumentando el riesgo de exposición de los trabajadores. La
+                inhalación de gas cloro puede causar irritación severa en las
+                vías respiratorias, incluyendo la nariz, la garganta y los
+                pulmones. Esto puede manifestarse como tos, dificultad para
+                respirar, opresión en el pecho y en casos graves, edema
+                pulmonar."</p>
+            </div>
+            <div style="text-align: center; margin-top: 5px;">
+              <div
+                style="background: white; padding: 15px; border: 1px solid #e1e4e8; border-radius: 10px; display: inline-block; max-width: 500px;">
+                <img class="img-fluid"
+                  style="max-width: 100%; height: auto; border-radius: 5px;"
+                  src="https://www.dhs.gov/sites/default/files/images/st/Feature_Article/20_1112_st_feature_article_jack_rabbit_ii_chlorine_release_video_image.jpg"
+                  alt="Densidad de Vapor Cloro">
+                <p
+                  style="margin-top: 15px; color: #004080; font-weight: bold; font-size: 15px; margin-bottom: 0;">
+                  Figura: Comportamiento de gases pesados en fugas industriales
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            style="background: #f8f9fa; color: #495057; padding: 15px 25px; text-align: left; font-size: 13px; border-top: 1px solid #dee2e6;">
+            <strong>Criterio de Seguridad:</strong> Si Dvap &gt; 1, la
+            extracción de aire debe ubicarse a nivel del suelo para evitar
+            atmósferas peligrosas.</div>
+          <div
+            style="background: #004080; color: white; padding: 20px 25px; text-align: right; font-size: 16px; border-top: 2px solid #003366;">
+            <span style="opacity: 0.8;">Finalizar bloque →</span> <a
+              style="color: #ffc107; font-weight: bold; text-decoration: underline; margin-left: 10px;"
+              href="https://aulasvirtuales.unicamacho.edu.co/mod/book/view.php?id=1448056&amp;chapterid=274368">SECCION
+              13: Dosis Letal LD50</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
