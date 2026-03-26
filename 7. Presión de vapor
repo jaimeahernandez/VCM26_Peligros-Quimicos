@@ -1,0 +1,80 @@
+<section
+  style="background-color: #f4f7f9; background-image: radial-gradient(#d1d9e6 0.5px, #f4f7f9 0.5px); background-size: 20px 20px; padding: 40px 0;">
+  <div class="container" style="max-width: 1000px; margin: auto;">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <div class="card shadow-lg border-0"
+          style="background: rgba(255, 255, 255, 0.95); border-left: 8px solid #004080; border-radius: 15px; overflow: hidden;">
+          <div class="card-body p-5">
+            <div
+              style="text-align: right; font-size: 12px; color: #6c757d; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px;">
+              SECCION 6: Presión de Vapor y Volatilidad</div>
+            <div
+              style="font-size: 20px; color: #2c3e50; line-height: 1.8; text-align: justify; margin-bottom: 30px;">
+              Es la presión que ejerce el vapor de una sustancia en equilibrio
+              con su fase líquida (o sólida) a una temperatura concreta. Cuanto
+              más alto es este valor a una determinada temperatura, más volátil
+              es la sustancia. Desde el punto de vista de la toxicidad, este
+              parámetro es más determinante que la propia toxicidad intrínseca,
+              ya que nos indica la facilidad que tiene el producto para pasar al
+              aire y, por tanto, el riesgo de inhalación que presenta a esa
+              temperatura. La presión de vapor debe expresarse siempre a una
+              temperatura determinada (normalmente a 20 ºC). Su valor se da en
+              unidades de presión, por ejemplo: mmHg, kPa, mbar, etc. Por lo
+              tanto, cuanto mayor sea la presión de vapor, mayor será la
+              volatilidad de la sustancia y el riesgo de exposición a vapores
+              peligrosos.</div>
+            <div
+              style="background-color: #f1f3f5; border-left: 5px solid #6c757d; border-radius: 10px; padding: 25px; margin: 30px 0;">
+              <h5
+                style="color: #343a40; font-weight: bold; margin-bottom: 5px;">
+                Ejemplo de presión de vapor:</h5>
+              <p
+                style="font-size: 18px; color: #495057; line-height: 1.6; text-align: justify;">
+                "Un ejemplo de una sustancia química con una alta presión de
+                vapor que puede afectar la seguridad y la salud de los
+                trabajadores es el éter dietílico ((C2H5)2O), también conocido
+                como éter etílico. El éter dietílico es un líquido volátil e
+                incoloro con un olor característico que se utiliza en una
+                variedad de aplicaciones industriales, como disolvente y en la
+                producción de productos químicos y combustibles. El éter
+                dietílico tiene una alta presión de vapor de alrededor de 440
+                mmHg a 20 grados Celsius, lo que significa que es altamente
+                volátil a temperatura ambiente. Esta alta volatilidad puede
+                resultar en la liberación rápida de vapores inflamables y
+                tóxicos en el lugar de trabajo, lo que aumenta el riesgo de
+                incendios, explosiones y exposición a vapores peligrosos. La
+                inhalación de vapores de éter dietílico puede causar mareos,
+                somnolencia, irritación de las vías respiratorias e incluso
+                pérdida del conocimiento."</p>
+            </div>
+            <div style="text-align: center; margin-top: 5px;">
+              <div
+                style="background: white; padding: 5px; border: 1px solid #e1e4e8; border-radius: 10px; display: inline-block; max-width: 650px; width: 100%; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+                <img class="img-fluid"
+                  style="width: 100%; height: auto; border-radius: 5px; display: block;"
+                  src="https://aulasvirtuales.unicamacho.edu.co/draftfile.php/766258/user/draft/830951816/Gemini_Generated_Image_94x78z94x78z94x7.png"
+                  alt="Relación Presión de Vapor e Inflamabilidad">
+                <p
+                  style="margin-top: 15px; color: #004080; font-weight: bold; font-size: 16px; margin-bottom: 0; border-top: 1px solid #eee; padding-top: 10px;">
+                  Figura: Relación entre alta presión de vapor y riesgo de
+                  inflamabilidad</p>
+              </div>
+            </div>
+          </div>
+          <div
+            style="background: #f8f9fa; color: #495057; padding: 15px 25px; text-align: left; font-size: 13px; border-top: 1px solid #dee2e6;">
+            <strong>Nota de Higiene:</strong> Si la Pvap &gt; 100 mmHg a 20°C,
+            la sustancia debe manipularse bajo estricta extracción localizada.
+          </div>
+          <div
+            style="background: #004080; color: white; padding: 20px 25px; text-align: right; font-size: 16px; border-top: 2px solid #003366;">
+            <span style="opacity: 0.8;">Siguiente propiedad →</span> <a
+              style="color: #ffc107; font-weight: bold; text-decoration: underline; margin-left: 10px;"
+              href="https://aulasvirtuales.unicamacho.edu.co/mod/book/view.php?id=1448056&amp;chapterid=274362">SECCION
+              7: Punto de Inflamación</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
