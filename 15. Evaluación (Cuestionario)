@@ -1,0 +1,56 @@
+<section
+  style="background-color: #f4f7f9; background-image: radial-gradient(#d1d9e6 0.5px, #f4f7f9 0.5px); background-size: 20px 20px; padding: 20px 0;">
+  <div class="container" style="max-width: 900px; margin: auto;">
+    <div class="row justify-content-center">
+      <div class="col-12 text-center">
+        <div class="card shadow-lg border-0"
+          style="background: white; border-radius: 20px; overflow: hidden; border-bottom: 8px solid #004080;">
+          <div class="card-body p-5">
+            <div style="font-size: 60px; margin-bottom: 20px;">🎓</div>
+            <h2
+              style="color: #004080; font-weight: 800; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 15px;">
+              Módulo Completado</h2>
+            <div
+              style="width: 60px; height: 4px; background: #ffc107; margin: auto; border-radius: 2px; margin-bottom: 30px;">
+               </div>
+            <p
+              style="font-size: 19px; color: #4a5568; line-height: 1.8; text-align: center; margin-bottom: 40px; padding: 0 20px;">
+              Ha finalizado la revisión técnica de las <strong>13 propiedades
+                físico-químicas</strong> fundamentales. Es momento de validar su
+              capacidad analítica para la gestión de riesgos químicos y la
+              interpretación de criterios de higiene industrial.</p>
+            <div
+              style="background: #f8f9fa; border-radius: 12px; padding: 25px; margin-bottom: 45px; display: inline-block; width: 100%; max-width: 500px; border: 1px solid #e2e8f0;">
+              <div
+                style="display: flex; justify-content: space-between; margin-bottom: 10px; border-bottom: 1px solid #dee2e6; padding-bottom: 8px;">
+                <span
+                  style="color: #6c757d; font-weight: bold;">Actividad:</span>
+                <span style="color: #212529;">Cuestionario Final
+                  Unificado</span></div>
+              <div
+                style="display: flex; justify-content: space-between; margin-bottom: 10px; border-bottom: 1px solid #dee2e6; padding-bottom: 8px;">
+                <span style="color: #6c757d; font-weight: bold;">Temas:</span>
+                <span style="color: #212529;">Propiedades físico-químicas</span>
+              </div>
+              <div style="display: flex; justify-content: space-between;"><span
+                  style="color: #6c757d; font-weight: bold;">Intentos:</span>
+                <span style="color: #004080; font-weight: bold;">Según
+                  configuración Moodle</span></div>
+            </div>
+            <div style="margin-top: 10px;"><a
+                style="display: inline-block; background: #004080; color: white; font-size: 22px; font-weight: bold; padding: 20px 50px; border-radius: 50px; text-decoration: none; box-shadow: 0 10px 20px rgba(0,64,128,0.2); transition: all 0.3s ease; border: 2px solid #003366;"
+                href="https://aulasvirtuales.unicamacho.edu.co/mod/quiz/view.php?id=1448725">
+                🚀 INICIAR EVALUACIÓN </a></div>
+            <p
+              style="margin-top: 25px; color: #6c757d; font-size: 14px; font-style: italic;">
+              Asegúrese de contar con una conexión estable antes de comenzar.
+            </p>
+          </div>
+        </div>
+        <p
+          style="margin-top: 30px; color: #adb5bd; font-size: 12px; text-transform: uppercase; letter-spacing: 2px;">
+          Institución Universitaria Antonio José Camacho | 2026</p>
+      </div>
+    </div>
+  </div>
+</section>
