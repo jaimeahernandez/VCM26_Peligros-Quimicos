@@ -1,0 +1,101 @@
+<section
+  style="background-color: #f8fafc; background-image: linear-gradient(#e2e8f0 1.1px, transparent 1.1px), linear-gradient(90deg, #e2e8f0 1.1px, transparent 1.1px); background-size: 30px 30px; padding: 70px 0; font-family: 'Segoe UI', Helvetica, Arial, sans-serif;">
+  <div class="container" style="max-width: 950px; margin: auto;">
+    <div class="row">
+      <div class="col-12">
+        <div
+          style="background: #ffffff; border-radius: 8px; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04); overflow: hidden; border: 1px solid #e2e8f0;">
+          <div
+            style="background: #002d5a; padding: 40px; text-align: center; border-bottom: 5px solid #ffc107;">
+            <h1
+              style="color: #ffffff; font-size: 28px; font-weight: bold; margin: 0; text-transform: uppercase; letter-spacing: 3px;">
+              INSTRUCCIONES de LA Actividad </h1>
+            <p
+              style="color: #cbd5e0; margin-top: 10px; font-size: 16px; letter-spacing: 1px;">
+              Facultad de Educación a Distancia y Virtual (FEDV) |
+              Administración en SST</p>
+          </div>
+          <div style="padding: 50px;">
+            <div
+              style="border-left: 4px solid #002d5a; padding-left: 25px; margin-bottom: 40px;">
+              <h3
+                style="color: #002d5a; font-weight: bold; margin-bottom: 15px;">
+                Instrucciones para el Estudiante</h3>
+              <p
+                style="font-size: 18px; color: #4a5568; line-height: 1.8; text-align: justify;">
+                El presente módulo ha sido estructurado para proporcionar una
+                comprensión profunda de las variables fisicoquímicas que
+                determinan el Peligro Químico. Para asegurar el éxito en los
+                resultados de aprendizaje, es obligatorio cumplir con la
+                siguiente secuencia didáctica:</p>
+            </div>
+            <div style="margin-bottom: 45px;">
+              <div style="display: flex; margin-bottom: 30px;">
+                <div
+                  style="min-width: 50px; height: 50px; background: #edf2f7; border: 2px solid #002d5a; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; color: #002d5a; font-size: 20px;">
+                  01</div>
+                <div style="margin-left: 20px;">
+                  <h5
+                    style="color: #2d3748; font-weight: bold; margin-bottom: 5px;">
+                    Análisis Documental</h5>
+                  <p style="color: #718096; font-size: 16px;">Debe visualizar,
+                    analizar y comprender detalladamente las <strong>13
+                      secciones técnicas</strong> que componen esta unidad,
+                    desde las propiedades físicas hasta los indicadores
+                    toxicológicos.</p>
+                </div>
+              </div>
+              <div style="display: flex; margin-bottom: 30px;">
+                <div
+                  style="min-width: 50px; height: 50px; background: #edf2f7; border: 2px solid #002d5a; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; color: #002d5a; font-size: 20px;">
+                  02</div>
+                <div style="margin-left: 20px;">
+                  <h5
+                    style="color: #2d3748; font-weight: bold; margin-bottom: 5px;">
+                    Correlación de Conceptos</h5>
+                  <p style="color: #718096; font-size: 16px;">Relacione los
+                    valores de <strong>DL50, Pvap, Densidades, entre
+                      otros,</strong> con los casos prácticos presentados. La
+                    evaluación requiere capacidad de interpretación, no solo
+                    memorización.</p>
+                </div>
+              </div>
+              <div style="display: flex;">
+                <div
+                  style="min-width: 50px; height: 50px; background: #002d5a; border: 2px solid #002d5a; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; color: #ffffff; font-size: 20px;">
+                  03</div>
+                <div style="margin-left: 20px;">
+                  <h5
+                    style="color: #2d3748; font-weight: bold; margin-bottom: 5px;">
+                    Cuestionario de Validación</h5>
+                  <p style="color: #718096; font-size: 16px;">Al finalizar el
+                    recorrido, se habilitará el <strong>Cuestionario
+                      Evaluativo</strong>. Esta actividad representa el
+                    porcentaje calificable de la unidad actual.</p>
+                </div>
+              </div>
+            </div>
+            <div
+              style="background: #fdf2f2; border: 1px solid #f8d7da; border-radius: 6px; padding: 10px; display: flex; align-items: center;">
+              <div style="font-size: 40px; margin-right: 20px;">📝</div>
+              <div>
+                <h6
+                  style="color: #9b2c2c; font-weight: 800; margin: 0; text-transform: uppercase; font-size: 14px;">
+                  Requisito de Evaluación:</h6>
+                <p style="color: #c53030; margin: 5px 0 0 0; font-size: 16px;">
+                  El sistema registrará su avance por las 13 secciones antes de
+                  permitir el acceso al examen final.</p>
+              </div>
+            </div>
+          </div>
+          <div
+            style="background: #f1f5f9; padding: 20px; text-align: center; border-top: 1px solid #e2e8f0;">
+            <span
+              style="color: #64748b; font-size: 13px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px;">©
+              2026 Entorno Virtual de Aprendizaje | Gestión de Peligros
+              Químicos</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
