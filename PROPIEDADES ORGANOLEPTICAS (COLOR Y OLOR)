@@ -1,0 +1,83 @@
+<section
+  style="background-color: #f4f7f9; background-image: radial-gradient(#d1d9e6 0.5px, #f4f7f9 0.5px); background-size: 20px 20px; padding: 40px 0;">
+  <div class="container" style="max-width: 1000px; margin: auto;">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <div class="card shadow-lg border-0"
+          style="background: rgba(255, 255, 255, 0.95); border-left: 8px solid #004080; border-radius: 15px; overflow: hidden;">
+          <div class="card-body p-5">
+            <div
+              style="text-align: right; font-size: 12px; color: #6c757d; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 20px;">
+              Sección 2: Propiedades Organolépticas (Color y Olor)</div>
+            <div
+              style="font-size: 20px; color: #2c3e50; line-height: 1.8; text-align: justify; margin-bottom: 30px;">
+              El color original del producto en la forma de presentación en
+              cuestión, indica su posible estado de conservación, así como la
+              potencial formación de subproductos de mayor riesgo que el
+              producto original. El calcio, por ejemplo, es un metal cristalino
+              blanco argénteo que vira a azul grisáceo en contacto con el aire
+              húmedo; el cloruro de etileno es un líquido viscoso, de olor
+              característico, vira a oscuro por exposición al aire, a la humedad
+              y a la luz. Por otra parte, si el olor es perceptible, su breve
+              descripción puede contribuir a la identificación del compuesto.
+              Sin embargo, hay que tener en cuenta que un olor característico
+              nunca debe ser utilizado como señal de alarma ante la presencia de
+              un agente químico, puesto que la variabilidad individual del
+              umbral olfativo es muy grande y las propiedades odoríferas de los
+              productos químicos también. Por ejemplo, el valor de umbral
+              olfativo expresado en ppm para algunas sustancias puede variar
+              desde 0,0081, en el caso del ácido sulfhídrico, hasta 100.000, en
+              el caso del monóxido de carbono. En el caso del primero, además
+              hay que tener en cuenta que altas concentraciones pueden llegar a
+              bloquear la sensibilidad olfativa, generando toxicidad aguda,
+              sirviendo el mecanismo de defensa.</div>
+            <div
+              style="background-color: #fff9e6; border: 1px solid #ffeeba; border-radius: 10px; padding: 25px; margin: 30px 0;">
+              <h5 style="color: #856404; font-weight: bold;">Ejemplos en casos
+                accidentales:</h5>
+              <p
+                style="font-size: 18px; color: #856404; line-height: 1.6; text-align: justify;">
+                "El olor puede ser una indicación de la presencia de sustancias
+                químicas peligrosas en situaciones accidentales. Algunas
+                sustancias químicas tienen olores distintivos que pueden alertar
+                a los trabajadores sobre su presencia, incluso en
+                concentraciones muy bajas. Por ejemplo, el olor a gas natural o
+                a huevos podridos puede indicar la presencia de gas natural o de
+                sulfuro de hidrógeno, respectivamente, ambos gases tóxicos. De
+                la misma forma, el color de una sustancia puede proporcionar
+                información sobre su identidad y características. Por ejemplo,
+                ciertos productos químicos, como el cloro o el ácido sulfúrico,
+                tienen colores distintivos que pueden indicar su presencia.
+                Además, los cambios de color pueden ser indicativos de
+                reacciones químicas peligrosas o contaminación."</p>
+            </div>
+            <div style="text-align: center; margin-top: 30px;">
+              <div
+                style="background: white; padding: 15px; border: 1px solid #e1e4e8; border-radius: 10px; display: inline-block; max-width: 500px;">
+                <img class="img-fluid"
+                  style="max-width: 100%; height: auto; border-radius: 5px;"
+                  src="https://www.thoughtco.com/thmb/A8EQfcqogTj3QGrE0NPz-ynM-0E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/460717063-58b5b74e3df78cdcd8b38f03.jpg"
+                  alt="Propiedades Organolépticas">
+                <p
+                  style="margin-top: 15px; color: #004080; font-weight: bold; font-size: 15px; margin-bottom: 0;">
+                  Figura 2: Indicadores visuales y olfativos en la evaluación de
+                  sustancias</p>
+              </div>
+            </div>
+          </div>
+          <div
+            style="background: #f8f9fa; color: #495057; padding: 15px 25px; text-align: left; font-size: 13px; border-top: 1px solid #dee2e6;">
+            <strong>Nota Informativa:</strong> Los umbrales olfativos son
+            referenciales y no sustituyen las mediciones con equipos de
+            detección calibrados.</div>
+          <div
+            style="background: #004080; color: white; padding: 20px 25px; text-align: right; font-size: 16px; border-top: 2px solid #003366;">
+            <span style="opacity: 0.8;">Continuar con el contenido →</span> <a
+              style="color: #ffc107; font-weight: bold; text-decoration: underline; margin-left: 10px;"
+              href="https://aulasvirtuales.unicamacho.edu.co/mod/book/view.php?id=1448056&amp;chapterid=274359">SECCIÓN
+              3: pH y la peligrosidad por corrosión</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
