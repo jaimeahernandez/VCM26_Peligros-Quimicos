@@ -1,0 +1,83 @@
+<section
+  style="background-color: #f4f7f9; background-image: radial-gradient(#d1d9e6 0.5px, #f4f7f9 0.5px); background-size: 20px 20px; padding: 40px 0;">
+  <div class="container" style="max-width: 1000px; margin: auto;">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <div class="card shadow-lg border-0"
+          style="background: rgba(255, 255, 255, 0.95); border-left: 8px solid #004080; border-radius: 15px; overflow: hidden;">
+          <div class="card-body p-5">
+            <div
+              style="text-align: right; font-size: 12px; color: #6c757d; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 20px;">
+              Sección 5: Propiedades Físicas | Punto de Ebullición</div>
+            <div
+              style="font-size: 20px; color: #2c3e50; line-height: 1.8; text-align: justify; margin-bottom: 30px;">
+              La temperatura de ebullición de un líquido se define como la
+              temperatura a la cual la presión de vapor del líquido iguala a la
+              presión atmosférica. Para el agua a nivel del mar es 100°C. Este
+              parámetro contribuye, junto con la temperatura de inflamación y el
+              poder calorífico, al riesgo de inflamabilidad. Dicho de otra
+              manera, el punto de ebullición de una sustancia química es la
+              temperatura a la cual la sustancia pasa del estado líquido al
+              estado gaseoso a una presión atmosférica normal. Si una sustancia
+              tiene un punto de ebullición bajo, puede evaporarse fácilmente a
+              temperatura ambiente o a temperaturas relativamente bajas. Esto
+              puede aumentar el riesgo de inhalación o exposición dérmica
+              durante el manejo y la manipulación de la sustancia. Si una
+              sustancia tiene un punto de ebullición bajo, puede ser necesario
+              almacenarla en recipientes sellados y en áreas bien ventiladas
+              para evitar la acumulación de vapores peligrosos.</div>
+            <div
+              style="background-color: #f1f3f5; border-left: 5px solid #6c757d; border-radius: 10px; padding: 25px; margin: 30px 0;">
+              <h5
+                style="color: #343a40; font-weight: bold; margin-bottom: 15px;">
+                Ejemplo de liquidos con punto de ebullición bajo:</h5>
+              <p
+                style="font-size: 18px; color: #495057; line-height: 1.6; text-align: justify;">
+                "Un ejemplo de una sustancia con un punto de ebullición bajo es
+                el cloruro de etilo (C2H5Cl), también conocido como cloroetano.
+                El cloruro de etilo es un líquido incoloro con un punto de
+                ebullición de alrededor de 12 grados Celsius. Aunque el cloruro
+                de etilo es comúnmente utilizado como solvente en la industria
+                química y farmacéutica, y en la producción de productos químicos
+                y aerosoles, puede tener implicaciones para la salud de los
+                trabajadores debido a su bajo punto de ebullición y sus
+                propiedades tóxicas. Debido a su bajo punto de ebullición, el
+                cloruro de etilo puede evaporarse fácilmente a temperatura
+                ambiente, lo que resulta en la liberación de vapores tóxicos. La
+                inhalación de estos vapores puede causar irritación en las vías
+                respiratorias, mareos, dolor de cabeza, náuseas y en casos
+                graves, daño hepático y renal. La volatilidad de una sustancia
+                se refiere a su tendencia a evaporarse o volatilizarse a
+                temperatura ambiente. Una sustancia altamente volátil se
+                evaporará fácilmente y emitirá vapores a temperaturas normales
+                de trabajo."</p>
+            </div>
+            <div style="text-align: center; margin-top: 10px;">
+              <div
+                style="background: white; padding: 5px; border: 1px solid #e1e4e8; border-radius: 10px; display: inline-block; max-width: 500px;">
+                <img class="img-fluid"
+                  style="max-width: 100%; height: auto; border-radius: 5px;"
+                  src="https://valleyfoodstorage.com/cdn/shop/articles/Boiling_water_on_a_stove.jpg"
+                  alt="Punto de Ebullición">
+                <p
+                  style="margin-top: 15px; color: #004080; font-weight: bold; font-size: 15px; margin-bottom: 0;">
+                  Figura: Representación del proceso de ebullición</p>
+              </div>
+            </div>
+          </div>
+          <div
+            style="background: #f8f9fa; color: #495057; padding: 15px 25px; text-align: left; font-size: 13px; border-top: 1px solid #dee2e6;">
+            <strong>Nota Técnica:</strong> El punto de ebullición es
+            inversamente proporcional a la presión externa; a mayor altura,
+            menor temperatura de ebullición.</div>
+          <div
+            style="background: #004080; color: white; padding: 20px 25px; text-align: right; font-size: 16px; border-top: 2px solid #003366;">
+            <span style="opacity: 0.8;">Continuar tema →</span> <a
+              style="color: #ffc107; font-weight: bold; text-decoration: underline; margin-left: 10px;"
+              href="https://aulasvirtuales.unicamacho.edu.co/mod/book/view.php?id=1448056&amp;chapterid=274375">SECCION
+              6: Presión de vapor</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
