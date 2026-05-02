@@ -1,0 +1,221 @@
+<section
+  style="background-color: #eef2f7; padding: 60px 0; font-family: 'Times New Roman', Times, serif;">
+  <div class="container-fluid" style="max-width: 1400px;">
+    <!-- Contenedor más ancho -->
+    <div class="row justify-content-center">
+      <div class="col-lg-12 col-12">
+        <!-- Columna al 100% --><!-- Contenedor Premium: Estética de Publicación Universitaria -->
+        <div class="card shadow-lg border-0"
+          style="border-radius: 2px; background: #ffffff; position: relative; overflow: hidden; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25) !important;">
+          <!-- Marca de Agua / Textura de Fondo Académico -->
+          <div
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.03; pointer-events: none; background-image: url('https://www.transparenttextures.com/patterns/pinstriped-suit.png');">
+             </div>
+          <!-- Franja de Identidad Institucional Superior -->
+          <div
+            style="height: 8px; background: linear-gradient(90deg, #002d5a 0%, #1a5276 100%);">
+             </div>
+          <div class="card-body p-md-5"
+            style="position: relative; z-index: 2; padding-left: 60px; padding-right: 60px;">
+            <!-- Cabecera de Rigor Técnico -->
+            <div
+              style="display: flex; justify-content: space-between; border-bottom: 1px solid #d1d5db; margin-bottom: 40px; padding-bottom: 15px;">
+              <div>
+                <h6
+                  style="color: #1a5276; text-transform: uppercase; letter-spacing: 2px; font-weight: 800; margin: 0; font-size: 11px;">
+                  Facultad de Educación a Distancia y Virtual</h6>
+                <h2
+                  style="color: #002d5a; font-size: 24px; font-weight: 900; margin-top: 5px; font-family: 'Georgia', serif;">
+                  Método de evaluación cuantitativo</h2>
+              </div>
+              <div
+                style="text-align: right; border-left: 2px solid #1a5276; padding-left: 15px;">
+                <p
+                  style="margin: 0; color: #64748b; font-size: 10px; font-weight: bold; text-transform: uppercase;">
+                  curso</p>
+                <p
+                  style="margin: 0; color: #1a5276; font-size: 13px; font-weight: 800;">
+                  PELIGROS FISICOS I</p>
+              </div>
+            </div>
+            <!-- CONTENIDO ORIGINAL INTEGRADO -->
+            <div style="margin-bottom: 35px;">
+              <h5
+                style="font-size: 17px; line-height: 1.7; color: #1e293b; text-align: justify;">
+                <span
+                  style="font-weight: 800; color: #1a5276; border-bottom: 3px solid #ffc107; padding-bottom: 2px;">MUESTREO
+                  DE CONTAMINANTES:</span> <span
+                  style="font-weight: normal; font-family: 'Segoe UI', sans-serif; color: #334155;">
+                  El muestreo de contaminantes químicos en el aire es el proceso
+                  de recolectar y analizar muestras de aire para identificar y
+                  cuantificar la presencia de sustancias químicas nocivas. Este
+                  tipo de muestreo es fundamental para evaluar la calidad del
+                  aire y los posibles riesgos para la salud ocupacional y el
+                  medio ambiente.</span></h5>
+            </div>
+            <!-- Área de Ilustración Técnica con Profundidad -->
+            <div
+              style="background: #f8fafc; padding: 25px; border-radius: 4px; border: 1px solid #e2e8f0; margin-bottom: 40px; text-align: center;">
+              <h5
+                style="font-size: 13px; color: #64748b; margin-bottom: 20px; font-family: 'Segoe UI', sans-serif; font-style: italic;">
+                <strong>Figura 1.</strong> Ilustración de contaminantes químicos
+                en aire</h5>
+              <img class="img-fluid shadow-sm"
+                style="border: 4px solid white; max-width: 700px; height: auto;"
+                src="https://www.qsafe.com.sg/wp-content/uploads/2019/05/Industrial-Hygiene-air-monitoring-.png"
+                alt="Figura 1">
+            </div>
+            <!-- Listado de Objetivos con Estética Administrativa -->
+            <h5
+              style="font-size: 16px; color: #002d5a; font-weight: 800; margin-bottom: 30px; font-family: 'Segoe UI', sans-serif; border-left: 5px solid #1a5276; padding-left: 15px;">
+              Objetivos Estratégicos del Muestreo de Contaminantes Químicos:
+            </h5>
+            <div
+              style="display: grid; grid-template-columns: 1fr; gap: 12px; margin-bottom: 40px;">
+              <div
+                style="background: #ffffff; padding: 12px; border: 1px solid #f1f5f9; border-left: 4px solid #1a5276; font-size: 15px; color: #334155; font-family: 'Segoe UI', sans-serif;">
+                <strong style="color: #1a5276;">• Evaluar la Calidad del
+                  Aire:</strong> Determinar las concentraciones de contaminantes
+                y compararlas con los estándares de calidad del aire.</div>
+              <div
+                style="background: #ffffff; padding: 12px; border: 1px solid #f1f5f9; border-left: 4px solid #1a5276; font-size: 15px; color: #334155; font-family: 'Segoe UI', sans-serif;">
+                <strong style="color: #1a5276;">• Identificar Fuentes de
+                  Contaminación:</strong> Localizar y evaluar las fuentes de
+                emisión de contaminantes.</div>
+              <div
+                style="background: #ffffff; padding: 12px; border: 1px solid #f1f5f9; border-left: 4px solid #1a5276; font-size: 15px; color: #334155; font-family: 'Segoe UI', sans-serif;">
+                <strong style="color: #1a5276;">• Proteger la Salud:</strong>
+                Estimar la exposición de la población trabajadora a
+                contaminantes químicos del aire y sus posibles efectos en la
+                salud.</div>
+              <div
+                style="background: #ffffff; padding: 12px; border: 1px solid #f1f5f9; border-left: 4px solid #1a5276; font-size: 15px; color: #334155; font-family: 'Segoe UI', sans-serif;">
+                <strong style="color: #1a5276;">• Monitorear el riesgo:</strong>
+                Seguir los cambios en los niveles de contaminación a lo largo
+                del tiempo.</div>
+              <div
+                style="background: #ffffff; padding: 12px; border: 1px solid #f1f5f9; border-left: 4px solid #1a5276; font-size: 15px; color: #334155; font-family: 'Segoe UI', sans-serif;">
+                <strong style="color: #1a5276;">• Cumplir Normativas
+                  Vigentes:</strong> Verificar el cumplimiento de las
+                regulaciones en materia de seguridad y salud.</div>
+            </div>
+            <!-- SECCIÓN DE IMPORTANCIA -->
+            <div
+              style="background: #002d5a; color: #ffffff; padding: 40px; border-radius: 2px; position: relative; box-shadow: inset 0 0 50px rgba(0,0,0,0.2);">
+              <div
+                style="position: absolute; top: -12px; left: 20px; background: #ffc107; color: #002d5a; padding: 4px 12px; font-weight: 900; font-size: 10px; text-transform: uppercase; letter-spacing: 1px;">
+                Importante</div>
+              <h5
+                style="color: #ffc107; font-weight: 800; font-size: 16px; margin-bottom: 15px; font-family: 'Segoe UI', sans-serif;">
+                Relevancia en la Salud Ocupacional:</h5>
+              <p
+                style="font-size: 15px; line-height: 1.8; text-align: justify; font-family: 'Georgia', serif; font-style: italic; color: #e2e8f0; margin: 0;">
+                "La importancia del muestreo de contaminantes en aire en la
+                salud ocupacional radica en varios aspectos críticos para la
+                salud y la seguridad laboral: Permite medir y evaluar la
+                exposición de los trabajadores a contaminantes del aire, como
+                polvo, humos, vapores y gases. Esto es fundamental para
+                identificar si las concentraciones presentes en el lugar de
+                trabajo superan los límites de exposición permisibles (TLV, PEL,
+                etc.). Ayuda a asegurar que las empresas cumplan con las
+                regulaciones y normativas de salud y seguridad ocupacional
+                establecidas por organizaciones como la OSHA o la ACGIH.
+                Contribuye a la prevención de enfermedades ocupacionales que
+                pueden resultar de la exposición prolongada a contaminantes,
+                como enfermedades respiratorias, cáncer y otras condiciones
+                crónicas. Los datos obtenidos del muestreo pueden ser utilizados
+                para diseñar y mejorar las medidas de control, como la
+                ventilación, los sistemas de extracción localizada y el uso de
+                equipos de protección personal (EPP). Sirve como evidencia
+                documentada del cumplimiento de las normativas y de las acciones
+                tomadas para proteger la salud de los trabajadores."</p>
+            </div>
+          </div>
+          <!-- INICIO DEL BLOQUE DE RETO (Integrado con ajuste en punto 3) -->
+          <div style="margin-top: 45px; margin-bottom: 30px;">
+            <div
+              style="background: #ffffff; border-left: 8px solid #ffc107; border-top: 1px solid #f1f5f9; border-right: 1px solid #f1f5f9; border-bottom: 1px solid #f1f5f9; padding: 35px; position: relative; box-shadow: 0 10px 20px rgba(0,0,0,0.05);">
+              <!-- Encabezado Estilo Caso de Estudio -->
+              <div
+                style="display: flex; align-items: center; margin-bottom: 25px; border-bottom: 1px solid #f1f5f9; padding-bottom: 15px;">
+                <div
+                  style="background: #002d5a; color: #ffc107; padding: 6px 14px; font-weight: 900; border-radius: 2px; margin-right: 18px; font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase;">
+                  Laboratorio de Gestión</div>
+                <h3
+                  style="color: #002d5a; font-weight: 800; margin: 0; font-family: 'Georgia', serif; font-size: 20px;">
+                  Reto Administrativo: Dilema de Exposición y Presupuesto</h3>
+              </div>
+              <div class="row"><!-- Contexto del Escenario -->
+                <div class="col-md-7">
+                  <div style="background: #fdfdfd; padding-right: 25px;">
+                    <h6
+                      style="color: #1a5276; text-transform: uppercase; font-weight: 800; font-size: 11px; margin-bottom: 12px; letter-spacing: 1px;">
+                      Escenario de Análisis:</h6>
+                    <p
+                      style="font-size: 14.5px; color: #334155; line-height: 1.7; text-align: justify; margin: 0; font-family: 'Segoe UI', sans-serif;">
+                      Tras una medición higiénica en el área de acabados, los
+                      resultados arrojan una concentración de <strong>xileno del
+                        92% respecto al TLV (Valor Límite Permisible)</strong>.
+                      La gerencia general se rehúsa a invertir en un sistema de
+                      extracción localizada este año argumentando cumplimiento
+                      legal ("estamos por debajo del 100%"). Sin embargo, el
+                      ausentismo por cefaleas y náuseas ha incrementado un 15%
+                      en dicha área.</p>
+                  </div>
+                </div>
+                <!-- Preguntas de Reflexión -->
+                <div class="col-md-5"
+                  style="border-left: 1px solid #eee; padding-left: 30px;">
+                  <h6
+                    style="color: #1a5276; text-transform: uppercase; font-weight: 800; font-size: 11px; margin-bottom: 15px; letter-spacing: 1px;">
+                    Actividades a Desarrollar:</h6>
+                  <ul
+                    style="list-style: none; padding-left: 0; font-size: 13.5px; color: #475569; font-family: 'Segoe UI', sans-serif;">
+                    <li
+                      style="margin-bottom: 12px; display: flex; align-items: baseline;">
+                      <span
+                        style="color: #ffc107; font-weight: 900; margin-right: 10px;">1.</span>
+                      Diseñe dos controles administrativos inmediatos para
+                      reducir la dosis de exposición diaria sin afectar los
+                      niveles de producción.</li>
+                    <li
+                      style="margin-bottom: 12px; display: flex; align-items: baseline;">
+                      <span
+                        style="color: #ffc107; font-weight: 900; margin-right: 10px;">2.</span>
+                      Elabore un argumento técnico-económico que demuestre a la
+                      gerencia que el "costo del ausentismo" supera la inversión
+                      del sistema de extracción.</li>
+                    <li
+                      style="margin-bottom: 0; display: flex; align-items: baseline;">
+                      <span
+                        style="color: #ffc107; font-weight: 900; margin-right: 10px;">3.</span>
+                      Identifique qué exámenes médicos específicos o pruebas de
+                      monitoreo biológico (BEI) sugeriría para confirmar si el
+                      químico está ingresando al organismo del personal.</li>
+                  </ul>
+                </div>
+              </div>
+              <!-- Nota de Rigor -->
+              <div
+                style="margin-top: 25px; padding: 10px 15px; background: #fff9e6; border-radius: 4px; display: inline-block;">
+                <p
+                  style="margin: 0; font-size: 12px; color: #856404; font-style: italic;">
+                  <strong>Nota:</strong> Este reto debe ser resuelto
+                  considerando la normativa nacional vigente y los criterios de
+                  la ACGIH estudiados en el módulo.</p>
+              </div>
+            </div>
+          </div>
+          <!-- FIN DEL BLOQUE DE RETO -->
+          <div
+            style="background: #f1f5f9; border-top: 1px solid #e2e8f0; padding: 15px; text-align: center;">
+            <p
+              style="margin: 0; font-size: 10px; color: #94a3b8; letter-spacing: 2px; font-weight: bold; text-transform: uppercase;">
+              © 2026 Institución Universitaria Antonio José Camacho | Sistema de
+              Gestión SST</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
