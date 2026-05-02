@@ -1,0 +1,340 @@
+<!-- Sección: Procedimiento de Muestreo - Estilo Infografía Académica -->
+<section
+  style="background-color: #f8fafb; padding: 60px 0; font-family: 'Segoe UI', Roboto, sans-serif;">
+  <div class="container"><!-- Título de la Sección -->
+    <div style="text-align: center; margin-bottom: 50px;">
+      <h2
+        style="color: #1a3a5a; font-weight: 850; text-transform: uppercase; letter-spacing: 2px; display: inline-block; border-bottom: 4px solid #0056b3; padding-bottom: 10px;">
+        Procedimiento Operativo de Muestreo</h2>
+      <p style="color: #607d8b; font-size: 16px; margin-top: 15px;">Guía técnica
+        para la captación y análisis de contaminantes en campo.</p>
+    </div>
+    <div class="row"><!-- PASO 1 -->
+      <div class="col-12 col-md-6 col-lg-4 mb-4">
+        <div
+          style="background: #ffffff; border-radius: 15px; overflow: hidden; border: 1px solid #e0e6ed; height: 100%; transition: transform 0.3s ease; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <div style="position: relative;"><img class="img-fluid"
+              style="width: 100%; height: 200px; object-fit: cover;"
+              src="https://airsamplingsolutions.com/wp-content/uploads/2014/05/weighing-a-filter-2.jpg">
+            <div
+              style="position: absolute; top: 15px; left: 15px; background: #0056b3; color: white; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: 900; border: 3px solid #ffffff; shadow: 0 2px 4px rgba(0,0,0,0.2);">
+              1</div>
+          </div>
+          <div style="padding: 20px;">
+            <h6
+              style="color: #0056b3; font-weight: 800; text-transform: uppercase; font-size: 14px; margin-bottom: 10px;">
+              <i class="fa fa-balance-scale"></i> Preparación</h6>
+            <p
+              style="font-size: 15px; color: #455a64; line-height: 1.6; margin: 0;">
+              Se realiza el <strong>peso inicial</strong> del filtro en una
+              balanza analítica antes de iniciar el muestreo.</p>
+          </div>
+        </div>
+      </div>
+      <!-- PASO 2 -->
+      <div class="col-12 col-md-6 col-lg-4 mb-4">
+        <div
+          style="background: #ffffff; border-radius: 15px; overflow: hidden; border: 1px solid #e0e6ed; height: 100%; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <div style="position: relative;"><img class="img-fluid"
+              style="width: 100%; height: 200px; object-fit: cover;"
+              src="https://i0.wp.com/lcslaboratory.com/wp-content/uploads/2017/01/087-DSC02275.jpg?resize=300%2C168&amp;ssl=1">
+            <div
+              style="position: absolute; top: 15px; left: 15px; background: #0056b3; color: white; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: 900; border: 3px solid #ffffff;">
+              2</div>
+          </div>
+          <div style="padding: 20px;">
+            <h6
+              style="color: #0056b3; font-weight: 800; text-transform: uppercase; font-size: 14px; margin-bottom: 10px;">
+              <i class="fa fa-archive"></i> Ensamblaje</h6>
+            <p
+              style="font-size: 15px; color: #455a64; line-height: 1.6; margin: 0;">
+              Se inserta el filtro dentro del <strong>cassette</strong> y se
+              remueven cuidadosamente los tapones de sellado.</p>
+          </div>
+        </div>
+      </div>
+      <!-- PASO 3 -->
+      <div class="col-12 col-md-6 col-lg-4 mb-4">
+        <div
+          style="background: #ffffff; border-radius: 15px; overflow: hidden; border: 1px solid #e0e6ed; height: 100%; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <div style="position: relative;"><img class="img-fluid"
+              style="width: 100%; height: 200px; object-fit: cover;"
+              src="https://i0.wp.com/lcslaboratory.com/wp-content/uploads/2017/01/085-DSC02273.jpg?resize=300%2C169&amp;ssl=1">
+            <div
+              style="position: absolute; top: 15px; left: 15px; background: #0056b3; color: white; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: 900; border: 3px solid #ffffff;">
+              3</div>
+          </div>
+          <div style="padding: 20px;">
+            <h6
+              style="color: #0056b3; font-weight: 800; text-transform: uppercase; font-size: 14px; margin-bottom: 10px;">
+              <i class="fa fa-shield"></i> Protección</h6>
+            <p
+              style="font-size: 15px; color: #455a64; line-height: 1.6; margin: 0;">
+              Se coloca el conjunto (cassette + filtro) dentro del
+              <strong>porta-cassette</strong> de seguridad.</p>
+          </div>
+        </div>
+      </div>
+      <!-- PASO 4 -->
+      <div class="col-12 col-md-6 col-lg-4 mb-4">
+        <div
+          style="background: #ffffff; border-radius: 15px; overflow: hidden; border: 1px solid #e0e6ed; height: 100%; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <div style="position: relative;"><img class="img-fluid"
+              style="width: 100%; height: 200px; object-fit: cover;"
+              src="https://i0.wp.com/lcslaboratory.com/wp-content/uploads/2017/01/089-DSC02277.jpg?resize=300%2C169&amp;ssl=1">
+            <div
+              style="position: absolute; top: 15px; left: 15px; background: #0056b3; color: white; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: 900; border: 3px solid #ffffff;">
+              4</div>
+          </div>
+          <div style="padding: 20px;">
+            <h6
+              style="color: #0056b3; font-weight: 800; text-transform: uppercase; font-size: 14px; margin-bottom: 10px;">
+              <i class="fa fa-plug"></i> Conexión</h6>
+            <p
+              style="font-size: 15px; color: #455a64; line-height: 1.6; margin: 0;">
+              Se conecta el <strong>tubo de conducción</strong> desde la bomba
+              de muestreo hacia la entrada de la muestra.</p>
+          </div>
+        </div>
+      </div>
+      <!-- PASO 5 -->
+      <div class="col-12 col-md-6 col-lg-4 mb-4">
+        <div
+          style="background: #ffffff; border-radius: 15px; overflow: hidden; border: 1px solid #e0e6ed; height: 100%; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <div style="position: relative;"><img class="img-fluid"
+              style="width: 100%; height: 200px; object-fit: cover;"
+              src="https://i0.wp.com/lcslaboratory.com/wp-content/uploads/2017/01/106-DSC02294.jpg?ssl=1">
+            <div
+              style="position: absolute; top: 15px; left: 15px; background: #0056b3; color: white; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: 900; border: 3px solid #ffffff;">
+              5</div>
+          </div>
+          <div style="padding: 20px;">
+            <h6
+              style="color: #0056b3; font-weight: 800; text-transform: uppercase; font-size: 14px; margin-bottom: 10px;">
+              <i class="fa fa-spinner"></i> Selección Particulado</h6>
+            <p
+              style="font-size: 15px; color: #455a64; line-height: 1.6; margin: 0;">
+              Se instala el <strong>ciclón de aluminio</strong>, vinculándolo
+              directamente al cassette para selección respirable.</p>
+          </div>
+        </div>
+      </div>
+      <!-- PASO 6 -->
+      <div class="col-12 col-md-6 col-lg-4 mb-4">
+        <div
+          style="background: #ffffff; border-radius: 15px; overflow: hidden; border: 1px solid #e0e6ed; height: 100%; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <div style="position: relative;"><img class="img-fluid"
+              style="width: 100%; height: 200px; object-fit: cover;"
+              src="https://i0.wp.com/lcslaboratory.com/wp-content/uploads/2017/01/061-DSC02248.jpg?resize=300%2C169&amp;ssl=1">
+            <div
+              style="position: absolute; top: 15px; left: 15px; background: #0056b3; color: white; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: 900; border: 3px solid #ffffff;">
+              6</div>
+          </div>
+          <div style="padding: 20px;">
+            <h6
+              style="color: #0056b3; font-weight: 800; text-transform: uppercase; font-size: 14px; margin-bottom: 10px;">
+              <i class="fa fa-tachometer"></i> Calibración</h6>
+            <p
+              style="font-size: 15px; color: #455a64; line-height: 1.6; margin: 0;">
+              Inicia la <strong>calibración de la bomba</strong> utilizando el
+              calibrador primario para ajustar el caudal exacto.</p>
+          </div>
+        </div>
+      </div>
+      <!-- PASO 7 -->
+      <div class="col-12 col-md-6 col-lg-4 mb-4">
+        <div
+          style="background: #ffffff; border-radius: 15px; overflow: hidden; border: 1px solid #e0e6ed; height: 100%; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <div style="position: relative;"><img class="img-fluid"
+              style="width: 100%; height: 200px; object-fit: cover;"
+              src="https://i0.wp.com/lcslaboratory.com/wp-content/uploads/2017/01/074-DSC02261.jpg?resize=300%2C169&amp;ssl=1">
+            <div
+              style="position: absolute; top: 15px; left: 15px; background: #0056b3; color: white; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: 900; border: 3px solid #ffffff;">
+              7</div>
+          </div>
+          <div style="padding: 20px;">
+            <h6
+              style="color: #0056b3; font-weight: 800; text-transform: uppercase; font-size: 14px; margin-bottom: 10px;">
+              <i class="fa fa-user"></i> Ubicación Bomba</h6>
+            <p
+              style="font-size: 15px; color: #455a64; line-height: 1.6; margin: 0;">
+              Se asegura la bomba de muestreo en la <strong>cintura del
+                operario</strong> para no obstaculizar sus labores.</p>
+          </div>
+        </div>
+      </div>
+      <!-- PASO 8 -->
+      <div class="col-12 col-md-6 col-lg-4 mb-4">
+        <div
+          style="background: #ffffff; border-radius: 15px; overflow: hidden; border: 1px solid #e0e6ed; height: 100%; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <div style="position: relative;"><img class="img-fluid"
+              style="width: 100%; height: 200px; object-fit: cover;"
+              src="https://i0.wp.com/lcslaboratory.com/wp-content/uploads/2017/01/078-DSC02265.jpg?resize=300%2C169&amp;ssl=1">
+            <div
+              style="position: absolute; top: 15px; left: 15px; background: #0056b3; color: white; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: 900; border: 3px solid #ffffff;">
+              8</div>
+          </div>
+          <div style="padding: 20px;">
+            <h6
+              style="color: #0056b3; font-weight: 800; text-transform: uppercase; font-size: 14px; margin-bottom: 10px;">
+              <i class="fa fa-street-view"></i> Zona Respiratoria</h6>
+            <p
+              style="font-size: 15px; color: #455a64; line-height: 1.6; margin: 0;">
+              Se ubica el tren de muestreo (ciclón/cassette) en el
+              <strong>hombro del operario</strong>, cerca de su zona
+              respiratoria.</p>
+          </div>
+        </div>
+      </div>
+      <!-- PASO 9 -->
+      <div class="col-12 col-md-6 col-lg-4 mb-4">
+        <div
+          style="background: #ffffff; border-radius: 15px; overflow: hidden; border: 1px solid #e0e6ed; height: 100%; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <div style="position: relative;"><img class="img-fluid"
+              style="width: 100%; height: 200px; object-fit: cover;"
+              src="https://i.ytimg.com/vi/EdekVvn3XC8/maxresdefault.jpg">
+            <div
+              style="position: absolute; top: 15px; left: 15px; background: #0056b3; color: white; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: 900; border: 3px solid #ffffff;">
+              9</div>
+          </div>
+          <div style="padding: 20px;">
+            <h6
+              style="color: #0056b3; font-weight: 800; text-transform: uppercase; font-size: 14px; margin-bottom: 10px;">
+              <i class="fa fa-play-circle"></i> Ejecución</h6>
+            <p
+              style="font-size: 15px; color: #455a64; line-height: 1.6; margin: 0;">
+              Se enciende la bomba, se configura el <strong>tiempo de
+                muestreo</strong> y se verifica la estabilidad del caudal.</p>
+          </div>
+        </div>
+      </div>
+      <!-- PASO 10 -->
+      <div class="col-12 col-md-6 col-lg-4 mb-4">
+        <div
+          style="background: #ffffff; border-radius: 15px; overflow: hidden; border: 1px solid #e0e6ed; height: 100%; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <div style="position: relative;"><img class="img-fluid"
+              style="width: 100%; height: 200px; object-fit: cover;"
+              src="https://i0.wp.com/lcslaboratory.com/wp-content/uploads/2016/05/1-IMG_20160520_121614543.jpg?fit=800%2C323&amp;ssl=1">
+            <div
+              style="position: absolute; top: 15px; left: 15px; background: #0056b3; color: white; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: 900; border: 3px solid #ffffff;">
+              10</div>
+          </div>
+          <div style="padding: 20px;">
+            <h6
+              style="color: #0056b3; font-weight: 800; text-transform: uppercase; font-size: 14px; margin-bottom: 10px;">
+              <i class="fa fa-truck"></i> Logística</h6>
+            <p
+              style="font-size: 15px; color: #455a64; line-height: 1.6; margin: 0;">
+              Finalizado el proceso, las muestras se sellan y organizan para su
+              <strong>envío al laboratorio</strong>.</p>
+          </div>
+        </div>
+      </div>
+      <!-- PASO 11 -->
+      <div class="col-12 col-md-6 col-lg-4 mb-4">
+        <div
+          style="background: #ffffff; border-radius: 15px; overflow: hidden; border: 1px solid #e0e6ed; height: 100%; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+          <div style="position: relative;"><img class="img-fluid"
+              style="width: 100%; height: 200px; object-fit: cover;"
+              src="https://airsamplingsolutions.com/wp-content/uploads/2014/05/weighing-a-filter-2.jpg">
+            <div
+              style="position: absolute; top: 15px; left: 15px; background: #0056b3; color: white; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: 900; border: 3px solid #ffffff;">
+              11</div>
+          </div>
+          <div style="padding: 20px;">
+            <h6
+              style="color: #0056b3; font-weight: 800; text-transform: uppercase; font-size: 14px; margin-bottom: 10px;">
+              <i class="fa fa-flask"></i> Post-Pesaje</h6>
+            <p
+              style="font-size: 15px; color: #455a64; line-height: 1.6; margin: 0;">
+              En el laboratorio, se realizan el <strong>pesaje final</strong> de
+              los filtros impregnados con el contaminante.</p>
+          </div>
+        </div>
+      </div>
+      <!-- PASO 12 -->
+      <div class="col-12 col-md-6 col-lg-4 mb-4">
+        <div
+          style="background: #e3f2fd; border-radius: 15px; overflow: hidden; border: 2px solid #0056b3; height: 100%; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+          <div style="position: relative;"><img class="img-fluid"
+              style="width: 100%; height: 200px; object-fit: cover;"
+              src="https://ehscareers.com/employer-blog/wp-content/uploads/2025/11/image_39c57ac125ec45e02379b18039c2c581-1024x683.jpeg">
+            <div
+              style="position: absolute; top: 15px; left: 15px; background: #1a3a5a; color: white; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 24px; font-weight: 900; border: 3px solid #ffffff;">
+              12</div>
+          </div>
+          <div style="padding: 20px;">
+            <h6
+              style="color: #1a3a5a; font-weight: 800; text-transform: uppercase; font-size: 14px; margin-bottom: 10px;">
+              <i class="fa fa-calculator"></i> Resultados</h6>
+            <p
+              style="font-size: 15px; color: #455a64; line-height: 1.6; margin: 0;">
+              Se calcula el <strong>peso neto</strong>, la concentración
+              ambiental y el Índice de Riesgo final.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- BLOQUE DE DESAFÍO: EL INSPECTOR DE PROCEDIMIENTOS -->
+    <div
+      style="margin: 40px 15px; background: #ffffff; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); border-left: 10px solid #c62828; overflow: hidden;">
+      <div class="row g-0"><!-- Lateral de Alerta -->
+        <div class="col-md-4"
+          style="background: #c62828; color: white; padding: 40px; display: flex; flex-direction: column; justify-content: center; text-align: center;">
+          <i class="fa fa-exclamation-triangle"
+            style="font-size: 60px; margin-bottom: 20px;"></i>
+          <h3
+            style="font-weight: 900; text-transform: uppercase; letter-spacing: 1px;">
+            Punto Crítico de Control</h3>
+          <p style="font-size: 14px; opacity: 0.9;">Una falla en el
+            procedimiento equivale a una prueba nula ante la ley.</p>
+        </div>
+        <!-- Contenido del Desafío -->
+        <div class="col-md-8" style="padding: 40px;">
+          <h4 style="color: #1a3a5a; font-weight: 800; margin-bottom: 20px;">
+            ¿Detecta el error en la cadena?</h4>
+          <p style="color: #455a64; font-size: 16px; line-height: 1.6;">Imagine
+            que usted es el <strong>Director de SST</strong> y está auditando el
+            trabajo del higienista en campo. Durante el <strong>Paso 8 (Zona
+              Respiratoria)</strong>, observa que el trabajador se quita el
+            porta-cassette del hombro porque "le incomoda" y lo cuelga en una
+            estantería a 2 metros de distancia mientras sigue operando la
+            máquina.</p>
+          <div
+            style="background: #f8fafb; border: 1px dashed #cfd8dc; padding: 20px; border-radius: 10px; margin-top: 20px;">
+            <h6
+              style="color: #c62828; font-weight: 800; text-transform: uppercase; font-size: 13px; margin-bottom: 15px;">
+              Análisis de Gestión Requerido:</h6>
+            <ul
+              style="list-style: none; padding: 0; margin: 0; color: #37474f; font-size: 14px;">
+              <li
+                style="margin-bottom: 10px; display: flex; align-items: flex-start;">
+                <i class="fa fa-check-circle"
+                  style="color: #2e7d32; margin-right: 10px; margin-top: 3px;"></i>
+                ¿Esa muestra sigue siendo <strong>"Personal"</strong> o se
+                convirtió en una muestra <strong>"Ambiental"</strong>?</li>
+              <li
+                style="margin-bottom: 10px; display: flex; align-items: flex-start;">
+                <i class="fa fa-check-circle"
+                  style="color: #2e7d32; margin-right: 10px; margin-top: 3px;"></i>
+                Si el resultado sale por debajo del límite (TLV), ¿puede la
+                empresa usarlo legalmente para defenderse de una demanda?</li>
+              <li style="display: flex; align-items: flex-start;"><i
+                  class="fa fa-check-circle"
+                  style="color: #2e7d32; margin-right: 10px; margin-top: 3px;"></i>
+                Como administrador, ¿pagaría usted por este servicio de muestreo
+                o exigiría su repetición sin costo adicional?</li>
+            </ul>
+          </div>
+          <p
+            style="margin-top: 20px; font-size: 13px; color: #607d8b; font-style: italic;">
+            <strong>Reflexión profesional:</strong> En Higiene Industrial, la
+            ubicación del captador define la diferencia entre un dato científico
+            y un valor sin sentido legal.</p>
+        </div>
+      </div>
+    </div>
+    <hr
+      style="border: 0; height: 1px; background-image: linear-gradient(to right, transparent, #ccc, transparent); margin-top: 30px;">
+  </div>
+</section>
