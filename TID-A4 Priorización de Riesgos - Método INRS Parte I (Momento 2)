@@ -1,0 +1,253 @@
+<div
+  style="background: #fdfdfd; border: 1px solid #002d5a; border-radius: 20px; overflow: hidden; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; box-shadow: 0 20px 50px rgba(0,45,90,0.15); max-width: 1000px; margin: 20px auto;">
+  <div
+    style="background: linear-gradient(135deg, #002d5a 0%, #004a8f 100%); color: white; padding: 45px; text-align: left; border-bottom: 6px solid #ffc107;">
+    <div style="display: flex; align-items: center; gap: 25px;">
+      <div
+        style="background: rgba(255,255,255,0.15); padding: 15px; border-radius: 15px; font-size: 40px;">
+        🔬</div>
+      <div>
+        <h2
+          style="margin: 0; text-transform: uppercase; letter-spacing: 3px; font-size: 28px; font-weight: 900;">
+          Evaluación de riesgos QUÍMICOS</h2>
+        <p
+          style="margin: 10px 0 0 0; color: #ffc107; font-weight: 600; font-size: 17px; text-transform: uppercase; letter-spacing: 1.2px;">
+          JERARQUIZACION DE RIESGOS POTENCIALES (NTP 1.080)</p>
+      </div>
+    </div>
+  </div>
+  <div style="padding: 50px;">
+    <div
+      style="background: #f8fafc; border-left: 6px solid #002d5a; padding: 10px; border-radius: 0 15px 15px 0; margin-bottom: 15px; border: 1px solid #e2e8f0; border-left-width: 6px;">
+      <h3
+        style="color: #002d5a; font-size: 20px; margin-top: 0; text-transform: uppercase; font-weight: 800; letter-spacing: 1px;">
+        🎯 Objetivo de la Actividad</h3>
+      <p
+        style="color: #334155; font-size: 16px; line-height: 1.7; margin-bottom: 25px;">
+        Jerarquizar los riesgos potenciales existentes en un entorno de
+        laboratorio mediante la aplicación técnica de la <strong>NTP
+          1.080</strong>, permitiendo al estudiante identificar prioridades de
+        intervención higiénica frente a diversos agentes químicos.</p>
+      <h3
+        style="color: #002d5a; font-size: 20px; text-transform: uppercase; font-weight: 800; letter-spacing: 1px;">
+        📝 Instrucciones Generales</h3>
+      <p
+        style="color: #334155; font-size: 16px; line-height: 1.7; margin-bottom: 10px;">
+        La presente actividad se desarrollará en <strong>dos momentos</strong>
+        complementarios:</p>
+      <ul
+        style="color: #475569; font-size: 16px; line-height: 1.8; padding-left: 20px;">
+        <li><strong>Primer Momento:</strong> Validación diagnóstica individual
+          en tiempo real a través de la plataforma <em>Wayground</em> para
+          evaluar conceptos base.</li>
+        <li><strong>Segundo Momento:</strong> Aplicación práctica por grupos
+          colaborativos para la resolución de casos específicos de laboratorio
+          utilizando el método simplificado del INRS.</li>
+      </ul>
+    </div>
+    <h3
+      style="color: #002d5a; font-size: 22px; border-bottom: 2px solid #e2e8f0; padding-bottom: 12px; margin-bottom: 30px; text-transform: uppercase; font-weight: 800;">
+      Protocolo de Jerarquización de Riesgos Potenciales, METODO BASADO EN EL
+      INRS</h3>
+    <p
+      style="text-align: justify; color: #334155; line-height: 1.8; font-size: 17px; margin-bottom: 40px;">
+      Conforme a la <strong>Norma Técnica de Prevención NTP 1.080
+        (INSST)</strong>, los estudiantes deben seguir un proceso estructurado
+      para la priorización de riesgos potenciales. Este modelo se fundamenta en
+      el cálculo del Riesgo Potencial (R_p) mediante las siguientes 5 etapas
+      críticas:</p>
+    <div
+      style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin-bottom: 50px;">
+      <div
+        style="background: #fff1f2; padding: 25px; border-radius: 12px; border-top: 5px solid #be123c;">
+        <h6
+          style="color: #9f1239; margin-top: 0; text-transform: uppercase; font-size: 15px; font-weight: 800;">
+          1. Peligrosidad (S)</h6>
+        <p
+          style="font-size: 14px; color: #4b1a1a; line-height: 1.7; margin-bottom: 0;">
+          Asignación de clase (1-5) según frases H del SGA. Priorización de
+          agentes CMR.</p>
+      </div>
+      <div
+        style="background: #f8fafc; padding: 25px; border-radius: 12px; border-top: 5px solid #002d5a; border-left: 1px solid #e2e8f0;">
+        <h6
+          style="color: #002d5a; margin-top: 0; text-transform: uppercase; font-size: 15px; font-weight: 800;">
+          2. Cantidad Relativa (Qi/QMAX)</h6>
+        <p
+          style="font-size: 14px; color: #475569; line-height: 1.7; margin-bottom: 0;">
+          Ponderación de volúmenes o masas manipuladas en el proceso de trabajo.
+        </p>
+      </div>
+      <div
+        style="background: #f8fafc; padding: 25px; border-radius: 12px; border-top: 5px solid #002d5a; border-left: 1px solid #e2e8f0;">
+        <h6
+          style="color: #002d5a; margin-top: 0; text-transform: uppercase; font-size: 15px; font-weight: 800;">
+          3. Frecuencia de Uso (F)</h6>
+        <p
+          style="font-size: 14px; color: #475569; line-height: 1.7; margin-bottom: 0;">
+          Análisis del tiempo de exposición efectiva durante la jornada laboral.
+        </p>
+      </div>
+      <div
+        style="background: #eff6ff; padding: 25px; border-radius: 12px; border-top: 5px solid #1d4ed8;">
+        <h6
+          style="color: #1e40af; margin-top: 0; text-transform: uppercase; font-size: 15px; font-weight: 800;">
+          4. Exposición Potencial</h6>
+        <p
+          style="font-size: 14px; color: #1e3a8a; line-height: 1.7; margin-bottom: 0;">
+          Intersección técnica entre <strong>Cantidad (Q)</strong> y
+          <strong>Frecuencia (F)</strong> en la matriz de exposición.</p>
+      </div>
+      <div
+        style="background: #f1f5f9; padding: 25px; border-radius: 12px; border-top: 5px solid #475569;">
+        <h6
+          style="color: #1e293b; margin-top: 0; text-transform: uppercase; font-size: 15px; font-weight: 800;">
+          5. Riesgo Potencial (R_p)</h6>
+        <p
+          style="font-size: 14px; color: #334155; line-height: 1.7; margin-bottom: 0;">
+          Resultado final que determina la prioridad de intervención por medio
+          de puntajes.</p>
+      </div>
+    </div>
+    <div
+      style="background: white; border: 2px dashed #cbd5e1; padding: 20px; border-radius: 20px; text-align: center; box-shadow: inset 0 2px 10px rgba(0,0,0,0.02); margin-bottom: 50px;">
+      <h4
+        style="color: #1e293b; margin-bottom: 30px; font-weight: 800; text-transform: uppercase; font-size: 20px; letter-spacing: 1px;">
+        momento 1: Fase de Aplicación</h4>
+      <div style="margin-bottom: 40px; display: inline-block;">
+        <div
+          style="width: 140px; height: 140px; background: #f8fafc; border: 5px solid #002d5a; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 70px; margin: 0 auto; box-shadow: 0 12px 25px rgba(0,45,90,0.12);">
+          📊</div>
+        <div
+          style="margin-top: 20px; background: #002d5a; color: white; padding: 8px 18px; font-size: 13px; border-radius: 6px; font-weight: bold; text-transform: uppercase; letter-spacing: 1.5px;">
+          METODO INRS I</div>
+      </div>
+      <p
+        style="color: #475569; font-size: 17px; margin-bottom: 35px; line-height: 1.8; max-width: 800px; margin-left: auto; margin-right: auto;">
+        Para iniciar la evaluación diagnóstica en tiempo real, acceda al entorno
+        de aplicación mediante el siguiente comando académico. <strong>Recuerde
+          aplicar el rigor técnico de la NTP 1.080 en sus respuestas segun lo
+          indicado por el tutor.</strong></p>
+      <a style="display: inline-block; background: #002d5a; color: white; text-decoration: none; padding: 22px 65px; border-radius: 60px; font-weight: 800; font-size: 16px; letter-spacing: 2.5px; transition: all 0.3s ease; border: 2px solid #ffc107; box-shadow: 0 15px 30px rgba(0,45,90,0.4);"
+        href="https://quizizz.com/join" target="_blank" rel="noopener"> INGRESAR
+        A ACTIVIDAD EN WAYGROUND 🚀 </a>
+      <div
+        style="margin-top: 40px; font-size: 14px; color: #64748b; background: #f8fafc; padding: 20px; border-radius: 12px; border: 1px solid #e2e8f0;">
+        <strong>Protocolo de Identificación:</strong> Ingrese el código
+        suministrado por el tutor, registre sus <strong>Apellidos y Nombres
+          Completos</strong> e inicie la validación de competencias.</div>
+    </div>
+    <div
+      style="background: #ffffff; border: 1px solid #e2e8f0; padding: 20px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.05); margin-bottom: 50px;">
+      <h4
+        style="color: #002d5a; margin-bottom: 30px; font-weight: 800; text-transform: uppercase; font-size: 20px; letter-spacing: 1px; border-left: 6px solid #ffc107; padding-left: 15px;">
+        MOMENTO 2: Taller de Jerarquización por Grupos</h4>
+      <p
+        style="text-align: justify; color: #334155; line-height: 1.8; font-size: 17px; margin-bottom: 30px;">
+        Tras el momento 1, se le asignará a cada equipo un número de grupo del 1
+        al 6. Cada equipo deberá realizar el análisis detallado de un entorno de
+        laboratorio bajo condiciones controladas de Temperatura Ambiental.</p>
+      <div
+        style="background: #f0f9ff; padding: 25px; border-radius: 12px; border: 1px solid #bae6fd; margin-bottom: 35px;">
+        <h5
+          style="color: #0369a1; margin-top: 0; text-transform: uppercase; font-size: 14px; font-weight: 800;">
+          📥 Entregable del Proyecto Colaborativo</h5>
+        <p
+          style="color: #0c4a6e; font-size: 15px; line-height: 1.6; margin-bottom: 10px;">
+          Una vez aplicada la metodología, el equipo de trabajo debe consolidar
+          un reporte técnico que incluya:</p>
+        <ul
+          style="color: #0c4a6e; font-size: 14px; line-height: 1.7; padding-left: 20px;">
+          <li><strong>Inventario Jerarquizado:</strong> Listado detallado de los
+            productos químicos evaluados, ordenados de mayor a menor según su
+            puntaje de <em>Riesgo Potencial (R_p)</em>.</li>
+          <li><strong>Matriz de Priorización:</strong> Visualización clara de
+            los agentes químicos que requieren intervención inmediata (Prioridad
+            1) frente a los de monitoreo (Prioridad 3).</li>
+          <li><strong>Análisis Técnico y Conclusiones:</strong> Síntesis
+            diagnóstica de la peligrosidad del laboratorio y recomendaciones
+            preventivas fundamentadas en los resultados obtenidos.</li>
+        </ul>
+      </div>
+      <div style="margin-bottom: 35px;">
+        <h5
+          style="color: #1e293b; font-size: 15px; font-weight: 800; text-transform: uppercase; margin-bottom: 15px; text-align: center;">
+          📍 Información de Productos por Grupo (Recurso Genially)</h5>
+        <div
+          style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px; border: 2px solid #002d5a; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+          <iframe
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+            src="https://view.genially.com/6401652be5d4b50018f3a280"
+            scrolling="yes" allowfullscreen="allowfullscreen">
+          </iframe></div>
+      </div>
+      <div
+        style="display: flex; align-items: flex-start; gap: 20px; background: #fffbeb; padding: 25px; border-radius: 12px; border: 1px solid #fef3c7;">
+        <div style="font-size: 30px;">⚠️</div>
+        <p
+          style="color: #92400e; font-size: 15px; line-height: 1.6; margin: 0; font-weight: 500;">
+          <strong>Instrucciones de Grupo:</strong> Localice en el recurso
+          anterior la tabla de datos de su grupo. Cruce la <em>Indicación de
+            Peligro (Frases H)</em>, la <em>Cantidad Anual</em> y la
+          <em>Frecuencia de Uso</em> para determinar el Nivel de Prioridad de
+          Acción.</p>
+      </div>
+    </div>
+    <div
+      style="background: #002d5a; color: white; padding: 15px; border-radius: 20px; box-shadow: 0 15px 35px rgba(0,45,90,0.2);">
+      <h4
+        style="color: #ffc107; margin-bottom: 30px; font-weight: 800; text-transform: uppercase; font-size: 20px; letter-spacing: 1px;">
+        📦 Apartado de Entrega de Evidencias</h4>
+      <div
+        style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px;">
+        <ul style="list-style: none; padding: 0; margin: 0;">
+          <li
+            style="margin-bottom: 15px; font-size: 16px; display: flex; align-items: center; gap: 10px;">
+            <span style="color: #ffc107;">✔</span> <strong>Formato:</strong>
+            Exclusivamente en <strong>PDF</strong>.</li>
+          <li
+            style="margin-bottom: 15px; font-size: 16px; display: flex; align-items: center; gap: 10px;">
+            <span style="color: #ffc107;">✔</span>
+            <strong>Nomenclatura:</strong> <code
+              style="background: rgba(255,255,255,0.1); padding: 3px 8px; border-radius: 4px; color: #ffc107;">Riesgo_Quimico_GrupoX.pdf</code>
+          </li>
+          <li
+            style="font-size: 16px; display: flex; align-items: center; gap: 10px;">
+            <span style="color: #ffc107;">✔</span> <strong>Fecha:</strong> Según
+            calendario académico <strong>UNIAJC</strong>.</li>
+        </ul>
+        <div
+          style="background: rgba(255,255,255,0.05); padding: 25px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.2);">
+          <p
+            style="font-size: 14px; line-height: 1.6; margin: 0; color: #e2e8f0; text-align: justify;">
+            <strong>ATENCIÓN:</strong> No se aceptan capturas de pantalla o
+            archivos sueltos. Toda la evidencia del análisis (matrices de cruce,
+            cálculos de R_p, jerarquización de productos y conclusiones) debe
+            estar integrada en el PDF único.</p>
+        </div>
+      </div>
+    </div>
+    <div
+      style="margin-top: 50px; background: #f1f5f9; border-radius: 15px; padding: 30px; display: flex; align-items: center; gap: 25px; border: 1px solid #e2e8f0;">
+      <div style="font-size: 40px;">📑</div>
+      <div>
+        <h5
+          style="color: #002d5a; margin: 0 0 8px 0; font-size: 16px; font-weight: 800; text-transform: uppercase;">
+          Consulta Técnica Detallada</h5>
+        <p style="margin: 0 0 18px 0; color: #475569; font-size: 14px;">
+          Descargue la norma completa para profundizar en los criterios de
+          cuantificación de la jerarquía de riesgos.</p>
+        <a style="color: #0284c7; font-weight: bold; text-decoration: none; border-bottom: 2px solid #0284c7; font-size: 14px;"
+          href="https://saludlaboralydiscapacidad.org/wp-content/uploads/2019/05/NTP-1080-Agentes-qu%C3%ADmicos-jerarquizaci%C3%B3n-de-riesgos-potenciales-M%C3%A9todo-basado-en-el-INRS-1.pdf"
+          target="_blank" rel="noopener"> Ver documento oficial NTP 1.080
+          (INSST) </a>
+      </div>
+    </div>
+  </div>
+  <div
+    style="background: #f1f5f9; padding: 30px; text-align: center; border-top: 1px solid #e2e8f0;">
+    <p
+      style="margin: 0; font-size: 13px; color: #475569; letter-spacing: 2px; font-weight: bold; text-transform: uppercase;">
+      Administración en Seguridad y Salud en el Trabajo | UNIAJC 2026</p>
+  </div>
+</div>
