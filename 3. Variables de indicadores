@@ -1,0 +1,248 @@
+<!-- Sección de Parámetros Técnicos con Numeración y Tipografía Ajustada -->
+<section
+  style="background-color: #f4f7f6; padding: 50px 0; font-family: 'Segoe UI', Roboto, sans-serif;">
+  <div class="container"><!-- Encabezado -->
+    <div style="text-align: center; margin-bottom: 50px;">
+      <h2
+        style="color: #1a3a5a; font-weight: 850; text-transform: uppercase; letter-spacing: 3px; display: inline-block; border-bottom: 4px solid #0056b3; padding-bottom: 10px;">
+        Glosario de Métricas Analíticas</h2>
+      <p
+        style="color: #546e7a; font-size: 15px; margin-top: 15px; font-style: italic;">
+        Variables críticas para la cuantificación de contaminantes en higiene
+        industrial.</p>
+    </div>
+    <div class="row"><!-- 1. VOLUMEN DE MUESTREO -->
+      <div class="col-12 col-lg-6 mb-4">
+        <div
+          style="background: #ffffff; border-radius: 12px; padding: 25px; height: 100%; border: 1px solid #cfd8dc; display: flex; align-items: flex-start;">
+          <div
+            style="background: #0056b3; color: #ffffff; min-width: 65px; height: 65px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 20px; font-size: 28px; font-weight: 900; border: 4px solid #e3f2fd; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+            1</div>
+          <div>
+            <h5 style="color: #1a3a5a; font-weight: 800; margin-bottom: 8px;"><i
+                class="fa fa-cube"
+                style="color: #0056b3; margin-right: 8px;"></i> Volumen de
+              Muestreo</h5>
+            <p
+              style="font-size: 16px; color: #455a64; line-height: 1.5; text-align: justify; margin: 0;">
+              Es la cantidad total de aire aspirado durante el proceso. Es
+              fundamental para determinar la concentración y se mide en
+              <strong>litros (L)</strong> o <strong>metros cúbicos
+                (m³)</strong>.</p>
+          </div>
+        </div>
+      </div>
+      <!-- 2. PESO DE MUESTRA -->
+      <div class="col-12 col-lg-6 mb-4">
+        <div
+          style="background: #ffffff; border-radius: 12px; padding: 25px; height: 100%; border: 1px solid #cfd8dc; display: flex; align-items: flex-start;">
+          <div
+            style="background: #2e7d32; color: #ffffff; min-width: 65px; height: 65px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 20px; font-size: 28px; font-weight: 900; border: 4px solid #e8f5e9; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+            2</div>
+          <div>
+            <h5 style="color: #1a3a5a; font-weight: 800; margin-bottom: 8px;"><i
+                class="fa fa-balance-scale"
+                style="color: #2e7d32; margin-right: 8px;"></i> Peso de Muestra
+            </h5>
+            <p
+              style="font-size: 16px; color: #455a64; line-height: 1.5; text-align: justify; margin: 0;">
+              Masa de material particulado capturado en el medio de retención.
+              Se determina por diferencia gravimétrica y se expresa en
+              <strong>miligramos (mg)</strong>.</p>
+          </div>
+        </div>
+      </div>
+      <!-- 3. CONCENTRACIÓN -->
+      <div class="col-12 col-lg-6 mb-4">
+        <div
+          style="background: #ffffff; border-radius: 12px; padding: 25px; height: 100%; border: 1px solid #cfd8dc; display: flex; align-items: flex-start;">
+          <div
+            style="background: #ef6c00; color: #ffffff; min-width: 65px; height: 65px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 20px; font-size: 28px; font-weight: 900; border: 4px solid #fff3e0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+            3</div>
+          <div>
+            <h5 style="color: #1a3a5a; font-weight: 800; margin-bottom: 8px;"><i
+                class="fa fa-filter"
+                style="color: #ef6c00; margin-right: 8px;"></i> Concentración de
+              Muestra</h5>
+            <p
+              style="font-size: 16px; color: #455a64; line-height: 1.5; text-align: justify; margin: 0;">
+              Carga de contaminante por unidad de volumen de aire. Se calcula
+              dividiendo el peso neto por el volumen total, expresándose en
+              <strong>mg/m³</strong>.</p>
+          </div>
+        </div>
+      </div>
+      <!-- 4. CONCENTRACIÓN PONDERADA (CORREGIDO) -->
+      <div class="col-12 col-lg-6 mb-4">
+        <div
+          style="background: #ffffff; border-radius: 12px; padding: 25px; height: 100%; border: 1px solid #cfd8dc; display: flex; align-items: flex-start;">
+          <div
+            style="background: #7b1fa2; color: #ffffff; min-width: 65px; height: 65px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 20px; font-size: 28px; font-weight: 900; border: 4px solid #f3e5f5; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+            4</div>
+          <div>
+            <h5 style="color: #1a3a5a; font-weight: 800; margin-bottom: 8px;"><i
+                class="fa fa-line-chart"
+                style="color: #7b1fa2; margin-right: 8px;"></i> Concentración
+              Ponderada</h5>
+            <p
+              style="font-size: 16px; color: #455a64; line-height: 1.5; text-align: justify; margin: 0;">
+              Representa la exposición promedio real del trabajador durante su
+              jornada, ajustando las variaciones de concentración según el
+              tiempo de exposición.</p>
+          </div>
+        </div>
+      </div>
+      <!-- 5. FLUJO O CAUDAL -->
+      <div class="col-12 col-lg-6 mb-4">
+        <div
+          style="background: #ffffff; border-radius: 12px; padding: 25px; height: 100%; border: 1px solid #cfd8dc; display: flex; align-items: flex-start;">
+          <div
+            style="background: #00695c; color: #ffffff; min-width: 65px; height: 65px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 20px; font-size: 28px; font-weight: 900; border: 4px solid #e0f2f1; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+            5</div>
+          <div>
+            <h5 style="color: #1a3a5a; font-weight: 800; margin-bottom: 8px;"><i
+                class="fa fa-tachometer"
+                style="color: #00695c; margin-right: 8px;"></i> Flujo o Caudal
+            </h5>
+            <p
+              style="font-size: 16px; color: #455a64; line-height: 1.5; text-align: justify; margin: 0;">
+              Velocidad de captación de aire (<strong>L/min</strong>). Es un
+              parámetro crítico que debe mantenerse constante para garantizar la
+              validez legal del muestreo.</p>
+          </div>
+        </div>
+      </div>
+      <!-- 6. ÍNDICE DE RIESGO -->
+      <div class="col-12 col-lg-6 mb-4">
+        <div
+          style="background: #ffffff; border-radius: 12px; padding: 25px; height: 100%; border: 1px solid #cfd8dc; display: flex; align-items: flex-start;">
+          <div
+            style="background: #c62828; color: #ffffff; min-width: 65px; height: 65px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 20px; font-size: 28px; font-weight: 900; border: 4px solid #ffebee; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+            6</div>
+          <div>
+            <h5 style="color: #1a3a5a; font-weight: 800; margin-bottom: 8px;"><i
+                class="fa fa-warning"
+                style="color: #c62828; margin-right: 8px;"></i> Índice de Riesgo
+              (IR)</h5>
+            <p
+              style="font-size: 16px; color: #455a64; line-height: 1.5; text-align: justify; margin: 0;">
+              Indicador de peligro obtenido al comparar la concentración hallada
+              con el <strong>Límite Máximo Permisible (TLV)</strong>. Define la
+              prioridad de acción.</p>
+          </div>
+        </div>
+      </div>
+      <!-- 7. TIEMPO DE MUESTREO -->
+      <div class="col-12 col-lg-6 mb-4">
+        <div
+          style="background: #ffffff; border-radius: 12px; padding: 25px; height: 100%; border: 1px solid #cfd8dc; display: flex; align-items: flex-start;">
+          <div
+            style="background: #212121; color: #ffffff; min-width: 65px; height: 65px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 20px; font-size: 28px; font-weight: 900; border: 4px solid #fafafa; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+            7</div>
+          <div>
+            <h5 style="color: #1a3a5a; font-weight: 800; margin-bottom: 8px;"><i
+                class="fa fa-clock-o"
+                style="color: #212121; margin-right: 8px;"></i> Tiempo de
+              Muestreo</h5>
+            <p
+              style="font-size: 16px; color: #455a64; line-height: 1.5; text-align: justify; margin: 0;">
+              Duración cronometrada de la toma de muestra en
+              <strong>minutos</strong>. Es el factor determinante para el
+              cálculo del volumen final.</p>
+          </div>
+        </div>
+      </div>
+      <!-- 8. TLV AJUSTADO -->
+      <div class="col-12 col-lg-6 mb-4">
+        <div
+          style="background: #fffde7; border-radius: 12px; padding: 25px; height: 100%; border: 2px dashed #fbc02d; display: flex; align-items: flex-start;">
+          <div
+            style="background: #fbc02d; color: #1a3a5a; min-width: 65px; height: 65px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 20px; font-size: 28px; font-weight: 900; border: 4px solid #ffffff; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+            8</div>
+          <div>
+            <h5 style="color: #1a3a5a; font-weight: 800; margin-bottom: 8px;"><i
+                class="fa fa-calculator"
+                style="color: #fbc02d; margin-right: 8px;"></i> TLV Ajustado
+            </h5>
+            <p
+              style="font-size: 16px; color: #455a64; line-height: 1.5; text-align: justify; margin: 0;">
+              Cálculo correctivo para jornadas de trabajo atípicas (más de
+              8h/día o 40h/semana), asegurando que el límite de seguridad sea
+              proporcional al tiempo extra.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- BLOQUE DE RETO: ANÁLISIS DE GESTIÓN ANALÍTICA -->
+    <div
+      style="margin-top: 30px; border: 2px solid #1a3a5a; border-radius: 15px; overflow: hidden; background: #ffffff;">
+      <div
+        style="background: #1a3a5a; color: #ffffff; padding: 15px 25px; display: flex; align-items: center;">
+        <div
+          style="background: #ffc107; color: #1a3a5a; padding: 5px 15px; border-radius: 4px; font-weight: 900; margin-right: 15px; font-size: 14px;">
+          CASO DE AUDITORÍA</div>
+        <h4
+          style="margin: 0; font-weight: 800; font-size: 18px; text-transform: uppercase; letter-spacing: 1px;">
+          Discrepancia en Informe de Higiene</h4>
+      </div>
+      <div style="padding: 30px;">
+        <div class="row"><!-- Escenario -->
+          <div class="col-md-7"
+            style="border-right: 1px solid #e0e0e0; padding-right: 30px;">
+            <p
+              style="font-size: 15px; color: #1a3a5a; font-weight: bold; margin-bottom: 10px;">
+              <i class="fa fa-file-text" style="margin-right: 8px;"></i>
+              ESCENARIO DE CAMPO:</p>
+            <p
+              style="font-size: 15px; color: #455a64; line-height: 1.6; text-align: justify;">
+              Usted recibe un informe de laboratorio de un proveedor externo
+              sobre exposición a polvos. Al revisar la sección de
+              <strong>Parámetros Técnicos</strong>, nota los siguientes datos:
+            </p>
+            <ul
+              style="background: #f8f9fa; padding: 15px 15px 15px 35px; border-radius: 8px; color: #2c3e50; font-family: monospace; font-size: 14px; list-style-type: square;">
+              <li>Caudal (Flujo): 2.0 L/min</li>
+              <li>Tiempo de muestreo: 480 min</li>
+              <li>Volumen reportado: 750 Litros</li>
+              <li>Peso de muestra: 1.2 mg</li>
+            </ul>
+            <p
+              style="font-size: 14px; background: #fff3e0; color: #e65100; padding: 10px; border-left: 4px solid #ef6c00; font-style: italic;">
+              <strong>Nota del Administrador:</strong> El proveedor cobró la
+              tarifa completa y asegura que el informe es válido para entes de
+              control.</p>
+          </div>
+          <!-- El Desafío -->
+          <div class="col-md-5" style="padding-left: 30px;">
+            <h6
+              style="color: #c62828; font-weight: 900; text-transform: uppercase; margin-bottom: 15px;">
+              <i class="fa fa-crosshairs"></i> Desafío de Gestión:</h6>
+            <div style="font-size: 14px; color: #37474f;">
+              <p style="margin-bottom: 15px;">Como Administrador en SST, usted
+                debe decidir si aprueba el pago o rechaza el informe por error
+                técnico:</p>
+              <ol
+                style="padding-left: 20px; font-weight: 600; line-height: 1.8;">
+                <li style="margin-bottom: 10px;">Realice el cálculo (Caudal ×
+                  Tiempo) ¿El <strong>Volumen</strong> reportado es
+                  matemáticamente correcto?</li>
+                <li>¿Cómo afectaría este error al cálculo de la
+                  <strong>Concentración</strong> final y al <strong>Índice de
+                    Riesgo</strong>?</li>
+                <li>¿Qué implicación legal tendría presentar este informe ante
+                  una auditoría de la ARL si el volumen es erróneo?</li>
+              </ol>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        style="background: #f1f5f9; padding: 12px; text-align: center; font-size: 12px; color: #64748b; font-weight: bold; border-top: 1px solid #cfd8dc;">
+        COMPETENCIA: TOMA DE DECISIONES BASADA EN CRITERIOS ANALÍTICOS | UNIAJC
+        2026</div>
+    </div>
+    <!-- Línea de Cierre -->
+    <hr
+      style="border: 0; height: 2px; background: linear-gradient(to right, transparent, #0056b3, transparent); margin-top: 40px;">
+  </div>
+</section>
