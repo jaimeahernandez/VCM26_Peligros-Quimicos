@@ -1,0 +1,336 @@
+<section
+  style="background-color: #f4f7f9; padding: 40px 0; font-family: 'Segoe UI', Roboto, sans-serif;">
+  <div class="container">
+    <div class="card shadow-lg border-0"
+      style="border-radius: 4px; overflow: hidden; background: #ffffff;">
+      <!-- Encabezado del Instrumentario Técnico -->
+      <div style="background: #0c2340; padding: 25px; text-align: center;">
+        <h2
+          style="color: #ffffff; font-size: 24px; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; margin: 0;">
+          Equipamiento y Metodologías de Muestreo</h2>
+        <p
+          style="color: #ffc107; font-size: 14px; margin-top: 10px; font-style: italic; letter-spacing: 1px;">
+          Guía de Instrumentación para Higiene Ocupacional</p>
+      </div>
+      <div class="p-4"
+        style="background-image: radial-gradient(#d1d5db 0.6px, transparent 0.6px); background-size: 15px 15px;">
+        <!-- Navegación de Pestañas -->
+        <ul
+          class="nav nav-pills flex-row text-center mb-4 justify-content-center"
+          style="background: rgba(255,255,255,0.8); border-radius: 50px; padding: 10px; border: 1px solid #e2e8f0;"
+          role="tablist">
+          <li class="nav-item"><a class="nav-link active show"
+              style="border-radius: 30px; font-weight: bold; padding: 12px 25px; transition: 0.3s;"
+              role="tab" href="#tab1" data-toggle="tab">Bomba</a></li>
+          <li class="nav-item"><a class="nav-link"
+              style="border-radius: 30px; font-weight: bold; padding: 12px 25px; transition: 0.3s;"
+              role="tab" href="#tab2" data-toggle="tab">Ciclón</a></li>
+          <li class="nav-item"><a class="nav-link"
+              style="border-radius: 30px; font-weight: bold; padding: 12px 25px; transition: 0.3s;"
+              role="tab" href="#tab3" data-toggle="tab">Medios</a></li>
+          <li class="nav-item"><a class="nav-link"
+              style="border-radius: 30px; font-weight: bold; padding: 12px 25px; transition: 0.3s;"
+              role="tab" href="#tab4" data-toggle="tab">Cassette</a></li>
+          <li class="nav-item"><a class="nav-link"
+              style="border-radius: 30px; font-weight: bold; padding: 12px 25px; transition: 0.3s;"
+              role="tab" href="#tab5" data-toggle="tab">Tren</a></li>
+        </ul>
+        <!-- Contenido de Pestañas -->
+        <div class="tab-content border-0 p-lg-4"
+          style="background: rgba(255,255,255,0.9); border-radius: 12px; min-height: 400px;">
+          <!-- TAB 1: BOMBA (Igual) -->
+          <div id="tab1" class="tab-pane fade mt-3 active show" role="tabpanel">
+            <div
+              style="border-left: 5px solid #1a5276; padding-left: 20px; margin-bottom: 25px;">
+              <p style="font-size: 18px; color: #334155;" class="text-justify">
+                Una bomba de muestreo es un dispositivo utilizado para recoger
+                muestras de aire a través de un medio de captura para recoger
+                contaminantes o partículas presentes en el ambiente de trabajo.
+              </p>
+            </div>
+            <div class="row align-items-center">
+              <div class="col-md-7">
+                <ul style="list-style: none; padding-left: 0;">
+                  <li
+                    style="background: #f8fafc; padding: 15px; border-radius: 8px; margin-bottom: 10px; border: 1px solid #e2e8f0;">
+                    <strong style="color: #1a5276;">1. Bomba de Alto
+                      Flujo:</strong> Es un equipo de succión motorizado
+                    diseñado para operar en rangos de caudal elevados. Ejemplo:
+                    Se utiliza para evaluar la exposición a sílice cristalina en
+                    una zona de construcción o minería.</li>
+                  <li
+                    style="background: #f8fafc; padding: 15px; border-radius: 8px; margin-bottom: 10px; border: 1px solid #e2e8f0;">
+                    <strong style="color: #1a5276;">2. Bomba de Bajo Flujo:
+                    </strong>Es un dispositivo de muestreo de precisión
+                    configurado para operar a caudales reducidos. Se utiliza
+                    cuando el contaminante no es una partícula sólida, sino un
+                    agente químico en estado gaseoso o vapor. Ejemplo: Se emplea
+                    para medir la concentración de vapores de Benceno o Xileno
+                    en una estación de servicio de combustible</li>
+                </ul>
+              </div>
+              <div class="col-md-5 text-center">
+                <figure
+                  style="background: white; padding: 10px; border: 1px solid #dee2e6; border-radius: 4px;">
+                  <img class="img-fluid" style="max-height: 250px;"
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5N7YNPJhWmCThi_n4zvxB62HUzYTugZK-PA&amp;s"
+                    width="246" height="246">
+                  <figcaption
+                    style="font-size: 12px; color: #6c757d; margin-top: 10px; font-weight: bold;">
+                    Bomba digital dual</figcaption>
+                </figure>
+              </div>
+            </div>
+          </div>
+          <!-- TAB 2: CICLÓN (Igual a tu versión mejorada) -->
+          <div id="tab2" class="tab-pane fade mt-3" role="tabpanel">
+            <p style="font-size: 18px;" class="text-justify">Dispositivo para la
+              separación centrífuga de partículas sólidas. Aprovecha la inercia
+              para segmentar fracciones granulométricas específicas.</p>
+            <div class="row align-items-stretch">
+              <div class="col-md-6 mb-3">
+                <div
+                  style="background: #ffffff; border: 1px solid #1a5276; padding: 20px; border-radius: 8px; height: 100%;">
+                  <h5 style="color: #1a5276; font-weight: 800;">Mecánica
+                    Operativa</h5>
+                  <p style="font-size: 16px; margin: 0;">La rotación genera
+                    fuerza centrífuga: las partículas pesadas chocan con las
+                    paredes y caen, mientras las finas (fracción respirable)
+                    ascienden al medio de captura.</p>
+                </div>
+              </div>
+              <div class="col-md-6 mb-3 text-center">
+                <div
+                  style="background: #ffffff; border: 1px solid #e2e8f0; padding: 15px; border-radius: 8px; height: 100%;">
+                  <img class="img-fluid rounded shadow-sm"
+                    style="max-height: 150px;"
+                    src="https://www.zefon.com/images/thumbs/0009206_cyclone-assembly-10mm-dorr-oliver-nylon_600.jpeg">
+                  <p
+                    style="font-size: 12px; margin-top: 10px; color: #64748b; font-weight: bold; margin-bottom: 0;">
+                    Figura: Ciclón para polvo respirable (&lt;10µm).</p>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-12">
+                <div
+                  style="background: #0c2340; color: #ffffff; padding: 25px; border-radius: 8px; border-left: 8px solid #ffc107;">
+                  <h6
+                    style="color: #ffc107; text-transform: uppercase; font-weight: 800; font-size: 13px; margin-bottom: 15px; letter-spacing: 1px;">
+                    Importancia Técnica y Gestión Administrativa:</h6>
+                  <p
+                    style="font-size: 15px; text-align: justify; line-height: 1.6; margin-bottom: 12px; color: #e2e8f0;">
+                    El uso del ciclón es obligatorio para evaluar la
+                    <strong>fracción respirable</strong>. El administrador debe
+                    asegurar que la bomba mantenga un caudal específico (1.7 o
+                    2.2 L/min) para no invalidar legalmente el informe.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- TAB 3: MEDIOS (ACTUALIZADO CON MEJOR DESCRIPCIÓN) -->
+          <div id="tab3" class="tab-pane fade mt-3" role="tabpanel">
+            <h5
+              style="color: #1a5276; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px; font-weight: 800;">
+              Tipología de Medios de Retención</h5>
+            <div class="row mt-4"><!-- Filtros PVC -->
+              <div class="col-md-4 mb-3">
+                <div
+                  style="background: #f8fafc; border: 1px solid #e2e8f0; padding: 20px; border-radius: 8px; height: 100%; text-align: center;">
+                  <img class="img-fluid mb-3" style="height: 100px;"
+                    src="https://assets.fishersci.com/TFS-Assets/CCG/product-images/air-sampling-filters-and-devices-header-image.jpg-250.jpg">
+                  <h6 style="color: #1a5276; font-weight: bold;">Filtros de PVC
+                  </h6>
+                  <p
+                    style="font-size: 13px; color: #475569; text-align: justify;">
+                    Utilizados principalmente para <strong>análisis
+                      gravimétrico</strong> (pesaje) de material particulado. Su
+                    material es resistente a la humedad (baja higroscopicidad),
+                    lo que evita errores en el peso final de la muestra en
+                    laboratorios de alta precisión.</p>
+                  <p
+                    style="font-size: 11px; background: #e2e8f0; padding: 5px; border-radius: 4px; color: #1a5276; font-weight: bold;">
+                    USO: Polvos totales, Sílice, Carbón.</p>
+                </div>
+              </div>
+              <!-- Ésteres de Celulosa -->
+              <div class="col-md-4 mb-3">
+                <div
+                  style="background: #f8fafc; border: 1px solid #e2e8f0; padding: 20px; border-radius: 8px; height: 100%; text-align: center;">
+                  <img class="img-fluid mb-3" style="height: 100px;"
+                    src="https://no.vwr.com/stibo/bigweb/std.lang.all/41/95/16584195.jpg">
+                  <h6 style="color: #1a5276; font-weight: bold;">MCE (Éster de
+                    Celulosa)</h6>
+                  <p
+                    style="font-size: 13px; color: #475569; text-align: justify;">
+                    Este medio es ideal para análisis por
+                    <strong>microscopía</strong> o absorción atómica, ya que el
+                    filtro puede "disolverse" o hacerse transparente mediante
+                    reactivos químicos, permitiendo observar claramente las
+                    fibras o metales retenidos.</p>
+                  <p
+                    style="font-size: 11px; background: #e2e8f0; padding: 5px; border-radius: 4px; color: #1a5276; font-weight: bold;">
+                    USO: Humos metálicos, Asbesto, Soldadura.</p>
+                </div>
+              </div>
+              <!-- Tubos Absorbentes -->
+              <div class="col-md-4 mb-3">
+                <div
+                  style="background: #f8fafc; border: 1px solid #e2e8f0; padding: 20px; border-radius: 8px; height: 100%; text-align: center;">
+                  <img class="img-fluid mb-3" style="height: 100px;"
+                    src="https://www.zefon.com/images/thumbs/0012243_sorbent-tube-coc-charcoal-6x70-10050-1000bx_600.png">
+                  <h6 style="color: #1a5276; font-weight: bold;">Tubos
+                    Absorbentes</h6>
+                  <p
+                    style="font-size: 13px; color: #475569; text-align: justify;">
+                    Contienen carbón activado o gel de sílice que atrapa
+                    <strong>gases y vapores</strong> mediante adsorción. Son
+                    dispositivos críticos para solventes orgánicos; el aire pasa
+                    a través de ellos y el químico queda adherido físicamente al
+                    medio.</p>
+                  <p
+                    style="font-size: 11px; background: #e2e8f0; padding: 5px; border-radius: 4px; color: #1a5276; font-weight: bold;">
+                    USO: Xileno, Benceno, Alcoholes, COVs.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- TAB 4: CASSETTE -->
+          <div id="tab4" class="tab-pane fade mt-3" role="tabpanel">
+            <div class="row align-items-center"><!-- Texto a la Izquierda -->
+              <div class="col-md-6">
+                <h5 style="color: #1a5276; font-weight: 800;">Estructura del
+                  Cassette</h5>
+                <p style="font-size: 16px; text-align: justify;">Carcasa
+                  hermética diseñada para asegurar que el flujo de aire incida
+                  exclusivamente sobre el filtro. Fabricados usualmente en
+                  poliestireno transparente o negro (conductivo) para evitar
+                  interferencias estáticas.</p>
+                <ul style="font-size: 15px;">
+                  <li><strong>Configuración:</strong> Disponibles en diámetros
+                    de 25 mm y 37 mm según el contaminante.</li>
+                  <li><strong>Sellado:</strong> Puerto de entrada/salida
+                    protegido con tapones para transporte seguro.</li>
+                  <li><strong>Integridad:</strong> Garantiza que no existan
+                    fugas de aire que alteren el volumen muestreado.</li>
+                </ul>
+              </div>
+              <!-- Imagen a la Derecha -->
+              <div class="col-md-6 text-center"><img class="img-fluid"
+                  style="max-height: 250px;"
+                  src="https://www.skcltd.com/images/cassettes-filters/225-9022_exploded_500x500.png">
+                <p style="font-size: 12px; font-weight: bold; color: #64748b;">
+                  Vista explosionada de un cassette de 3 piezas.</p>
+              </div>
+            </div>
+            <!-- Nueva Etiqueta Azul de Descripción Adicional -->
+            <div class="row mt-3">
+              <div class="col-12">
+                <div
+                  style="background: #0c2340; color: #ffffff; padding: 20px; border-radius: 8px; border-left: 8px solid #ffc107;">
+                  <h6
+                    style="color: #ffc107; text-transform: uppercase; font-weight: 800; font-size: 13px; margin-bottom: 10px; letter-spacing: 1px;">
+                    Consideraciones Críticas de Gestión:</h6>
+                  <p
+                    style="font-size: 15px; text-align: justify; line-height: 1.6; margin: 0; color: #e2e8f0;">
+                    El cassette no es solo un soporte; actúa como la
+                    <strong>cámara de exposición</strong>. En la gestión de
+                    higiene, es vital verificar que el cassette esté
+                    correctamente sellado con bandas retráctiles de celulosa
+                    después del muestreo. Cualquier signo de manipulación o
+                    apertura del cassette antes de llegar al laboratorio
+                    <strong>invalida la cadena de custodia</strong> y, por ende,
+                    la validez legal del análisis de la muestra.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- TAB 5: TREN (Igual) -->
+          <div id="tab5" class="tab-pane fade mt-3" role="tabpanel">
+            <div
+              style="background: #0c2340; color: white; padding: 25px; border-radius: 8px; margin-bottom: 30px;">
+              <h4 style="color: #ffc107;">Configuración del Tren de Muestreo
+              </h4>
+              <p>Integración serial de: Bomba + Manguera + Medio + Calibrador.
+              </p>
+            </div>
+            <div class="row align-items-center">
+              <div class="col-md-6 text-center"><img
+                  class="img-fluid rounded shadow" style="max-height: 250px;"
+                  src="https://www.pine-environmental.com/cdn/shop/products/1439_6807b652-4c7c-46f7-8fac-aec3d8b784b1_496x.jpg?v=1594742266">
+              </div>
+              <div class="col-md-6">
+                <p style="font-size: 16px;" class="text-justify">El tren de
+                  muestreo es la integración serial y hermética de componentes
+                  (bomba de succión, manguera de conexión, medio de retención y,
+                  opcionalmente, un pre-selector de partículas) diseñada para
+                  capturar contaminantes en la zona respiratoria del trabajador.
+                  Es considerado el "estándar de oro" en la higiene industrial
+                  para cuantificar la dosis real de exposición a la que se
+                  enfrenta el personal durante su jornada laboral.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- RETO DE AUDITORÍA -->
+      <div
+        style="margin-top: 5px; border-top: 2px dashed #e2e8f0; padding-top: 5px;">
+        <div
+          style="background: #fdfdfd; border: 1px solid #0c2340; border-left: 8px solid #0c2340; padding: 25px; position: relative;">
+          <div style="display: flex; align-items: center; margin-bottom: 20px;">
+            <div
+              style="background: #0c2340; color: #ffffff; padding: 5px 12px; font-weight: 800; border-radius: 2px; margin-right: 15px; font-size: 11px; letter-spacing: 1px;">
+              RETO DE AUDITORÍA</div>
+            <h4
+              style="color: #0c2340; font-weight: 800; margin: 0; font-family: 'Segoe UI', sans-serif; font-size: 18px;">
+              Verificación de Criterios Técnicos en Campo</h4>
+          </div>
+          <div class="row">
+            <div class="col-md-7">
+              <p
+                style="font-size: 14px; color: #334155; line-height: 1.6; text-align: justify;">
+                Usted supervisa a un consultor externo que realiza un muestreo
+                de <strong>polvo de sílice (fracción respirable)</strong>. Al
+                observar el equipo, nota que <strong>no está utilizando el
+                  ciclón</strong>, sino que ha conectado el cassette
+                directamente a la bomba.</p>
+              <div
+                style="background: #fff9e6; padding: 10px 15px; border-radius: 4px; margin-top: 15px;">
+                <p
+                  style="margin: 0; font-size: 13px; color: #856404; font-weight: bold;">
+                  <i class="fas fa-exclamation-triangle"></i> Dilema
+                  Administrativo:</p>
+                <p
+                  style="margin: 0; font-size: 13px; color: #856404; font-style: italic;">
+                  Si permite que el muestreo continúe así, los resultados no
+                  serán legalmente válidos.</p>
+              </div>
+            </div>
+            <div class="col-md-5"
+              style="border-left: 1px solid #e2e8f0; padding-left: 25px;">
+              <h6
+                style="color: #0c2340; font-weight: 800; font-size: 12px; margin-bottom: 15px; text-transform: uppercase;">
+                Análisis de Gestión:</h6>
+              <ul
+                style="list-style: none; padding-left: 0; font-size: 13px; color: #475569;">
+                <li style="margin-bottom: 10px; display: flex;">
+                  <strong>A.</strong> ¿Por qué la ausencia del ciclón invalida
+                  la muestra técnica para "polvo respirable"?</li>
+                <li style="margin-bottom: 10px; display: flex;">
+                  <strong>B.</strong> ¿Qué acción inmediata tomaría ante esta
+                  falla del proveedor?</li>
+                <li style="display: flex;"><strong>C.</strong> ¿Cómo verificaría
+                  el caudal antes de reiniciar?</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Footer Académico -->
+      <div
+        style="background: #f1f5f9; padding: 15px; border-top: 1px solid #e2e8f0; text-align: center; font-size: 11px; color: #94a3b8; font-weight: bold; text-transform: uppercase;">
+        PELIGROS FISICOS I | UNIAJC 2026</div>
+    </div>
+  </div>
+</section>
