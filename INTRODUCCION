@@ -1,0 +1,120 @@
+<!-- CONTENEDOR PRINCIPAL: ACTIVIDAD MATERIAL PARTICULADO NIOSH 0600 -->
+<section
+  style="font-family: 'Segoe UI', Roboto, Arial, sans-serif; max-width: 1000px; margin: 20px auto; border: 1px solid #e2e8f0; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.1); background-color: #ffffff;">
+  <!-- 1. ENCABEZADO DE IDENTIFICACIÓN TÉCNICA -->
+  <div
+    style="background-color: #1a3a5a; padding: 35px; text-align: center; border-bottom: 5px solid #f1c40f;">
+    <h3
+      style="color: #ffffff; text-transform: uppercase; margin: 0; font-size: 1.6em; letter-spacing: 2px; font-weight: 800;">
+      <span style="margin-right: 15px;">🔬</span> Validación de Competencias en
+      Higiene Industrial</h3>
+    <p
+      style="color: #f1c40f; margin-top: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; font-size: 13px;">
+      METODO NIOSH 0600: Material Particulado (Fracción Respirable)</p>
+  </div>
+  <div style="padding: 40px;"><!-- 2. CUERPO ACADÉMICO / INTRODUCCIÓN -->
+    <div
+      style="text-align: justify; font-size: 18px; color: #334155; line-height: 1.8; margin-bottom: 30px;">
+      <p>Esta actividad se centra en un <strong>estudio de caso </strong>para la
+        evaluación de la exposición ocupacional a material particulado (Fracción
+        Respirable). Utilizando el rigor técnico de la metodología <strong>NIOSH
+          0600</strong>, se analiza el muestreo personal realizado a dos (2)
+        operarios en condiciones reales de trabajo.</p>
+      <p
+        style="background-color: #f8fafc; border-left: 5px solid #1a3a5a; padding: 20px; border-radius: 4px; font-style: italic; color: #475569;">
+        "El estudiante deberá integrar datos críticos de flujos de muestreo,
+        gravimetría (pesos), tiempos de exposición y límites de exposición
+        permisibles (TLV) para emitir un juicio técnico sobre el nivel de riesgo
+        hallado."</p>
+    </div>
+    <!-- 3. GRILLA DE COMPONENTES DEL CASO -->
+    <div
+      style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 35px;">
+      <div
+        style="background: #f1f5f9; padding: 15px; border-radius: 8px; font-size: 14px; color: #1e293b; border: 1px solid #cbd5e1;">
+        <strong>📋 Variables de Análisis:</strong> Equipos de muestreo, EPP y
+        cronogramas de jornada laboral.</div>
+      <div
+        style="background: #f1f5f9; padding: 15px; border-radius: 8px; font-size: 14px; color: #1e293b; border: 1px solid #cbd5e1;">
+        <strong>📉 Indicadores de Exposición:</strong> Concentraciones
+        ambientales y comparación con normatividad vigente.</div>
+    </div>
+    <!-- 4. ETIQUETAS DE NAVEGACIÓN Y RECURSOS -->
+    <div style="margin-bottom: 35px;"><!-- Etiqueta: Recursos -->
+      <div
+        style="max-width: 450px; margin: 15px 0; border-left: 6px solid #1a3a5a; background: #f8fafc; padding: 12px 20px; border-radius: 0 12px 12px 0; border: 1px solid #e2e8f0; border-left-width: 6px;">
+        <div style="display: flex; align-items: center; gap: 15px;"><span
+            style="font-size: 24px;">📽️</span>
+          <div>
+            <h5
+              style="margin: 0; color: #1a3a5a; font-size: 12px; text-transform: uppercase; letter-spacing: 1px; font-weight: 800;">
+              Recursos de Apoyo</h5>
+            <p style="margin: 2px 0 0 0; color: #475569; font-size: 13px;">
+              Tutoriales de Cálculo y Metodología</p>
+          </div>
+        </div>
+      </div>
+      <!-- Etiqueta: Protocolo/Caso -->
+      <div
+        style="max-width: 450px; margin: 15px 0; border-left: 6px solid #f1c40f; background: #fffbeb; padding: 12px 20px; border-radius: 0 12px 12px 0; border: 1px solid #fef3c7; border-left-width: 6px;">
+        <div style="display: flex; align-items: center; gap: 15px;"><span
+            style="font-size: 24px;">📄</span>
+          <div>
+            <h5
+              style="margin: 0; color: #92400e; font-size: 12px; text-transform: uppercase; letter-spacing: 1px; font-weight: 800;">
+              Protocolo Técnico</h5>
+            <p style="margin: 2px 0 0 0; color: #78350f; font-size: 13px;">
+              Estudio de Caso: NIOSH 0600</p>
+          </div>
+        </div>
+      </div>
+      <!-- Etiqueta: Evaluación -->
+      <div
+        style="max-width: 450px; margin: 15px 0; border-left: 6px solid #059669; background: #ecfdf5; padding: 12px 20px; border-radius: 0 12px 12px 0; border: 1px solid #d1fae5; border-left-width: 6px;">
+        <div style="display: flex; align-items: center; gap: 15px;"><span
+            style="font-size: 24px;">✅</span>
+          <div>
+            <h5
+              style="margin: 0; color: #065f46; font-size: 12px; text-transform: uppercase; letter-spacing: 1px; font-weight: 800;">
+              Validación Final</h5>
+            <p style="margin: 2px 0 0 0; color: #047857; font-size: 13px;">
+              Evaluación de Competencias Técnicas</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 5. INSTRUCCIÓN OPERATIVA Y CIERRE -->
+    <div
+      style="background-color: #fff9e6; border: 1px solid #fef3c7; border-radius: 12px; padding: 25px; text-align: center;">
+      <h5
+        style="color: #92400e; margin-top: 0; font-weight: 800; text-transform: uppercase;">
+        Guía de Desarrollo</h5>
+      <p style="color: #451a03; font-size: 16px; margin-bottom: 15px;">Responda
+        los requerimientos indicados por el tutor <strong>DURANTE</strong> el
+        encuentro. Se recomienda apoyarse en los tutoriales técnicos incluidos
+        para la resolución de cálculos.</p>
+      <div
+        style="display: inline-block; background-color: #92400e; color: white; padding: 5px 20px; border-radius: 50px; font-size: 12px; font-weight: bold;">
+        ⚠️ La entrega del documento se habilitará automáticamente al concluir el
+        análisis del caso.</div>
+    </div>
+    <p
+      style="margin-top: 30px; text-align: center; font-size: 18px; color: #1a3a5a; font-weight: bold; font-style: italic;">
+      ¡Muchos éxitos en la aplicación de sus conocimientos de Higiene!</p>
+  </div>
+  <!-- 6. FOOTER INSTITUCIONAL UNIAJC -->
+  <footer
+    style="background-color: #f1f5f9; padding: 20px; border-top: 1px solid #e2e8f0;">
+    <div
+      style="display: flex; justify-content: space-between; align-items: center; color: #546e7a;">
+      <div style="display: flex; align-items: center;"><span
+          style="background-color: #1a3a5a; color: #ffffff; padding: 5px 12px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;">
+          Peligros Químicos </span></div>
+      <div style="text-align: right;"><span
+          style="font-size: 14px; font-weight: 800; color: #1a3a5a; letter-spacing: 0.5px;">UNIAJC</span>
+        <span
+          style="display: block; font-size: 9px; color: #94a3b8; text-transform: uppercase;">Institución
+          Universitaria Antonio José Camacho</span></div>
+    </div>
+  </footer>
+</section>
