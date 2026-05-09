@@ -1,0 +1,100 @@
+<!-- SECCIÓN: RETO GERENCIAL DE SST - ANÁLISIS DE EXPOSICIÓN -->
+<section
+  style="font-family: 'Segoe UI', Roboto, Arial, sans-serif; max-width: 1100px; margin: 20px auto; border: 1px solid #e2e8f0; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.1); background-color: #ffffff;">
+  <!-- Encabezado de Desafío -->
+  <div
+    style="background-color: #0f172a; padding: 30px; text-align: center; border-bottom: 5px solid #f1c40f;">
+    <h3
+      style="color: #ffffff; text-transform: uppercase; margin: 0; font-size: 1.5em; letter-spacing: 2px; font-weight: 800;">
+      🏆 RETO: Comité de Gestión de Riesgos Químicos</h3>
+    <p
+      style="color: #f1c40f; margin-top: 8px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; font-size: 12px;">
+      Aplicación de Criterios NIOSH y Toma de Decisiones Administrativas</p>
+  </div>
+  <div style="padding: 40px;"><!-- Contexto del Reto -->
+    <div
+      style="background-color: #f8fafc; border: 1px solid #cbd5e1; padding: 25px; border-radius: 12px; margin-bottom: 35px;">
+      <h5
+        style="color: #0f172a; margin-top: 0; font-weight: 800; text-transform: uppercase; font-size: 15px;">
+        📋 Situación Problema:</h5>
+      <p style="color: #334155; font-size: 15px; line-height: 1.6;">Ustedes
+        forman parte del equipo de <strong>Administración en SST</strong>
+        encargado de auditar los resultados de higiene industrial de una planta
+        de manufactura. Tras el estudio de caso realizado con la técnica NIOSH
+        0600, han surgido discrepancias en la interpretación de los datos de dos
+        operarios críticos. Su labor es resolver el conflicto técnico y proponer
+        la ruta de control.</p>
+    </div>
+    <!-- Desafíos para el Grupo (3 Integrantes) -->
+    <div
+      style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+      <!-- Estudiante 1: Analista de Datos -->
+      <div
+        style="border: 1px solid #e2e8f0; padding: 20px; border-radius: 12px; background: #ffffff;">
+        <div
+          style="color: #3b82f6; font-weight: 800; font-size: 12px; text-transform: uppercase; margin-bottom: 10px;">
+          👤 Estudiante 1: El Analista</div>
+        <h4 style="margin: 0 0 10px 0; color: #0f172a; font-size: 16px;">
+          Contraste de Exposición</h4>
+        <p style="font-size: 14px; color: #475569; line-height: 1.5;">Demuestre
+          matemáticamente si es cierto que el <strong>Operario 1</strong> tiene
+          un riesgo aproximadamente <strong>1.95 veces mayor</strong> que el
+          Operario 2. ¿Cómo afecta el hecho de que ambos laboren 40 horas
+          semanales al cálculo del TLV-TWA?</p>
+      </div>
+      <!-- Estudiante 2: Evaluador de Riesgos -->
+      <div
+        style="border: 1px solid #e2e8f0; padding: 20px; border-radius: 12px; background: #ffffff;">
+        <div
+          style="color: #3b82f6; font-weight: 800; font-size: 12px; text-transform: uppercase; margin-bottom: 10px;">
+          👤 Estudiante 2: El Evaluador</div>
+        <h4 style="margin: 0 0 10px 0; color: #0f172a; font-size: 16px;">
+          Interpretación del IR</h4>
+        <p style="font-size: 14px; color: #475569; line-height: 1.5;">Si el
+          Operario 2 presenta un <strong>IR del 60%</strong> respecto al límite
+          permisible, sustente por qué su nivel de riesgo se clasifica como
+          "Medio" mientras que el Operario 1 es "Alto". ¿Qué muestra tuvo el
+          mayor impacto en este resultado?</p>
+      </div>
+      <!-- Estudiante 3: Gestor Preventivo -->
+      <div
+        style="border: 1px solid #e2e8f0; padding: 20px; border-radius: 12px; background: #ffffff;">
+        <div
+          style="color: #3b82f6; font-weight: 800; font-size: 12px; text-transform: uppercase; margin-bottom: 10px;">
+          👤 Estudiante 3: El Gestor</div>
+        <h4 style="margin: 0 0 10px 0; color: #0f172a; font-size: 16px;">Mitos y
+          Realidades</h4>
+        <p style="font-size: 14px; color: #475569; line-height: 1.5;">Un
+          supervisor afirma que el uso de EPP reduce el Índice de Riesgo medido
+          por los equipos. <strong>Refute técnicamente</strong> esta afirmación
+          y explique por qué el IR se mantiene constante a pesar de la
+          protección personal.</p>
+      </div>
+    </div>
+    <!-- Instrucción Final de Entrega -->
+    <div
+      style="margin-top: 35px; padding: 20px; border: 2px dashed #3b82f6; border-radius: 12px; text-align: center; background-color: #eff6ff;">
+      <p style="margin: 0; font-weight: bold; color: #1d4ed8; font-size: 15px;">
+        📥 FORMATO DE ENTREGA:</p>
+      <p style="margin: 5px 0 0 0; color: #1e40af; font-size: 14px;">Deben
+        consolidar un <strong>Informe Ejecutivo Único</strong> por grupo, donde
+        cada integrante defienda su punto y lleguen a una conclusión
+        administrativa sobre si la operación debe continuar o suspenderse.</p>
+    </div>
+  </div>
+  <!-- Footer Institucional UNIAJC -->
+  <footer
+    style="background-color: #f8fafc; padding: 20px; border-top: 1px solid #e2e8f0;">
+    <div
+      style="display: flex; justify-content: space-between; align-items: center; color: #64748b;">
+      <div style="display: flex; align-items: center;"><span
+          style="background-color: #0f172a; color: #ffffff; padding: 5px 12px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;">
+          Administración en SST </span></div>
+      <div style="text-align: right;"><span
+          style="font-size: 14px; font-weight: 800; color: #0f172a; letter-spacing: 0.5px;">UNIAJC</span>
+        <span
+          style="display: block; font-size: 9px; color: #94a3b8; text-transform: uppercase;">Institución
+          Universitaria Antonio José Camacho</span></div>
+    </div>
+  </footer>
+</section>
