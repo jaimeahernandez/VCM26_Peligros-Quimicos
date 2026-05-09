@@ -1,0 +1,189 @@
+<!-- CALCULADORA NIOSH 0600 - UNIAJC (VERSIÓN SIN COMAS) -->
+<div id="calc-niosh-final"
+  style="font-family: 'Segoe UI', Arial, sans-serif; max-width: 950px; margin: 20px auto; border-radius: 15px; border: 1px solid #cbd5e1; background: #ffffff; box-shadow: 0 10px 30px rgba(0,0,0,0.1); overflow: hidden;">
+  <div
+    style="background: #1a3a5a; color: white; padding: 20px; text-align: center; border-bottom: 4px solid #4CAF50;">
+    <h2 style="margin: 0; font-size: 18px; text-transform: uppercase;">🧪
+      Calculadora de Material Particulado NIOSH 600</h2>
+    <p style="margin: 5px 0 0; font-size: 12px; opacity: 0.8;">Cálculo del
+      Índice de Riesgo y Ajuste de Jornada Laboral (Brief &amp; Scala)</p>
+  </div>
+  <div style="padding: 25px;"><!-- Bloque de Ajuste -->
+    <div
+      style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 15px; margin-bottom: 25px; background: #f8fafc; padding: 20px; border-radius: 12px; border: 1px solid #e2e8f0;">
+      <div><label
+          style="display: block; font-size: 11px; font-weight: 800; color: #475569; margin-bottom: 5px;">TLV
+          BASE (mg/m³)</label> <input id="tlv_base"
+          style="width: 100%; padding: 10px; border: 2px solid #cbd5e1; border-radius: 8px; font-size: 16px; font-weight: bold;"
+          type="text" placeholder="Ej: 3.0"></div>
+      <div><label
+          style="display: block; font-size: 11px; font-weight: 800; color: #475569; margin-bottom: 5px;">HORAS/SEMANA</label>
+        <input id="hrs_semana"
+          style="width: 100%; padding: 10px; border: 2px solid #cbd5e1; border-radius: 8px; font-size: 16px; font-weight: bold;"
+          type="text" placeholder="40"></div>
+      <div
+        style="text-align: center; background: #ecfdf5; border: 1px solid #10b981; border-radius: 8px; padding: 10px;">
+        <label
+          style="display: block; font-size: 10px; font-weight: 800; color: #065f46;">TLV
+          AJUSTADO</label>
+        <div id="res-tlvaj"
+          style="font-size: 24px; font-weight: 900; color: #047857;">0.000</div>
+        <small id="label-ajuste"
+          style="font-size: 9px; color: #065f46; font-weight: bold;">ESPERANDO
+          DATOS</small>
+      </div>
+    </div>
+    <!-- Tabla de Muestras -->
+    <div style="overflow-x: auto;">
+      <table style="width: 100%; border-collapse: collapse;">
+        <thead>
+          <tr
+            style="background: #f1f5f9; font-size: 11px; text-transform: uppercase;">
+            <th style="padding: 10px; border: 1px solid #e2e8f0;">ID</th>
+            <th style="padding: 10px; border: 1px solid #e2e8f0;">Peso (mg)</th>
+            <th style="padding: 10px; border: 1px solid #e2e8f0;">Flujo (L/min)
+            </th>
+            <th style="padding: 10px; border: 1px solid #e2e8f0;">Tiempo (min)
+            </th>
+            <th
+              style="padding: 10px; border: 1px solid #e2e8f0; background: #f8fafc;">
+              Vol (L)</th>
+            <th
+              style="padding: 10px; border: 1px solid #e2e8f0; background: #f0fdf4;">
+              Conc (mg/m³)</th>
+          </tr>
+        </thead>
+        <tbody id="filas-muestras"></tbody>
+      </table>
+    </div>
+    <!-- Resultados y Semáforo -->
+    <div id="panel-semaforo"
+      style="margin-top: 25px; padding: 20px; border-radius: 12px; background: #f8fafc; border: 1px solid #e2e8f0; text-align: center;">
+      <h3 id="texto-estatus"
+        style="margin: 0 0 15px 0; font-size: 18px; font-weight: 900; color: #64748b;">
+        VALORACIÓN</h3>
+      <div
+        style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px;">
+        <div><small style="font-weight: bold; color: #64748b;">FACTOR
+            Fa</small><br><span id="out-factor"
+            style="font-size: 18px; font-weight: 800;">0.000</span></div>
+        <div><small style="font-weight: bold; color: #64748b;">CONC.
+            Cp</small><br><span id="res-cp"
+            style="font-size: 18px; font-weight: 800;">0.000</span></div>
+        <div><small style="font-weight: bold; color: #64748b;">ÍNDICE
+            IR</small><br><span id="res-ir"
+            style="font-size: 22px; font-weight: 900;">0.00</span></div>
+      </div>
+    </div>
+  </div>
+</div>
+<p>
+  <script>
+    // Bloqueo estricto de comas y caracteres no numéricos
+    function filtroPunto(input) {
+      // Reemplaza comas por puntos inmediatamente
+      input.value = input.value.replace(/,/g, '.');
+      // Elimina cualquier carácter que no sea número o el primer punto encontrado
+      input.value = input.value.replace(/[^0-9.]/g, '');
+      // Evita múltiples puntos
+      const partes = input.value.split('.');
+      if (partes.length > 2) {
+        input.value = partes[0] + '.' + partes.slice(1).join('');
+      }
+    }
+
+    const tbody = document.getElementById('filas-muestras');
+    for (let i = 1; i <= 3; i++) {
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td style="padding: 5px; border: 1px solid #e2e8f0; text-align: center; font-weight: bold;">${i}</td>
+        <td style="padding: 5px; border: 1px solid #e2e8f0;"><input type="text" id="p-${i}" oninput="filtroPunto(this); ejecutarCalculos()" style="width: 100%; padding: 8px; border: 1px solid #cbd5e1; border-radius: 4px; text-align: center;"></td>
+        <td style="padding: 5px; border: 1px solid #e2e8f0;"><input type="text" id="f-${i}" oninput="filtroPunto(this); ejecutarCalculos()" style="width: 100%; padding: 8px; border: 1px solid #cbd5e1; border-radius: 4px; text-align: center;"></td>
+        <td style="padding: 5px; border: 1px solid #e2e8f0;"><input type="text" id="t-${i}" oninput="filtroPunto(this); ejecutarCalculos()" style="width: 100%; padding: 8px; border: 1px solid #cbd5e1; border-radius: 4px; text-align: center;"></td>
+        <td id="v-${i}" style="text-align: center; font-weight: bold; background: #f8fafc; border: 1px solid #e2e8f0;">-</td>
+        <td id="c-${i}" style="text-align: center; font-weight: 900; background: #f0fdf4; color: #166534; border: 1px solid #e2e8f0;">-</td>
+    `;
+      tbody.appendChild(tr);
+    }
+
+    function ejecutarCalculos() {
+      const tlvBase = parseFloat(document.getElementById('tlv_base').value) ||
+      0;
+      const h = parseFloat(document.getElementById('hrs_semana').value) || 0;
+      const lblAjuste = document.getElementById('label-ajuste');
+
+      let factor = 0;
+      if (h > 0) {
+        if (h <= 40) {
+          factor = 1.0;
+          lblAjuste.innerText = "SIN AJUSTE (≤40h)";
+        } else {
+          factor = (40 / h) * ((168 - h) / 128);
+          lblAjuste.innerText = "JORNADA ATÍPICA (>40h)";
+        }
+      } else {
+        lblAjuste.innerText = "INGRESE HORAS";
+      }
+
+      const tlvAjustado = tlvBase * factor;
+      document.getElementById('out-factor').innerText = factor.toFixed(3);
+      document.getElementById('res-tlvaj').innerText = tlvAjustado.toFixed(3);
+
+      let sumCT = 0,
+        sumT = 0,
+        hayDatos = false;
+
+      for (let i = 1; i <= 3; i++) {
+        const p = parseFloat(document.getElementById(`p-${i}`).value) || 0;
+        const f = parseFloat(document.getElementById(`f-${i}`).value) || 0;
+        const t = parseFloat(document.getElementById(`t-${i}`).value) || 0;
+
+        if (f > 0 && t > 0) {
+          const vol = f * t;
+          const conc = (p / vol) * 1000;
+          document.getElementById(`v-${i}`).innerText = vol.toFixed(2);
+          document.getElementById(`c-${i}`).innerText = conc.toFixed(3);
+          sumCT += (conc * t);
+          sumT += t;
+          hayDatos = true;
+        } else {
+          document.getElementById(`v-${i}`).innerText = "-";
+          document.getElementById(`c-${i}`).innerText = "-";
+        }
+      }
+
+      const cp = sumT > 0 ? (sumCT / sumT) : 0;
+      const ir = tlvAjustado > 0 ? (cp / tlvAjustado) : 0;
+
+      document.getElementById('res-cp').innerText = cp.toFixed(3);
+      document.getElementById('res-ir').innerText = ir.toFixed(2);
+
+      const panel = document.getElementById('panel-semaforo');
+      const texto = document.getElementById('texto-estatus');
+
+      if (tlvBase <= 0 || h <= 0) {
+        panel.style.backgroundColor = "#f8fafc";
+        texto.innerText = "INGRESE TLV Y HORAS";
+        texto.style.color = "#64748b";
+      } else if (!hayDatos) {
+        panel.style.backgroundColor = "#e0f2fe";
+        texto.innerText = "ESPERANDO DATOS DE TABLA";
+        texto.style.color = "#0369a1";
+      } else {
+        if (ir >= 1) {
+          panel.style.backgroundColor = "#fee2e2";
+          texto.innerText = "🔴 RIESGO MUY ALTO (IR ≥ 1)";
+          texto.style.color = "#991b1b";
+        } else if (ir >= 0.5) {
+          panel.style.backgroundColor = "#fef9c3";
+          texto.innerText = "🟡 RIESGO MEDIO (0.5 ≤ IR < 1)";
+          texto.style.color = "#854d0e";
+        } else {
+          panel.style.backgroundColor = "#dcfce7";
+          texto.innerText = "🟢 RIESGO BAJO (IR < 0.5)";
+          texto.style.color = "#166534";
+        }
+      }
+    }
+  </script>
+</p>
