@@ -1,0 +1,75 @@
+<!-- SECCIÓN: RECURSO INTERACTIVO - ESTUDIO DE CASO INTEGRAL -->
+<section
+  style="font-family: 'Segoe UI', Roboto, Arial, sans-serif; max-width: 1100px; margin: 20px auto; border: 1px solid #e2e8f0; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.1); background-color: #ffffff;">
+  <!-- Encabezado de Actividad Interactiva -->
+  <div
+    style="background-color: #1e293b; padding: 30px; text-align: center; border-bottom: 5px solid #3b82f6;">
+    <h3
+      style="color: #ffffff; text-transform: uppercase; margin: 0; font-size: 1.5em; letter-spacing: 2px; font-weight: 800;">
+      🖱️ Entorno Interactivo: Estudio de Caso</h3>
+    <p
+      style="color: #60a5fa; margin-top: 8px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; font-size: 12px;">
+      Análisis de Exposición Ocupacional a Material Particulado</p>
+  </div>
+  <div style="padding: 40px;"><!-- Panel de Navegación e Instrucciones -->
+    <div
+      style="display: grid; grid-template-columns: 1fr 2fr; gap: 20px; margin-bottom: 30px; background-color: #f1f5f9; padding: 20px; border-radius: 12px; border: 1px solid #cbd5e1;">
+      <div
+        style="border-right: 2px solid #3b82f6; padding-right: 15px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
+        <span style="font-size: 40px;">📂</span>
+        <h5
+          style="margin: 10px 0 0 0; color: #1e293b; font-size: 14px; font-weight: 800; text-transform: uppercase;">
+          Datos del Caso</h5>
+      </div>
+      <div>
+        <p
+          style="color: #334155; font-size: 15px; margin: 0; line-height: 1.5;">
+          Explore las pestañas interactivas del recurso para identificar:</p>
+        <ul
+          style="color: #475569; font-size: 14px; margin: 10px 0 0 0; padding-left: 20px;">
+          <li><strong>Condiciones:</strong> Uso de elementos de protección
+            personal o colectiva.</li>
+          <li><strong>Variables y Limites:</strong> Datos de Muestreo tales como
+            el peso, volumen, concentraciones de contaminante en el aire,
+            concentración ponderada e índice de riesgo. Tablas de registros de
+            resultados y límites de exposición</li>
+          <li><strong>Tiempos de Exposición:</strong> Tiempos de exposición
+            semanal de los operarios.</li>
+        </ul>
+      </div>
+    </div>
+    <!-- Contenedor Genially (Inmersivo) -->
+    <div
+      style="width: 100%; background: #000; border-radius: 12px; overflow: hidden; box-shadow: 0 20px 40px rgba(0,0,0,0.2);">
+      <div
+        style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+        <iframe
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+          title="Estudio de Caso - Material Particulado"
+          src="https://view.genially.com/66482d591a38570014834e22"
+          frameborder="0" scrolling="yes"
+          allowfullscreen="allowfullscreen"></iframe></div>
+    </div>
+    <!-- Aviso de Soporte -->
+    <div style="margin-top: 25px; text-align: center;">
+      <p style="color: #94a3b8; font-size: 13px; font-style: italic;">¿El
+        recurso no carga correctamente? Intente actualizar su navegador o
+        verifique su conexión a internet.</p>
+    </div>
+  </div>
+  <!-- Footer Institucional UNIAJC -->
+  <footer
+    style="background-color: #f8fafc; padding: 20px; border-top: 1px solid #e2e8f0;">
+    <div
+      style="display: flex; justify-content: space-between; align-items: center; color: #64748b;">
+      <div style="display: flex; align-items: center;"><span
+          style="background-color: #3b82f6; color: #ffffff; padding: 5px 12px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;"> PELIGROS
+          QUIMICOS</span></div>
+      <div style="text-align: right;"><span
+          style="font-size: 14px; font-weight: 800; color: #1e293b; letter-spacing: 0.5px;">UNIAJC</span>
+        <span
+          style="display: block; font-size: 9px; color: #94a3b8; text-transform: uppercase;">Institución
+          Universitaria Antonio José Camacho</span></div>
+    </div>
+  </footer>
+</section>
