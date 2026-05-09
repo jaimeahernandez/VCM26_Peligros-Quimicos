@@ -1,0 +1,116 @@
+<!-- SECCIÓN: RECURSOS AUDIOVISUALES - ANÁLISIS DE MATERIAL PARTICULADO -->
+<section
+  style="font-family: 'Segoe UI', Roboto, Arial, sans-serif; max-width: 1100px; margin: 20px auto; border: 1px solid #e2e8f0; border-radius: 16px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.1); background-color: #ffffff;">
+  <!-- Encabezado del Panel -->
+  <div
+    style="background-color: #1a3a5a; padding: 30px; text-align: center; border-bottom: 5px solid #f1c40f;">
+    <h3
+      style="color: #ffffff; text-transform: uppercase; margin: 0; font-size: 1.5em; letter-spacing: 2px; font-weight: 800;">
+      🛠️ Cálculos PARA MATERIAL PARTICULADO EN AIRE</h3>
+    <p
+      style="color: #f1c40f; margin-top: 8px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; font-size: 12px;">
+      Soporte Técnico para la Metodología NIOSH 0600</p>
+  </div>
+  <div style="padding: 40px;"><!-- Bloque de Instrucciones -->
+    <div
+      style="background-color: #f8fafc; border-left: 5px solid #1a3a5a; padding: 25px; border-radius: 8px; margin-bottom: 40px;">
+      <h5
+        style="color: #1a3a5a; margin-top: 0; font-weight: 800; text-transform: uppercase; font-size: 14px;">
+        📌 Instrucciones para el Estudiante:</h5>
+      <ol
+        style="color: #475569; font-size: 15px; line-height: 1.6; margin-bottom: 0;">
+        <li><strong>Visualización Secuencial:</strong> Inicie con la Fase 01
+          para comprender los fundamentos antes de proceder a los cálculos
+          numéricos.</li>
+        <li><strong>Preparación de Herramientas:</strong> Tenga a mano su
+          calculadora científica, use la calculadora NIOSH 600 y la tabla de
+          datos del caso de estudio.</li>
+        <li><strong>Registro de Hallazgos:</strong> Tome nota de los registros
+          de las tablas indicadas por su tutor, ya que serán evaluadas al
+          finalizar el encuentro.</li>
+      </ol>
+    </div>
+    <!-- Grilla de Videos -->
+    <div
+      style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin-bottom: 20px;">
+      <!-- Fase 01 -->
+      <div
+        style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; overflow: hidden; transition: transform 0.3s ease;">
+        <div style="padding: 20px; background: #1a3a5a; color: white;"><span
+            style="font-size: 10px; text-transform: uppercase; opacity: 0.8;">Introducción</span>
+          <h4 style="margin: 5px 0 0 0; font-size: 16px; font-weight: bold;">
+            Fase 01: Introducción</h4>
+        </div>
+        <div style="padding: 15px;">
+          <div
+            style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+            <iframe
+              style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+              src="https://www.youtube.com/embed/FynL82WAsh0?rel=0"
+              allowfullscreen="allowfullscreen"></iframe></div>
+          <p
+            style="font-size: 13px; color: #64748b; margin-top: 15px; line-height: 1.5;">
+            Conceptos previos y variables fundamentales para el muestreo por
+            gravimetría.</p>
+        </div>
+      </div>
+      <!-- Fase 02 -->
+      <div
+        style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; overflow: hidden; transition: transform 0.3s ease;">
+        <div style="padding: 20px; background: #1a3a5a; color: white;"><span
+            style="font-size: 10px; text-transform: uppercase; opacity: 0.8;">Procesamiento</span>
+          <h4 style="margin: 5px 0 0 0; font-size: 16px; font-weight: bold;">
+            Fase 02: Cálculos y Análisis de Pesos</h4>
+        </div>
+        <div style="padding: 15px;">
+          <div
+            style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+            <iframe
+              style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+              src="https://www.youtube.com/embed/SqvQi32DFHE?rel=0"
+              allowfullscreen="allowfullscreen"></iframe></div>
+          <p
+            style="font-size: 13px; color: #64748b; margin-top: 15px; line-height: 1.5;">
+            Determinación del peso neto de la muestra tras la captación de
+            material particulado.</p>
+        </div>
+      </div>
+      <!-- Fase 03 -->
+      <div
+        style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; overflow: hidden; transition: transform 0.3s ease;">
+        <div style="padding: 20px; background: #1a3a5a; color: white;"><span
+            style="font-size: 10px; text-transform: uppercase; opacity: 0.8;">Resultados</span>
+          <h4 style="margin: 5px 0 0 0; font-size: 16px; font-weight: bold;">
+            Fase 03: Calculo de la Concentración</h4>
+        </div>
+        <div style="padding: 15px;">
+          <div
+            style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+            <iframe
+              style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+              src="https://www.youtube.com/embed/dALzJ8pRfFQ?rel=0"
+              allowfullscreen="allowfullscreen"></iframe></div>
+          <p
+            style="font-size: 13px; color: #64748b; margin-top: 15px; line-height: 1.5;">
+            Cálculo de concentraciones ponderadas en el tiempo y comparación
+            normativa.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Footer Institucional UNIAJC -->
+  <footer
+    style="background-color: #f1f5f9; padding: 20px; border-top: 1px solid #e2e8f0;">
+    <div
+      style="display: flex; justify-content: space-between; align-items: center; color: #546e7a;">
+      <div style="display: flex; align-items: center;"><span
+          style="background-color: #1a3a5a; color: #ffffff; padding: 5px 12px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;"> PELIGROS
+          QUIMICOS</span></div>
+      <div style="text-align: right;"><span
+          style="font-size: 14px; font-weight: 800; color: #1a3a5a; letter-spacing: 0.5px;">UNIAJC</span>
+        <span
+          style="display: block; font-size: 9px; color: #94a3b8; text-transform: uppercase;">Facultad
+          de Educación Virtual y a Distancia</span></div>
+    </div>
+  </footer>
+</section>
