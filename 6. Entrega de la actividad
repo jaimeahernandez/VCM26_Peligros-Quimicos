@@ -1,0 +1,89 @@
+<p></p>
+<section
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 100%;">
+  <div class="container-fluid py-4"
+    style="background-color: #f4f7f9; border-radius: 15px; padding-left: 10px; padding-right: 10px;">
+    <div class="row justify-content-center">
+      <div class="col-12 col-xl-11">
+        <div class="card shadow-lg border-0"
+          style="border-radius: 20px; overflow: hidden; background-color: #ffffff;">
+          <div class="card-header border-0 py-4"
+            style="background: linear-gradient(135deg, #0f172a 0%, #334155 100%); color: white;">
+            <div class="text-center">
+              <h2
+                style="font-weight: 800; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 5px;">
+                Finalización y Entrega de Resultados</h2>
+              <div
+                style="width: 100px; height: 4px; background: #4CAF50; margin: 10px auto;">
+                 </div>
+              <p class="mb-0" style="font-size: 1.1rem; opacity: 0.9;">
+                Consolidación del Estudio de Caso: Perfil Metálico</p>
+            </div>
+          </div>
+          <div class="card-body p-4 p-md-5">
+            <div class="row justify-content-center">
+              <div class="col-lg-10">
+                <h4
+                  style="color: #1a3a5a; font-weight: bold; margin-bottom: 25px;">
+                  <i class="fa fa-check-square-o mr-2"
+                    style="color: #4caf50;"></i> Requisitos del Documento Final
+                  (PDF)</h4>
+                <div
+                  style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 40px;">
+                  <div
+                    style="background: #f8fafc; padding: 20px; border-radius: 12px; border: 1px solid #e2e8f0;">
+                    <h6 style="color: #1e3a8a; font-weight: bold;"><i
+                        class="fa fa-calculator mr-2"></i> Memoria de Cálculo
+                    </h6>
+                    <p class="small text-muted mb-0">Debe incluir el paso a paso
+                      de las fórmulas aplicadas (Volumen, Concentración, Ajuste
+                      por 48h y % de Reducción).</p>
+                  </div>
+                  <div
+                    style="background: #f8fafc; padding: 20px; border-radius: 12px; border: 1px solid #e2e8f0;">
+                    <h6 style="color: #1e3a8a; font-weight: bold;"><i
+                        class="fa fa-file-image-o mr-2"></i> Pantallazos de
+                      Soporte</h6>
+                    <p class="small text-muted mb-0">Evidencia visual de los
+                      cálculos realizados en la App2 y de los resultados
+                      obtenidos para ambos muestreos.</p>
+                  </div>
+                  <div
+                    style="background: #f8fafc; padding: 20px; border-radius: 12px; border: 1px solid #e2e8f0;">
+                    <h6 style="color: #1e3a8a; font-weight: bold;"><i
+                        class="fa fa-commenting-o mr-2"></i> Análisis
+                      Administrativo</h6>
+                    <p class="small text-muted mb-0">Interpretación técnica de
+                      los resultados y recomendación gerencial basada en la
+                      efectividad del extractor.</p>
+                  </div>
+                </div>
+                <div class="text-center"
+                  style="background-color: #f1f5f9; padding: 40px; border-radius: 20px; border: 2px dashed #cbd5e1;">
+                  <i class="fa fa-file-pdf-o fa-4x mb-3"
+                    style="color: #b91c1c;"></i>
+                  <h5 style="font-weight: bold; color: #1e293b;">¿Todo listo
+                    para el envío?</h5>
+                  <p class="text-muted mb-4">Asegúrese de que el archivo PDF
+                    contenga todos los puntos mencionados anteriormente. Solo se
+                    permite un envío por grupo.</p>
+                  <a class="btn btn-lg px-5 py-3 shadow"
+                    style="background-color: #4caf50; color: white; border-radius: 50px; font-weight: 800; font-size: 1.2rem; text-decoration: none; display: inline-block; transition: 0.3s;"
+                    href="https://aulasvirtuales.unicamacho.edu.co/mod/assign/view.php?id=1467245">
+                    <i class="fa fa-upload mr-2"></i> CLIC AQUÍ PARA ENTREGAR
+                    TRABAJO </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card-footer py-4 text-center"
+            style="background-color: #0f172a; color: #94a3b8; border-top: 5px solid #4CAF50;">
+            <small style="text-transform: uppercase; letter-spacing: 1px;">
+              Peligros Químicos | Administración en Seguridad y Salud en el
+              Trabajo </small></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<p></p>
