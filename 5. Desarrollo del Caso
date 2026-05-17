@@ -1,0 +1,136 @@
+<p></p>
+<section
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 100%;">
+  <div class="container-fluid py-4"
+    style="background-color: #f4f7f9; border-radius: 15px; padding-left: 10px; padding-right: 10px;">
+    <div class="row justify-content-center">
+      <div class="col-12 col-xl-11">
+        <div class="card shadow-lg border-0"
+          style="border-radius: 20px; overflow: hidden; background-color: #ffffff;">
+          <div class="card-header border-0 py-4"
+            style="background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%); color: white;">
+            <div class="text-center">
+              <h2
+                style="font-weight: 800; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 5px;">
+                Reto Técnico: Gestión de Peligros Químicos</h2>
+              <div
+                style="width: 150px; height: 4px; background: #10b981; margin: 10px auto;">
+                 </div>
+              <p class="mb-0" style="font-size: 1.1rem; opacity: 0.9;">
+                Evaluación de Eficiencia en Control de Humos Metálicos</p>
+            </div>
+          </div>
+          <div class="card-body p-4 p-md-5">
+            <div
+              style="background: #eff6ff; border-left: 6px solid #3b82f6; padding: 25px; margin-bottom: 35px; border-radius: 8px;">
+              <h4 style="color: #1e3a8a; font-weight: bold;"><i
+                  class="fa fa-user-circle mr-2"></i> Perfil del Caso: Juan
+                (Soldador)</h4>
+              <p
+                style="color: #334155; font-size: 1.1rem; line-height: 1.7; text-align: justify;">
+                Como Administrador en SST, se le entrega el reporte de higiene
+                industrial de Juan, quien labora <strong>48 horas
+                  semanales</strong>. Su objetivo es validar la inversión
+                realizada en un extractor de humos mediante el análisis de
+                laboratorio de <strong>Cromo</strong>.</p>
+            </div>
+            <div class="row">
+              <div class="col-md-4 mb-4">
+                <div
+                  style="background: #f8fafc; border: 1px solid #e2e8f0; padding: 20px; border-radius: 12px; height: 100%;">
+                  <div
+                    style="background: #1e3a8a; color: white; width: 35px; height: 35px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; margin-bottom: 15px;">
+                    1</div>
+                  <h5 style="color: #1e3a8a; font-weight: bold;">Fase de Cálculo
+                  </h5>
+                  <p class="small text-muted" style="line-height: 1.5;">
+                    Utilizando los datos de las imágenes (Peso en µg, Flujo y
+                    Tiempo), determine:</p>
+                  <ul
+                    style="font-size: 0.9rem; color: #475569; padding-left: 20px;">
+                    <li>Volumen de aire (L).</li>
+                    <li>Concentración real (mg/m3).</li>
+                    <li>Concentración Ponderada (TWA).</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md-4 mb-4">
+                <div
+                  style="background: #f8fafc; border: 1px solid #e2e8f0; padding: 20px; border-radius: 12px; height: 100%;">
+                  <div
+                    style="background: #10b981; color: white; width: 35px; height: 35px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; margin-bottom: 15px;">
+                    2</div>
+                  <h5 style="color: #10b981; font-weight: bold;">Ajuste por
+                    Jornada</h5>
+                  <p class="small text-muted" style="line-height: 1.5;">Juan
+                    trabaja <strong>48h/semana</strong>. El estándar ACGIH es
+                    para 40h.</p>
+                  <p
+                    style="font-size: 0.9rem; color: #475569; background: #d1fae5; padding: 8px; border-radius: 5px; font-weight: 600;">
+                    ¿Cuál es el TLV ajustado usando el modelo de Brief &amp;
+                    Scala?</p>
+                </div>
+              </div>
+              <div class="col-md-4 mb-4">
+                <div
+                  style="background: #f8fafc; border: 1px solid #e2e8f0; padding: 20px; border-radius: 12px; height: 100%;">
+                  <div
+                    style="background: #f59e0b; color: white; width: 35px; height: 35px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; margin-bottom: 15px;">
+                    3</div>
+                  <h5 style="color: #f59e0b; font-weight: bold;">Impacto
+                    Gerencial</h5>
+                  <p class="small text-muted" style="line-height: 1.5;">Calcule
+                    el <strong>Índice de Riesgo (IR)</strong> antes y después.
+                  </p>
+                  <p style="font-size: 0.9rem; color: #475569;">Determine el
+                    <strong>% de Reducción</strong>. ¿La inversión fue efectiva
+                    para llevar el riesgo a nivel BAJO?</p>
+                </div>
+              </div>
+            </div>
+            <div
+              style="margin-top: 20px; padding: 25px; border: 2px dashed #3b82f6; border-radius: 15px; background-color: #f0f7ff;">
+              <div class="row align-items-center">
+                <div class="col-md-8">
+                  <h6
+                    style="color: #1e3a8a; font-weight: 800; text-transform: uppercase;">
+                    <i class="fa fa-terminal mr-2"></i> Herramienta de
+                    Procesamiento:</h6>
+                  <p class="mb-0 text-muted" style="text-align: justify;" "="">Acceda a la aplicación APP para procesar los datos de los muestreos 1 y 2 adjuntos en esta plataforma. Se recomienda ver tutorial abajo para usar la aplicación.</p>
+</div>
+<div class=" col-md-4 text-center"><a class="btn btn-primary btn-lg shadow-sm"
+                      style="background: #10b981; border: none; border-radius: 8px; padding: 12px 25px; font-weight: bold;"
+                      href="https://colab.research.google.com/drive/1WpPo9wVKx34yvkglUWvUpXWjgjB4kLDo?usp=sharing"
+                      target="_blank" rel="noopener"> <i
+                        class="fa fa-external-link mr-2"></i> USAR APP </a>
+                </div>
+              </div>
+            </div>
+            <div class="row mt-5">
+              <div class="col-12 text-center">
+                <h5
+                  style="color: #1e3a8a; font-weight: bold; text-transform: uppercase; margin-bottom: 20px;">
+                  Tutorial de Uso: Aplicación de Cálculo</h5>
+                <div
+                  style="position: relative; width: 100%; max-width: 700px; margin: 0 auto; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+                  <div style="padding-top: 56.25%;"><iframe
+                      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+                      src="https://www.youtube.com/embed/566z1Cpio0Y?rel=0"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowfullscreen="allowfullscreen">
+                    </iframe></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card-footer py-4 text-center"
+            style="background-color: #f1f5f9; border-top: 5px solid #1e3a8a;">
+            <span style="color: #475569; font-weight: 600;"> <i
+                class="fa fa-exclamation-triangle mr-2 text-warning"></i> Dato
+              Crítico: TLV-TWA Cromo = 0.5 mg/m3. </span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<p></p>
