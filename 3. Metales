@@ -1,0 +1,132 @@
+<p></p>
+<section
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 100%;">
+  <div class="container-fluid py-5"
+    style="background-color: #f4f7f9; border-radius: 15px; padding-left: 10px; padding-right: 10px;">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-11" style="width: 100%;">
+        <div class="card shadow-lg border-0"
+          style="border-radius: 20px; overflow: hidden; width: 100%;">
+          <div class="card-header border-0 py-4"
+            style="background: linear-gradient(135deg, #1a3a5a 0%, #2c5282 100%); color: white;">
+            <div class="text-center">
+              <h3 class="font-weight-bold text-uppercase"
+                style="letter-spacing: 2px; margin-bottom: 0;">Perfil
+                Toxicológico de Metales</h3>
+              <div
+                style="width: 100px; height: 4px; background: #4CAF50; margin: 15px auto;">
+                 </div>
+              <p class="mb-0"
+                style="font-size: 1rem; opacity: 0.9; font-weight: 300;">
+                Análisis de Agentes Químicos Específicos para el Estudio de Caso
+              </p>
+            </div>
+          </div>
+          <div class="card-body p-4 p-md-5 bg-white">
+            <div class="row">
+              <div class="col-md-6 col-xl-4 mb-4">
+                <div
+                  style="height: 100%; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; border-top: 5px solid #334155;">
+                  <h5 style="color: #1a3a5a; font-weight: 800;"><span
+                      style="color: #334155;">Fe</span> • Óxido de Hierro</h5>
+                  <p class="text-muted"
+                    style="font-size: 0.95rem; line-height: 1.6;">Componente
+                    base en aceros. Provoca <strong>Siderosis</strong>, una
+                    acumulación de partículas en los pulmones que, aunque
+                    benigna, altera los resultados radiológicos.</p>
+                </div>
+              </div>
+              <div class="col-md-6 col-xl-4 mb-4">
+                <div
+                  style="height: 100%; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; border-top: 5px solid #b91c1c;">
+                  <h5 style="color: #1a3a5a; font-weight: 800;"><span
+                      style="color: #b91c1c;">Mn</span> • Manganeso</h5>
+                  <p class="text-muted"
+                    style="font-size: 0.95rem; line-height: 1.6;">Altamente
+                    <strong>neurotóxico</strong>. La inhalación crónica puede
+                    causar "Manganismo", cuyos síntomas son idénticos a la
+                    enfermedad de Parkinson.</p>
+                </div>
+              </div>
+              <div class="col-md-6 col-xl-4 mb-4">
+                <div
+                  style="height: 100%; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; border-top: 5px solid #0369a1;">
+                  <h5 style="color: #1a3a5a; font-weight: 800;"><span
+                      style="color: #0369a1;">Cr</span> • Cromo VI</h5>
+                  <p class="text-muted"
+                    style="font-size: 0.95rem; line-height: 1.6;">Presente en
+                    soldadura de acero inoxidable. Es un <strong>carcinógeno
+                      humano (Grupo 1)</strong> que ataca pulmones y fosas
+                    nasales.</p>
+                </div>
+              </div>
+              <div class="col-md-6 col-xl-4 mb-4">
+                <div
+                  style="height: 100%; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; border-top: 5px solid #d97706;">
+                  <h5 style="color: #1a3a5a; font-weight: 800;"><span
+                      style="color: #d97706;">Zn</span> • Cinc</h5>
+                  <p class="text-muted"
+                    style="font-size: 0.95rem; line-height: 1.6;">Liberado en
+                    metales galvanizados. Causa la <strong>Fiebre de los Humos
+                      Metálicos</strong>, cuadro agudo de fiebre y malestar
+                    general tras la exposición.</p>
+                </div>
+              </div>
+              <div class="col-md-6 col-xl-4 mb-4">
+                <div
+                  style="height: 100%; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; border-top: 5px solid #475569;">
+                  <h5 style="color: #1a3a5a; font-weight: 800;"><span
+                      style="color: #475569;">Pb</span> • Plomo</h5>
+                  <p class="text-muted"
+                    style="font-size: 0.95rem; line-height: 1.6;">Tóxico
+                    sistémico acumulativo. Genera <strong>Saturnismo</strong>,
+                    afectando el sistema renal, nervioso y la producción de
+                    sangre (anemia).</p>
+                </div>
+              </div>
+              <div class="col-md-6 col-xl-4 mb-4">
+                <div
+                  style="height: 100%; border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px; border-top: 5px solid #7c3aed;">
+                  <h5 style="color: #1a3a5a; font-weight: 800;"><span
+                      style="color: #7c3aed;">Ni</span> • Níquel</h5>
+                  <p class="text-muted"
+                    style="font-size: 0.95rem; line-height: 1.6;">Potente
+                    <strong>sensibilizante</strong> respiratorio y carcinógeno.
+                    Relacionado con dermatitis severas y tumores en vías
+                    respiratorias superiores.</p>
+                </div>
+              </div>
+            </div>
+            <div class="row mt-4">
+              <div class="col-12">
+                <div
+                  style="background-color: #fffbeb; border: 1px solid #fef3c7; border-radius: 12px; padding: 25px; display: flex; align-items: center;">
+                  <i class="fa fa-stethoscope fa-3x mr-4"
+                    style="color: #d97706;"></i>
+                  <div>
+                    <h6
+                      style="color: #92400e; font-weight: 800; text-transform: uppercase; margin-bottom: 8px;">
+                      Vigilancia de la Salud e Indicadores Biológicos</h6>
+                    <p
+                      style="margin: 0; color: #b45309; font-size: 1rem; line-height: 1.6;">
+                      Para el éxito de su estudio de caso, considere que los
+                      metales bioacumulables (como Pb y Mn) requieren monitoreo
+                      biológico (BEI). El cumplimiento del TLV ambiental es solo
+                      el primer paso; la protección real se garantiza con el
+                      análisis integral de la dosis interna en el trabajador.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card-footer py-4 text-center"
+            style="background-color: #1a3a5a; color: white; border-top: 5px solid #4CAF50;">
+            <small style="font-size: 0.9rem; letter-spacing: 1px;">© PELIGROS
+              QUIMICOS - ADMINISTRACION EN SEGURIDAD Y SALUD EN EL
+              TRABAJO</small></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
