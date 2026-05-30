@@ -1,0 +1,157 @@
+<p></p>
+<section
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 100%;">
+  <div class="container-fluid py-4"
+    style="background-color: #f4f7f9; border-radius: 15px; padding-left: 10px; padding-right: 10px;">
+    <div class="row justify-content-center">
+      <div class="col-12 col-xl-11">
+        <div class="card shadow-lg border-0"
+          style="border-radius: 20px; overflow: hidden; background-color: #ffffff;">
+          <div class="card-header border-0 py-4"
+            style="background: linear-gradient(135deg, #0f172a 0%, #dc2626 100%); color: white;">
+            <div class="text-center"><span
+                style="background-color: #ffffff; color: #dc2626; padding: 5px 15px; border-radius: 20px; font-size: 0.85rem; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;">
+                Jerarquía de Controles: La Última Barrera de Defensa </span>
+              <h2
+                style="font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; margin-top: 10px; margin-bottom: 5px; font-size: 1.6rem;">
+                Control 5: Equipos de Protección Personal (EPP)</h2>
+              <p class="mb-0"
+                style="font-size: 1.05rem; opacity: 0.9; font-weight: 300;">
+                Protección Individual en el Trabajador y Criterios de Selección
+                Técnica</p>
+            </div>
+          </div>
+          <div class="card-body p-4 p-md-5" style="background-color: #ffffff;">
+            <div class="mb-5">
+              <div
+                style="margin-bottom: 20px; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px;">
+                <h4
+                  style="color: #1e3a8a; font-weight: bold; font-size: 1.2rem; text-transform: uppercase; letter-spacing: 0.5px;">
+                  <i class="fa fa-user-shield mr-2" style="color: #dc2626;"></i>
+                  Fundamiento Técnico: Eficacia Basada en la Selectividad</h4>
+              </div>
+              <div class="row align-items-center">
+                <div class="col-12 col-lg-7 text-justify">
+                  <p
+                    style="color: #334155; font-size: 1.05rem; line-height: 1.7; margin-bottom: 15px;">
+                    El EPP es el control menos efectivo de la jerarquía porque
+                    no elimina el peligro de la fuente ni del medio; en su
+                    lugar, coloca una barrera física sobre el trabajador. Su
+                    éxito depende críticamente de dos variables: el
+                    comportamiento humano (uso correcto) y la compatibilidad
+                    química del material.</p>
+                  <p
+                    style="color: #334155; font-size: 1.05rem; line-height: 1.7; margin-bottom: 15px;">
+                    En peligros químicos, un Administrador en SST debe dominar
+                    tres conceptos clave para la selección de barreras:</p>
+                  <ul
+                    style="color: #475569; font-size: 1rem; line-height: 1.6; padding-left: 20px; margin-bottom: 0;">
+                    <li class="mb-2"><strong>Permeación:</strong> El proceso por
+                      el cual un químico se difunde a través del material del
+                      EPP a nivel molecular.</li>
+                    <li class="mb-2"><strong>Breakthrough Time (Tiempo de
+                        Ruptura):</strong> El tiempo exacto que tarda el químico
+                      en aparecer en el interior del guante o traje tras el
+                      contacto.</li>
+                    <li class="mb-0"><strong>Degradación:</strong> El cambio
+                      físico del material (hinchazón, fragilidad) al interactuar
+                      con la sustancia.</li>
+                  </ul>
+                </div>
+                <div class="col-12 col-lg-5 mt-4 mt-lg-0 text-center">
+                  <div
+                    style="background-color: #f8fafc; border: 1px solid #e2e8f0; padding: 10px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+                    <img class="img-fluid"
+                      style="width: 100%; height: auto; border-radius: 8px; border: 1px solid #cbd5e1; display: block; margin: 0 auto; max-height: 280px; object-fit: cover;"
+                      src="https://m.media-amazon.com/images/I/819FriQ6dxL._AC_UF894,1000_QL80_.jpg"
+                      alt="Equipos de protección personal química: respirador, guantes de nitrilo y gafas">
+                    <span
+                      style="color: #64748b; font-size: 0.85rem; display: block; margin-top: 8px; font-style: italic; line-height: 1.3;">
+                      Figura 1: Protección multicanal (inhalatoria, dérmica y
+                      ocular) para agentes químicos. </span></div>
+                </div>
+              </div>
+            </div>
+            <div class="row align-items-stretch"
+              style="position: relative; margin-top: 40px;">
+              <div
+                class="col-auto text-center d-none d-sm-flex flex-column align-items-center"
+                style="width: 70px;">
+                <div
+                  style="width: 45px; height: 45px; background-color: #dc2626; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; z-index: 2; box-shadow: 0 4px 6px rgba(0,0,0,0.15);">
+                   </div>
+              </div>
+              <div class="col">
+                <div
+                  style="background-color: #fef2f2; border: 1px solid #fee2e2; border-left: 5px solid #dc2626; padding: 25px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
+                  <span
+                    style="background-color: #fee2e2; color: #991b1b; padding: 3px 10px; border-radius: 4px; font-size: 0.8rem; font-weight: bold; text-transform: uppercase;">Caso
+                    Técnico Crítico: Exposición a Plaguicidas
+                    Organofosforados</span>
+                  <h4
+                    style="color: #991b1b; font-weight: bold; font-size: 1.2rem; margin-top: 10px; margin-bottom: 12px;">
+                    Reto de Gestión: Reacción Técnica ante una Dotación
+                    Inadecuada</h4>
+                  <p
+                    style="color: #334155; font-size: 1rem; line-height: 1.6; text-align: justify;">
+                    Un operario en una bodega de almacenamiento agroquímico
+                    manipula bidones de Metil-Paratión, un plaguicida
+                    organofosforado altamente liposoluble con una toxicidad
+                    aguda extrema (DL50 muy baja) y capacidad de absorción
+                    dérmica silenciosa que inhibe la enzima acetilcolinesterasa.
+                  </p>
+                  <p
+                    style="color: #334155; font-size: 1rem; line-height: 1.6; text-align: justify; margin-bottom: 0;">
+                    Usted observa que el supervisor de bodega, por ahorro de
+                    costos, le ha entregado al trabajador guantes de látex
+                    domésticos y tapabocas quirúrgicos de tela, argumentando que
+                    "solo es para un trasvase rápido". El operario ya manifiesta
+                    una leve miosis (contracción pupilar) y sudoración profusa.
+                  </p>
+                  <div
+                    style="background-color: #ffffff; border: 1px dashed #fca5a5; padding: 15px; border-radius: 8px; margin-top: 15px;">
+                    <span
+                      style="color: #0f172a; font-weight: bold; font-size: 0.95rem; text-transform: uppercase; display: block; margin-bottom: 8px;">Consigna
+                      Analítica para el Estudiante:</span>
+                    <p
+                      style="color: #475569; font-size: 0.95rem; margin-bottom: 12px; text-align: justify; line-height: 1.5;">
+                      Como Administrador en SST, usted debe detener la labor y
+                      realizar una refutación científica inmediata. Responda
+                      bajo criterios higiénicos:</p>
+                    <ul
+                      style="color: #475569; font-size: 0.92rem; line-height: 1.5; padding-left: 20px; margin-bottom: 0;">
+                      <li class="mb-2"><strong>Pregunta 1:</strong> Explique por
+                        qué el látex es un material prohibido para este químico.
+                        Mencione qué sucede con el <em>Breakthrough Time</em>
+                        del paratión en el látex frente a materiales como el
+                        <strong>Nitrilo pesado (&gt;14 mils)</strong> o el
+                        <strong>Viton</strong>.</li>
+                      <li class="mb-2"><strong>Pregunta 2:</strong> Analice la
+                        deficiencia del "tapabocas quirúrgico". ¿Cuál es la
+                        diferencia técnica entre un filtro para material
+                        particulado (N95) y un <strong>cartucho químico para
+                          vapores orgánicos (Color Negro)</strong> en este
+                        escenario?</li>
+                      <li class="mb-0"><strong>Pregunta 3:</strong> Defina qué
+                        medidas administrativas de emergencia tomaría con el
+                        trabajador antes de enviarlo a valoración médica (ej.
+                        descontaminación dérmica inmediata).</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card-footer py-4 text-center"
+            style="background-color: #0f172a; color: rgba(255,255,255,0.8); border-top: 5px solid #dc2626;">
+            <small
+              style="font-size: 0.95rem; letter-spacing: 0.5px; font-weight: 500;">
+              <i class="fa fa-shield mr-2" style="color: #dc2626;"></i> Peligros
+              Químicos | Selección Científica de EPP y Barreras Dérmicas
+            </small></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<p></p>
