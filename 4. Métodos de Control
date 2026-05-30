@@ -1,0 +1,176 @@
+<p></p>
+<section
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 100%;">
+  <div class="container-fluid py-4"
+    style="background-color: #f4f7f9; border-radius: 15px; padding-left: 10px; padding-right: 10px;">
+    <div class="row justify-content-center">
+      <div class="col-12 col-xl-11">
+        <div class="card shadow-lg border-0"
+          style="border-radius: 20px; overflow: hidden; background-color: #ffffff;">
+          <div class="card-header border-0 py-4"
+            style="background: linear-gradient(135deg, #0f172a 0%, #0284c7 100%); color: white;">
+            <div class="text-center"><span
+                style="background-color: #ffffff; color: #0284c7; padding: 5px 15px; border-radius: 20px; font-size: 0.85rem; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;">
+                Jerarquía de Controles: Intervención en el Medio de Transmisión
+              </span>
+              <h2
+                style="font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; margin-top: 10px; margin-bottom: 5px; font-size: 1.6rem;">
+                Control 3: Controles de Ingeniería</h2>
+              <p class="mb-0"
+                style="font-size: 1.05rem; opacity: 0.9; font-weight: 300;">
+                Aislamiento Tecnológico y Sistemas de Ventilación Industrial
+                Localizada</p>
+            </div>
+          </div>
+          <div class="card-body p-4 p-md-5" style="background-color: #ffffff;">
+            <div class="mb-5">
+              <div
+                style="margin-bottom: 20px; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px;">
+                <h4
+                  style="color: #1e3a8a; font-weight: bold; font-size: 1.2rem; text-transform: uppercase; letter-spacing: 0.5px;">
+                  <i class="fa fa-cogs mr-2" style="color: #0284c7;"></i>
+                  Fundamento Técnico: Barreras Tecnológicas de Contención</h4>
+              </div>
+              <div class="row align-items-center">
+                <div class="col-12 col-lg-7 text-justify">
+                  <p
+                    style="color: #334155; font-size: 1.05rem; line-height: 1.7; margin-bottom: 15px;">
+                    Cuando las estrategias de eliminación o sustitución no son
+                    viables debido a requerimientos intrínsecos de la
+                    producción, el Administrador en SST debe escalar a los
+                    Controles de Ingeniería. Estas medidas consisten en la
+                    aplicación de barreras físicas, encerramientos o sistemas
+                    mecánicos diseñados para aislar el peligro químico antes de
+                    que entre en contacto con la zona respiratoria del
+                    trabajador.</p>
+                  <p
+                    style="color: #334155; font-size: 1.05rem; line-height: 1.7; margin-bottom: 15px;">
+                    El exponente más crítico y común en la industria
+                    manufacturera y de laboratorios es el sistema de Ventilación
+                    por Extracción Localizada (VEL). A diferencia de la
+                    ventilación general por dilución (que solo mezcla el aire
+                    limpio con el contaminado), un sistema VEL captura los
+                    gases, vapores, humos o polvos directamente en la fuente de
+                    generación.</p>
+                  <p
+                    style="color: #334155; font-size: 1.05rem; line-height: 1.7; margin-bottom: 0;">
+                    Para garantizar la efectividad de estos sistemas, no basta
+                    con constatar que el extractor "encienda" o haga ruido;
+                    higiénicamente es obligatorio auditar la <strong>Velocidad
+                      de Captura (Vc)</strong>. Si la velocidad del aire en el
+                    punto de generación es deficiente, las corrientes cruzadas
+                    del ambiente dispersarán el tóxico.</p>
+                </div>
+                <div class="col-12 col-lg-5 mt-4 mt-lg-0 text-center">
+                  <div
+                    style="background-color: #f8fafc; border: 1px solid #e2e8f0; padding: 10px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+                    <img class="img-fluid"
+                      style="width: 100%; height: auto; border-radius: 8px; border: 1px solid #cbd5e1; display: block; margin: 0 auto; max-height: 280px; object-fit: cover;"
+                      src="https://www.aspiracionyfiltracion.com/sites/default/files/styles/post-detalle/public/brazo_articulado_para_aspiracion_0.jpg?itok=YiiR_z7i"
+                      alt="Sistema de extracción de humos y ventilación localizada en laboratorio industrial">
+                    <span
+                      style="color: #64748b; font-size: 0.85rem; display: block; margin-top: 8px; font-style: italic; line-height: 1.3;">
+                      Figura 1: Campana de extracción localizada capturando
+                      contaminantes en la fuente. </span></div>
+                </div>
+              </div>
+              <div class="row mt-4">
+                <div class="col-12">
+                  <div
+                    style="background-color: #f0f9ff; border-left: 4px solid #0284c7; padding: 15px; border-radius: 0 8px 8px 0;">
+                    <strong
+                      style="color: #0369a1; font-size: 0.95rem; text-transform: uppercase; display: block; margin-bottom: 4px;"><i
+                        class="fa fa-calculator"></i> El Criterio Físico de
+                      Captura:</strong>
+                    <p
+                      style="color: #075985; font-size: 0.95rem; margin-bottom: 0; text-align: justify; line-height: 1.5;">
+                      La velocidad de arrastre disminuye drásticamente en
+                      función de la distancia entre la boca de la campana y el
+                      punto donde se genera el químico. Una separación excesiva
+                      anula por completo la inversión en el extractor, obligando
+                      al uso secundario de respiradores independientes.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row align-items-stretch"
+              style="position: relative; margin-top: 40px;">
+              <div
+                class="col-auto text-center d-none d-sm-flex flex-column align-items-center"
+                style="width: 70px;">
+                <div
+                  style="width: 45px; height: 45px; background-color: #0284c7; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; z-index: 2; box-shadow: 0 4px 6px rgba(0,0,0,0.15);">
+                   </div>
+              </div>
+              <div class="col">
+                <div
+                  style="background-color: #f0f9ff; border: 1px solid #e0f2fe; border-left: 5px solid #0284c7; padding: 25px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
+                  <span
+                    style="background-color: #e0f2fe; color: #0369a1; padding: 3px 10px; border-radius: 4px; font-size: 0.8rem; font-weight: bold; text-transform: uppercase;">Caso
+                    Técnico de Campo: Falsa Sensación de Seguridad en
+                    Soldadura</span>
+                  <h4
+                    style="color: #075985; font-weight: bold; font-size: 1.2rem; margin-top: 10px; margin-bottom: 12px;">
+                    Reto de Gestión: Auditoría de Eficiencia en Sistemas de
+                    Extracción MÓVIL</h4>
+                  <p
+                    style="color: #334155; font-size: 1rem; line-height: 1.6; text-align: justify;">
+                    En un astillero industrial, una cuadrilla de operarios
+                    realiza tareas de soldadura sobre láminas de acero
+                    galvanizado, liberando densos humos metálicos de Zinc (ZnO)
+                    y Manganeso (Mn). El Administrador en SST anterior instaló
+                    un brazo extractor articulado móvil de velocidad regulable.
+                    Sin embargo, los trabajadores apartan la boca del extractor
+                    a más de un metro de distancia porque alegan que "el brazo
+                    les estorba para manipular la antorcha de soldadura".</p>
+                  <p
+                    style="color: #334155; font-size: 1rem; line-height: 1.6; text-align: justify; margin-bottom: 0;">
+                    Varios operarios han consultado al servicio médico
+                    manifestando síntomas de fiebre de los humos metálicos
+                    (escalofríos, sabor metálico y opresión torácica). La
+                    gerencia afirma que el control ya existe y que "es un
+                    problema de mala actitud de los soldadores". Como
+                    profesional de SST a cargo, debe rebatir este enfoque con
+                    argumentos de ingeniería de ventilación.</p>
+                  <div
+                    style="background-color: #ffffff; border: 1px dashed #7dd3fc; padding: 15px; border-radius: 8px; margin-top: 15px;">
+                    <span
+                      style="color: #0f172a; font-weight: bold; font-size: 0.95rem; text-transform: uppercase; display: block; margin-bottom: 8px;">Consigna
+                      Analítica para el Estudiante:</span>
+                    <p
+                      style="color: #475569; font-size: 0.95rem; margin-bottom: 12px; text-align: justify; line-height: 1.5;">
+                      Desarrolle las siguientes pautas administrativas basándose
+                      en principios físicos de control en el medio:</p>
+                    <ul
+                      style="color: #475569; font-size: 0.92rem; line-height: 1.5; padding-left: 20px; margin-bottom: 0;">
+                      <li class="mb-2"><strong>Pregunta 1:</strong> Explique
+                        físicamente por qué la distancia de la campana arruina
+                        la velocidad de captura. ¿Qué herramientas de medición
+                        higiénica (ej. anemómetro) usaría para demostrarle a la
+                        gerencia que el sistema actual no está capturando los
+                        humos metálicos debido a su mala ubicación?</li>
+                      <li class="mb-0"><strong>Pregunta 2:</strong> Proponga una
+                        solución locativa o de rediseño ergonómico (por ejemplo,
+                        antorchas de soldadura con extracción integrada o mesas
+                        de trabajo con rejillas de aspiración inferior) que
+                        resuelva de raíz el conflicto entre la productividad del
+                        soldador y el control higiénico del aire.</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card-footer py-4 text-center"
+            style="background-color: #0f172a; color: rgba(255,255,255,0.8); border-top: 5px solid #0284c7;">
+            <small
+              style="font-size: 0.95rem; letter-spacing: 0.5px; font-weight: 500;">
+              <i class="fa fa-shield mr-2" style="color: #0284c7;"></i> Peligros
+              Químicos | Ventilación Industrial y Dinámica de Contaminantes
+              Flotantes </small></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<p></p>
