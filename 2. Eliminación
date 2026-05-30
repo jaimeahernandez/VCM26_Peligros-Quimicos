@@ -1,0 +1,159 @@
+<p></p>
+<section
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 100%;">
+  <div class="container-fluid py-4"
+    style="background-color: #f4f7f9; border-radius: 15px; padding-left: 10px; padding-right: 10px;">
+    <div class="row justify-content-center">
+      <div class="col-12 col-xl-11">
+        <div class="card shadow-lg border-0"
+          style="border-radius: 20px; overflow: hidden; background-color: #ffffff;">
+          <div class="card-header border-0 py-4"
+            style="background: linear-gradient(135deg, #0f172a 0%, #ea580c 100%); color: white;">
+            <div class="text-center"><span
+                style="background-color: #ffffff; color: #ea580c; padding: 5px 15px; border-radius: 20px; font-size: 0.85rem; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;">
+                Jerarquía de Controles: Nivel Máximo de Eficiencia </span>
+              <h2
+                style="font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; margin-top: 10px; margin-bottom: 5px; font-size: 1.6rem;">
+                Control 1: Eliminación del Riesgo Químico</h2>
+              <p class="mb-0"
+                style="font-size: 1.05rem; opacity: 0.9; font-weight: 300;">
+                Supresión del Agente Tóxico en la Fuente Operacional</p>
+            </div>
+          </div>
+          <div class="card-body p-4 p-md-5" style="background-color: #ffffff;">
+            <div class="mb-5">
+              <div
+                style="margin-bottom: 20px; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px;">
+                <h4
+                  style="color: #1e3a8a; font-weight: bold; font-size: 1.2rem; text-transform: uppercase; letter-spacing: 0.5px;">
+                  <i class="fa fa-book mr-2" style="color: #ea580c;"></i>
+                  Fundamento Técnico e Impacto Higiénico</h4>
+              </div>
+              <p
+                style="color: #334155; font-size: 1.05rem; line-height: 1.7; text-align: justify; margin-bottom: 15px;">
+                La Eliminación representa la acción de control más drástica y
+                efectiva dentro de la higiene industrial. Consiste en modificar
+                de manera definitiva el diseño del proceso o la actividad
+                operativa para "prescindir por completo" del uso, manipulación o
+                generación de una sustancia química peligrosa.</p>
+              <p
+                style="color: #334155; font-size: 1.05rem; line-height: 1.7; text-align: justify; margin-bottom: 15px;">
+                Desde la perspectiva legal y epidemiológica, cuando un
+                Administrador en SST logra eliminar un agente contaminante, la
+                probabilidad de exposición se reduce matemáticamente a cero,
+                interrumpiendo inmediatamente la cadena de causalidad de la
+                enfermedad laboral. Al no existir la sustancia en las
+                instalaciones:</p>
+              <ul
+                style="color: #475569; font-size: 1rem; line-height: 1.6; padding-left: 20px; margin-bottom: 20px;">
+                <li class="mb-2">Se anula la necesidad de realizar costosos
+                  monitoreos periódicos de higiene (como muestreos activos con
+                  bombas).</li>
+                <li class="mb-2">Se suspenden los protocolos de vigilancia
+                  epidemiológica médica específicos (analíticas de biomarcadores
+                  en orina o sangre).</li>
+                <li class="mb-2">Se elimina la generación de Residuos Peligrosos
+                  (RESPEL), aliviando los costos de almacenamiento intermedio y
+                  disposición final regulada.</li>
+              </ul>
+              <blockquote
+                style="background-color: #f8fafc; border-left: 4px solid #ea580c; padding: 15px; border-radius: 0 8px 8px 0; margin-bottom: 0;">
+                <strong
+                  style="color: #0f172a; font-size: 0.95rem; text-transform: uppercase; display: block; margin-bottom: 4px;">Nota
+                  de Criterio Administrativo:</strong>
+                <p
+                  style="color: #475569; font-size: 0.95rem; margin-bottom: 0; text-align: justify; line-height: 1.5;">
+                  Aunque la eliminación suele exigir una alta inversión
+                  económica inicial debido al rediseño de ingeniería de
+                  procesos, representa la solución más rentable y sostenible en
+                  el tiempo, ya que extingue de raíz los pasivos laborales, las
+                  demandas civiles por accidentes mayores y el gasto perpetuo en
+                  Elementos de Protección Personal (EPP).</p>
+              </blockquote>
+            </div>
+            <div class="row align-items-stretch"
+              style="position: relative; margin-top: 40px;">
+              <div
+                class="col-auto text-center d-none d-sm-flex flex-column align-items-center"
+                style="width: 70px;">
+                <div
+                  style="width: 45px; height: 45px; background-color: #ea580c; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; z-index: 2; box-shadow: 0 4px 6px rgba(0,0,0,0.15);">
+                   </div>
+              </div>
+              <div class="col">
+                <div
+                  style="background-color: #fff7ed; border: 1px solid #ffedd5; border-left: 5px solid #ea580c; padding: 25px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
+                  <span
+                    style="background-color: #ffedd5; color: #9a3412; padding: 3px 10px; border-radius: 4px; font-size: 0.8rem; font-weight: bold; text-transform: uppercase;">Caso
+                    Técnico de Campo: El Peligro Oculto del Benceno</span>
+                  <h4
+                    style="color: #9a3412; font-weight: bold; font-size: 1.2rem; margin-top: 10px; margin-bottom: 12px;">
+                    Reto de Gestión: Diagnóstico e Intervención de una Amenaza
+                    Mielotóxica</h4>
+                  <p
+                    style="color: #334155; font-size: 1rem; line-height: 1.6; text-align: justify;">
+                    En un laboratorio analítico especializado en el control de
+                    calidad de asfalto y derivados, los operarios utilizan de
+                    manera rutinaria Benceno puro (C6H6) como agente extractor
+                    de solventes y limpiador de matrices densas. Las mediciones
+                    higiénicas del último mes revelan que la concentración
+                    ambiental en la zona respiratoria de los analistas promedia
+                    las 2.5 ppm para una jornada de 8 horas, duplicando
+                    ampliamente el TLV-TWA permitido por la ACGIH de 0.5 ppm.
+                  </p>
+                  <p
+                    style="color: #334155; font-size: 1rem; line-height: 1.6; text-align: justify; margin-bottom: 0;">
+                    El médico de la empresa externa alerta que el benceno es un
+                    agente clasificado como Carcinógeno Grupo 1 por la IARC, con
+                    alta afinidad tisular hacia la médula ósea y causante
+                    comprobado de leucemia mieloide aguda. La gerencia, alarmada
+                    por el riesgo normativo, le solicita a usted, como
+                    Administrador en SST, una intervención inmediata bajo el
+                    principio estricto de Eliminación.</p>
+                  <div
+                    style="background-color: #ffffff; border: 1px dashed #fdba74; padding: 15px; border-radius: 8px; margin-top: 15px;">
+                    <span
+                      style="color: #0f172a; font-weight: bold; font-size: 0.95rem; text-transform: uppercase; display: block; margin-bottom: 8px;">Consigna
+                      Analítica para el Estudiante:</span>
+                    <p
+                      style="color: #475569; font-size: 0.95rem; margin-bottom: 12px; text-align: justify; line-height: 1.5;">
+                      Asumiendo su rol directivo, usted investiga el proceso y
+                      descubre que la limpieza de las matrices asfálticas
+                      pesadas puede realizarse mediante un método físico
+                      alternativo: un equipo automatizado de Pirólisis Térmica
+                      Controlada por Horno de Pérdida por Calentamiento, el cual
+                      incinera el residuo asfáltico convirtiéndolo en ceniza
+                      inerte lavable, prescindiendo por completo del uso de
+                      solventes químicos aromáticos.</p>
+                    <ul
+                      style="color: #475569; font-size: 0.92rem; line-height: 1.5; padding-left: 20px; margin-bottom: 0;">
+                      <li class="mb-1"><strong>Pregunta 1:</strong> Justifique
+                        técnicamente ante la Junta Directiva el retorno de
+                        inversión de la compra del horno, argumentando los
+                        costos que se ahorrarán en exámenes médicos especiales,
+                        monitoreos ambientales y EPP específico para vapores
+                        orgánicos de alta permeabilidad.</li>
+                      <li class="mb-0"><strong>Pregunta 2:</strong> Al aplicar
+                        esta medida de Eliminación del Benceno, explique qué
+                        sucede con el nivel de riesgo residual en el laboratorio
+                        respecto a los peligros de toxicidad sistémica crónica y
+                        carcinogenicidad.</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card-footer py-4 text-center"
+            style="background-color: #0f172a; color: rgba(255,255,255,0.8); border-top: 5px solid #ea580c;">
+            <small
+              style="font-size: 0.95rem; letter-spacing: 0.5px; font-weight: 500;">
+              <i class="fa fa-shield mr-2" style="color: #ea580c;"></i> Peligros
+              Químicos | Ingeniería del Control y Eliminación de Cancerígenos
+            </small></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<p></p>
