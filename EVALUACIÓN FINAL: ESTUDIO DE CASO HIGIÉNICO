@@ -1,0 +1,232 @@
+<div
+  style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 900px; margin: 0 auto; padding: 20px; border: 1px solid #e0e0e0; border-radius: 8px; background-color: #ffffff;">
+  <!-- Encabezado Principal -->
+  <h2
+    style="color: #003366; border-bottom: 2px solid #003366; padding-bottom: 10px; margin-top: 0;">
+    🔬 EVALUACIÓN FINAL: ESTUDIO DE CASO HIGIÉNICO</h2>
+  <!-- Bloque de Directrices -->
+  <div
+    style="background-color: #f4f6f9; border-left: 4px solid #003366; padding: 15px; margin-bottom: 25px; border-radius: 0 4px 4px 0;">
+    <p style="margin: 0 0 8px 0; font-weight: bold; color: #003366;">📋
+      Modalidad y Condiciones de Entrega:</p>
+    <ul style="margin: 0; padding-left: 20px;">
+      <li><strong>Configuración:</strong> Desarrollar en parejas (Grupos de 2
+        personas).</li>
+      <li><strong>Uso de Herramientas:</strong> Es obligatorio el uso de la
+        aplicación interactiva institucional adjunta abajo para la validación de
+        los datos analíticos.</li>
+      <li><strong>Rigor Académico:</strong> No se aceptarán respuestas puramente
+        descriptivas. Cada conclusión debe estar sustentada bajo criterios
+        matemáticos, normativos o de ingeniería de control.</li>
+    </ul>
+  </div>
+  <!-- Contexto del Ejercicio -->
+  <h3 style="color: #003366; margin-top: 20px;">1. Contextualización y Datos del
+    Muestreo</h3>
+  <p>Los siguientes registros corresponden al monitoreo ambiental de un operario
+    de producción expuesto a material particulado (polvo respirable) en una
+    jornada laboral de 48 horas semanales. El límite de referencia estándar
+    TLV-TWA para este agente es de 3 mg/m³.</p>
+  <!-- Tabla 1: Datos Base -->
+  <table
+    style="width: 100%; border-collapse: collapse; margin-top: 15px; margin-bottom: 25px; text-align: center;">
+    <thead>
+      <tr style="background-color: #003366; color: white; font-weight: bold;">
+        <th style="padding: 10px; border: 1px solid #ddd;">Muestra</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Peso de la Muestra
+          (mg)</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Tiempo de Muestreo
+          (min)</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Flujo de Calibración
+          (L/min)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td
+          style="padding: 10px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+          1</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">1,2</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">242</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">1,69</td>
+      </tr>
+      <tr style="background-color: #f9f9f9;">
+        <td style="padding: 10px; border: 1px solid #ddd; font-weight: bold;">2
+        </td>
+        <td style="padding: 10px; border: 1px solid #ddd;">1,7</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">230</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">1,69</td>
+      </tr>
+    </tbody>
+  </table>
+  <!-- Zona de Interacción con la App -->
+  <div
+    style="text-align: center; margin: 30px 0; padding: 20px; border: 2px dashed #003366; border-radius: 6px; background-color: #fafafa;">
+    <p style="margin-top: 0; font-weight: bold; color: #333;">💻 VALIDACIÓN EN
+      APLICACIÓN INTERACTIVA</p>
+    <p style="font-size: 0.9em; color: #666; margin-bottom: 15px;">Haga clic en
+      el siguiente botón para desplegar la herramienta de cálculo antes de
+      estructurar el análisis definitivo:</p>
+    <!-- Enlace simulado como botón. Reemplazar '#' con la URL real de tu WebVR o calculadora Python/Moodle -->
+    <a style="display: inline-block; padding: 12px 24px; background-color: #003366; color: white; text-decoration: none; font-weight: bold; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: background-color 0.3s;"
+      href="https://colab.research.google.com/drive/16njLI8mbZ_q73TL9oEJtGVbjqIDTMjtP?usp=sharing"
+      target="_blank" rel="noopener"> 🔗 CALCULADOR NIOSH 600 </a>
+  </div>
+  <!-- Matriz de Respuestas a Completar -->
+  <h3 style="color: #003366;">2. Matriz de Resultados Higiénicos</h3>
+  <p style="font-size: 0.95em; color: #555;">Complete detalladamente cada
+    componente de la siguiente matriz en su documento de entrega formal.</p>
+  <table
+    style="width: 100%; border-collapse: collapse; margin-top: 15px; margin-bottom: 25px; text-align: center;">
+    <thead>
+      <tr style="background-color: #555555; color: white; font-weight: bold;">
+        <th style="padding: 10px; border: 1px solid #ddd;">Muestra</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Volumen Muestra (L)
+        </th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Conc. Muestra (mg/m³)
+        </th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Conc. Ponderada
+          (mg/m³)</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">TLV Ajustado (mg/m³)
+        </th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Índice de Riesgo (IR)
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td
+          style="padding: 15px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+          1</td>
+        <td style="padding: 15px; border: 1px solid #ddd; color: #aaa;">
+          [Calcular]</td>
+        <td style="padding: 15px; border: 1px solid #ddd; color: #aaa;">
+          [Calcular]</td>
+        <td
+          style="padding: 15px; border: 1px solid #ddd; background-color: #f5f5f5; font-weight: bold; color: #666;"
+          rowspan="2">[Calcular TWA Global]</td>
+        <td
+          style="padding: 15px; border: 1px solid #ddd; background-color: #f5f5f5; font-weight: bold; color: #666;"
+          rowspan="2">[Calcular TLV ajustado]</td>
+        <td
+          style="padding: 15px; border: 1px solid #ddd; background-color: #f5f5f5; font-weight: bold; color: #666;"
+          rowspan="2">[Calcular IR]</td>
+      </tr>
+      <tr>
+        <td
+          style="padding: 15px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+          2</td>
+        <td style="padding: 15px; border: 1px solid #ddd; color: #aaa;">
+          [Calcular]</td>
+        <td style="padding: 15px; border: 1px solid #ddd; color: #aaa;">
+          [Calcular]</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 30px 0;">
+  <!-- Cuestionario Crítico-Analítico -->
+  <h3 style="color: #cc0000; margin-top: 0;">🎯 CUESTIONARIO CRÍTICO-ANALÍTICO
+    (Evaluación de Criterio)</h3>
+  <p style="font-style: italic; color: #555;">Desarrolle los siguientes ítems
+    con su compañero de equipo asegurando un lenguaje técnico avanzado:</p>
+  <ol style="padding-left: 20px; line-height: 1.8;">
+    <li style="margin-bottom: 15px; text-align: justify;"><strong>Análisis de
+        Modelos de Ajuste Temporal:</strong> A partir de los resultados que
+      arroja la aplicación interactiva, evalúe si la jornada laboral de 48 horas
+      semanales amerita de forma obligatoria la aplicación de un factor de
+      corrección para el TLV-TWA o si el riesgo puede analizarse de forma
+      directa con el valor estándar, y cuáles serían las implicaciones legales y
+      técnicas para la organización si se decide omitir este ajuste.</li>
+    <li style="margin-bottom: 15px; text-align: justify;"><strong>Interpretación
+        del Diagnóstico Higiénico Interno:</strong> A partir de los resultados
+      numéricos consolidados, clasifique de manera concluyente si el nivel de
+      riesgo ocupacional es <strong>ALTO, MEDIO o BAJO</strong>. Adicionalmente,
+      analice si evaluar únicamente la concentración de una de las muestras de
+      forma aislada es suficiente para dictaminar el riesgo global del puesto; y
+      explique con rigor técnico qué significa que el Índice de Riesgo sea
+      superior a 1.0 (IR &gt; 1.0), a qué porcentajes de la dosis de referencia
+      se refiere esta condición, y qué relevancia preventiva tiene el valor de
+      0.5.</li>
+    <li style="margin-bottom: 15px; text-align: justify;"><strong>Diseño de
+        Ingeniería de Control e Intervención en la Fuente:</strong> Asuma el rol
+      de Administradores en SST y líderes de Higiene Industrial. Diseñe una
+      propuesta técnica concreta orientada a la **Intervención en la Fuente y el
+      Medio** para mitigar la emisión de este polvo respirable. Debe proyectar
+      matemáticamente cómo impactaría su sistema de ingeniería propuesto sobre
+      el Índice de Riesgo (IR) actual para lograr la conformidad higiénica del
+      puesto de trabajo.</li>
+  </ol>
+  <hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 30px 0;">
+  <details
+    style="border: 1px solid #003366; border-radius: 4px; padding: 12px; background-color: #fcfdfe; margin-top: 20px;">
+    <summary
+      style="font-weight: bold; color: #003366; cursor: pointer; font-size: 1.1em; outline: none; user-select: none;">
+      📋 VER RÚBRICA DE EVALUACIÓN DETALLADA (ALTA EXIGENCIA)</summary>
+    <div style="margin-top: 15px;">
+      <p style="font-size: 0.9em; color: #555; margin-bottom: 15px;">La
+        valoración de esta entrega final se realizará bajo los siguientes
+        estándares de rigurosidad técnica y académica:</p>
+      <table
+        style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.9em; line-height: 1.4;">
+        <thead>
+          <tr style="background-color: #003366; color: white;">
+            <th style="padding: 10px; border: 1px solid #ddd; width: 25%;">
+              Criterio Evaluado</th>
+            <th style="padding: 10px; border: 1px solid #ddd; width: 45%;">
+              Descriptor de Alta Competencia (4.5 - 5.0)</th>
+            <th style="padding: 10px; border: 1px solid #ddd; width: 30%;">
+              Evidencia Penalizable (&lt; 3.0)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td
+              style="padding: 10px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+              1. Rigor en Modelos de Ajuste Temporal (35%)</td>
+            <td style="padding: 10px; border: 1px solid #ddd;">Sustenta
+              críticamente la necesidad del ajuste por jornada de 48h apoyándose
+              en la normativa legal y la lógica biológica (acumulación tisular y
+              reducción del descanso fisiológico). Define con exactitud
+              matemática el impacto de no corregir el TLV.</td>
+            <td
+              style="padding: 10px; border: 1px solid #ddd; background-color: #fff0f0;">
+              Tratamiento descriptivo o superficial del ajuste. Omitir el debate
+              legal/técnico o argumentar sin base en la higiene teórica.</td>
+          </tr>
+          <tr>
+            <td
+              style="padding: 10px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+              2. Diagnóstico Higiénico e Interpretación de Indicadores (35%)
+            </td>
+            <td style="padding: 10px; border: 1px solid #ddd;">Clasifica el
+              riesgo de forma asertiva. Explica con total profundidad técnica la
+              insuficiencia del análisis aislado de muestras, el significado
+              operativo del IR &gt; 1.0 asociado al 100% de la dosis, y el valor
+              predictivo y preventivo de 0.5 como Nivel de Acción.</td>
+            <td
+              style="padding: 10px; border: 1px solid #ddd; background-color: #fff0f0;">
+              Confundir el Nivel de Acción (0.5) con el límite superior.
+              Incapacidad para relacionar el IR con el porcentaje de la dosis
+              técnica.</td>
+          </tr>
+          <tr>
+            <td
+              style="padding: 10px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+              3. Proyección de Ingeniería de Control (30%)</td>
+            <td style="padding: 10px; border: 1px solid #ddd;">Diseña una
+              propuesta viable enfocada estrictamente en la Fuente o el Medio
+              (v.g., sistemas de extracción localizada, cerramientos,
+              humectación). Demuestra analíticamente mediante estimación
+              matemática el impacto final esperado sobre la reducción del IR.
+            </td>
+            <td
+              style="padding: 10px; border: 1px solid #ddd; background-color: #fff0f0;">
+              Proponer únicamente el uso de EPP (mascarillas) como solución
+              principal. Diseños vagos sin justificación ni impacto en el IR.
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </details>
+</div>
