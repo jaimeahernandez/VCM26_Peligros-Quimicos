@@ -1,0 +1,143 @@
+<p></p>
+<section
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 100%;">
+  <div class="container-fluid py-4"
+    style="background-color: #f4f7f9; border-radius: 15px; padding-left: 10px; padding-right: 10px;">
+    <div class="row justify-content-center">
+      <div class="col-12 col-xl-11">
+        <div class="card shadow-lg border-0"
+          style="border-radius: 20px; overflow: hidden; background-color: #ffffff;">
+          <div class="card-header border-0 py-4"
+            style="background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%); color: white;">
+            <div class="text-center"><span
+                style="background-color: #eab308; color: #0f172a; padding: 5px 15px; border-radius: 20px; font-size: 0.85rem; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;">
+                Guía de Enrutamiento Académico </span>
+              <h2
+                style="font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; margin-top: 10px; margin-bottom: 5px; font-size: 1.6rem;">
+                Instrucciones Generales de la actividad</h2>
+              <p class="mb-0"
+                style="font-size: 1.05rem; opacity: 0.9; font-weight: 300;">
+                Lineamientos Obligatorios para la Resolución de Casos de
+                Intervención Higiénica</p>
+            </div>
+          </div>
+          <div class="card-body p-4 p-md-5" style="background-color: #ffffff;">
+            <p
+              style="color: #475569; font-size: 1.05rem; line-height: 1.6; text-align: justify; margin-bottom: 35px;">
+              Estimados estudiantes, antes de proceder con el análisis de los
+              escenarios de riesgo, es indispensable que lean detenidamente y
+              comprendan el marco regulatorio interno bajo el cual se
+              desarrollará esta sesión práctica de control del peligro químico:
+            </p>
+            <div class="position-relative">
+              <div class="row no-gutters mb-4 align-items-stretch">
+                <div class="col-auto text-center d-none d-sm-flex flex-column"
+                  style="width: 70px;">
+                  <div
+                    style="width: 50px; height: 50px; background-color: #0f172a; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1.2rem; border: 4px solid #e2e8f0; z-index: 2;">
+                    1</div>
+                  <div
+                    style="width: 4px; background-color: #e2e8f0; flex-grow: 1; margin: 0 auto; z-index: 1;">
+                     </div>
+                </div>
+                <div class="col pl-sm-3">
+                  <div
+                    style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #0f172a; padding: 20px; border-radius: 8px; height: 100%;">
+                    <h4
+                      style="color: #1e3a8a; font-weight: bold; font-size: 1.1rem; margin-bottom: 10px; text-transform: uppercase; letter-spacing: 0.5px;">
+                      <i class="fa fa-users mr-2"
+                        style="color: #64748b;"></i> Modalidad</h4>
+                    <p
+                      style="color: #334155; font-size: 0.98rem; line-height: 1.6; text-align: justify; margin-bottom: 0;">
+                      La presente actividad se desarrollará en modalidad
+                      colaborativa (máximo 2 personas). Para resolver los retos
+                      planteados deben leer atentamente cada uno de los casos y
+                      responder lo que allí indican. Deben ser muy descriptivos
+                      y analíticos.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="row no-gutters mb-4 align-items-stretch">
+                <div class="col-auto text-center d-none d-sm-flex flex-column"
+                  style="width: 70px;">
+                  <div
+                    style="width: 50px; height: 50px; background-color: #0f172a; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1.2rem; border: 4px solid #e2e8f0; z-index: 2;">
+                    2</div>
+                  <div
+                    style="width: 4px; background-color: #e2e8f0; flex-grow: 1; margin: 0 auto; z-index: 1;">
+                     </div>
+                </div>
+                <div class="col pl-sm-3">
+                  <div
+                    style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #1e3a8a; padding: 20px; border-radius: 8px; height: 100%;">
+                    <h4
+                      style="color: #1e3a8a; font-weight: bold; font-size: 1.1rem; margin-bottom: 10px; text-transform: uppercase; letter-spacing: 0.5px;">
+                      <i class="fa fa-folder-open mr-2"
+                        style="color: #64748b;"></i> Núcleo Práctico e
+                      Interacción Restringida</h4>
+                    <p
+                      style="color: #334155; font-size: 0.98rem; line-height: 1.6; text-align: justify; margin-bottom: 0;">
+                      Esta actividad contiene casos específicos enfocados en los
+                      5 niveles de la Jerarquía de Intervención Higiénica: desde
+                      la eliminación de procesos y la sustitución de sustancias
+                      químicas, hasta la auditoría de sistemas, rotación de
+                      jornadas frente a valores TLV-TWA/STEL y selección de EPP.
+                      Deberán responder detalladamente a los retos planteados en
+                      cada sección. Absténganse por completo de triangular datos
+                      con otros equipos; la detección de copias o plagios
+                      causará la anulación automática de la nota.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="row no-gutters align-items-stretch">
+                <div class="col-auto text-center d-none d-sm-flex flex-column"
+                  style="width: 70px;">
+                  <div
+                    style="width: 50px; height: 50px; background-color: #0f172a; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 1.2rem; border: 4px solid #e2e8f0; z-index: 2;">
+                    3</div>
+                </div>
+                <div class="col pl-sm-3">
+                  <div
+                    style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 5px solid #10b981; padding: 20px; border-radius: 8px; height: 100%;">
+                    <h4
+                      style="color: #1e3a8a; font-weight: bold; font-size: 1.1rem; margin-bottom: 10px; text-transform: uppercase; letter-spacing: 0.5px;">
+                      <i class="fa fa-check-square-o mr-2"
+                        style="color: #64748b;"></i> Consolidación y Registro en
+                      Plataforma</h4>
+                    <p
+                      style="color: #334155; font-size: 0.98rem; line-height: 1.6; text-align: justify; margin-bottom: 0;">
+                      Para fundamentar técnicamente sus respuestas, los
+                      invitamos a apoyarse en los recursos didácticos, guías de
+                      ventilación industrial y normativas. Nota fundamental: Al
+                      finalizar la revisión de los cinco bloques, los equipos
+                      deberán compilar sus soluciones en un documento formal.
+                      Este documento deberá subirse en formato PDF a través del
+                      espacio habilitado al final de la unidad.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              style="background-color: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 20px; margin-top: 35px; text-align: center;">
+              <span
+                style="color: #065f46; font-size: 1.1rem; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px;">
+                ¡Muchos éxitos en este desafío profesional! </span>
+              <p
+                style="color: #047857; font-size: 0.95rem; margin-bottom: 0; margin-top: 5px; font-weight: 300;">
+                Aborden cada caso de exposición ocupacional con el máximo rigor
+                técnico, analítico y ético.</p>
+            </div>
+          </div>
+          <div class="card-footer py-4 text-center"
+            style="background-color: #0f172a; color: rgba(255,255,255,0.8); border-top: 5px solid #eab308;">
+            <small
+              style="font-size: 0.95rem; letter-spacing: 0.5px; font-weight: 500;">
+              <i class="fa fa-shield mr-2"
+                style="color: #eab308;"></i> Administración en Seguridad y Salud
+              en el Trabajo | Peligros Químicos</small></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<p></p>
