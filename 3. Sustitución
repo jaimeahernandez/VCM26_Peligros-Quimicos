@@ -1,0 +1,156 @@
+<p></p>
+<section
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; width: 100%;">
+  <div class="container-fluid py-4"
+    style="background-color: #f4f7f9; border-radius: 15px; padding-left: 10px; padding-right: 10px;">
+    <div class="row justify-content-center">
+      <div class="col-12 col-xl-11">
+        <div class="card shadow-lg border-0"
+          style="border-radius: 20px; overflow: hidden; background-color: #ffffff;">
+          <div class="card-header border-0 py-4"
+            style="background: linear-gradient(135deg, #0f172a 0%, #16a34a 100%); color: white;">
+            <div class="text-center"><span
+                style="background-color: #ffffff; color: #16a34a; padding: 5px 15px; border-radius: 20px; font-size: 0.85rem; font-weight: bold; text-transform: uppercase; letter-spacing: 1px;">
+                Jerarquía de Controles: Intervención en la Fuente </span>
+              <h2
+                style="font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px; margin-top: 10px; margin-bottom: 5px; font-size: 1.6rem;">
+                Control 2: Sustitución de Sustancias Peligrosas</h2>
+              <p class="mb-0"
+                style="font-size: 1.05rem; opacity: 0.9; font-weight: 300;">
+                Reducción de la Severidad mediante el Reemplazo Tecnológico de
+                Insumos</p>
+            </div>
+          </div>
+          <div class="card-body p-4 p-md-5" style="background-color: #ffffff;">
+            <div class="mb-5">
+              <div
+                style="margin-bottom: 20px; border-bottom: 2px solid #e2e8f0; padding-bottom: 10px;">
+                <h4
+                  style="color: #1e3a8a; font-weight: bold; font-size: 1.2rem; text-transform: uppercase; letter-spacing: 0.5px;">
+                  <i class="fa fa-flask mr-2" style="color: #16a34a;"></i>
+                  Fundamento Técnico: El Principio de Menor Lesividad</h4>
+              </div>
+              <p
+                style="color: #334155; font-size: 1.05rem; line-height: 1.7; text-align: justify; margin-bottom: 15px;">
+                La Sustitución es la estrategia de higiene que consiste en
+                reemplazar una sustancia química de alta peligrosidad por otra
+                que realice la misma función técnica pero que posea un perfil
+                toxicológico significativamente menor. A diferencia de la
+                eliminación, el proceso químico continúa existiendo, pero bajo
+                condiciones de riesgo intrínseco mitigado.</p>
+              <p
+                style="color: #334155; font-size: 1.05rem; line-height: 1.7; text-align: justify; margin-bottom: 15px;">
+                Para un Administrador en SST, la sustitución no se limita a
+                cambiar de proveedor; requiere un análisis riguroso de las
+                Fichas de Datos de Seguridad (FDS) comparando:</p>
+              <ul
+                style="color: #475569; font-size: 1rem; line-height: 1.6; padding-left: 20px; margin-bottom: 20px;">
+                <li class="mb-2"><strong>Propiedades Físicas:</strong> Optar por
+                  químicos con menor presión de vapor (menos volátiles) o
+                  cambiar polvos por pellets/líquidos para evitar la vía
+                  inhalatoria.</li>
+                <li class="mb-2"><strong>Indicadores de Toxicidad:</strong>
+                  Comparar los valores de DL50 (Dosis Letal) y las frases H
+                  (Hazard statements) del SGA para asegurar que el nuevo
+                  producto sea menos nocivo.</li>
+                <li class="mb-2"><strong>Compatibilidad de Proceso:</strong>
+                  Verificar que el sustituto no reaccione de forma peligrosa con
+                  la infraestructura existente ni genere subproductos tóxicos
+                  imprevistos.</li>
+              </ul>
+              <div
+                style="background-color: #f0fdf4; border-left: 4px solid #16a34a; padding: 15px; border-radius: 0 8px 8px 0;">
+                <strong
+                  style="color: #166534; font-size: 0.95rem; text-transform: uppercase; display: block; margin-bottom: 4px;"><i
+                    class="fa fa-check-circle"></i> Ventaja
+                  Estratégica:</strong>
+                <p
+                  style="color: #14532d; font-size: 0.95rem; margin-bottom: 0; text-align: justify; line-height: 1.5;">
+                  Sustituir permite reducir los niveles de protección requeridos
+                  en los controles de ingeniería y EPP. Por ejemplo, pasar de un
+                  solvente inflamable a uno base agua reduce drásticamente las
+                  exigencias de áreas clasificadas (antiexplosión) y los seguros
+                  contra incendio de la compañía.</p>
+              </div>
+            </div>
+            <div class="row align-items-stretch"
+              style="position: relative; margin-top: 40px;">
+              <div
+                class="col-auto text-center d-none d-sm-flex flex-column align-items-center"
+                style="width: 70px;">
+                <div
+                  style="width: 45px; height: 45px; background-color: #16a34a; color: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; z-index: 2; box-shadow: 0 4px 6px rgba(0,0,0,0.15);">
+                   </div>
+              </div>
+              <div class="col">
+                <div
+                  style="background-color: #f0fdf4; border: 1px solid #dcfce7; border-left: 5px solid #16a34a; padding: 25px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
+                  <span
+                    style="background-color: #dcfce7; color: #166534; padding: 3px 10px; border-radius: 4px; font-size: 0.8rem; font-weight: bold; text-transform: uppercase;">Estudio
+                    de Caso Real: La industria del calzado y el n-Hexano</span>
+                  <h4
+                    style="color: #14532d; font-weight: bold; font-size: 1.2rem; margin-top: 10px; margin-bottom: 12px;">
+                    Reto de Gestión: Sustitución Técnica para Prevenir la
+                    Polineuropatía</h4>
+                  <p
+                    style="color: #334155; font-size: 1rem; line-height: 1.6; text-align: justify;">
+                    En una fábrica de calzado, el proceso de pegado de suelas
+                    utiliza un adhesivo de contacto basado en n-Hexano (C6H14).
+                    Este solvente es extremadamente volátil y los operarios
+                    inhalan sus vapores durante toda la jornada. La vigilancia
+                    epidemiológica ha detectado síntomas de polineuropatía
+                    periférica (pérdida de sensibilidad y fuerza en manos y
+                    pies) en el 15% de la nómina.</p>
+                  <p
+                    style="color: #334155; font-size: 1rem; line-height: 1.6; text-align: justify; margin-bottom: 0;">
+                    Usted, como **Administrador en SST**, debe liderar la
+                    transición hacia una tecnología de pegado más segura,
+                    evaluando la sustitución por adhesivos de base acuosa o
+                    adhesivos hot-melt (termoplásticos), los cuales eliminan por
+                    completo los solventes orgánicos neurotóxicos del ambiente
+                    de trabajo.</p>
+                  <div
+                    style="background-color: #ffffff; border: 1px dashed #86efac; padding: 15px; border-radius: 8px; margin-top: 15px;">
+                    <span
+                      style="color: #0f172a; font-weight: bold; font-size: 0.95rem; text-transform: uppercase; display: block; margin-bottom: 8px;">Consigna
+                      Analítica para el Estudiante:</span>
+                    <p
+                      style="color: #475569; font-size: 0.95rem; margin-bottom: 12px; text-align: justify; line-height: 1.5;">
+                      Para defender este cambio ante el Director de Producción
+                      (quien argumenta que el pegamento actual "seca más
+                      rápido"), usted debe realizar lo siguiente:</p>
+                    <ul
+                      style="color: #475569; font-size: 0.92rem; line-height: 1.5; padding-left: 20px; margin-bottom: 0;">
+                      <li class="mb-2"><strong>Análisis SGA:</strong> Compare
+                        los pictogramas de peligro del n-Hexano (Toxicidad para
+                        la reproducción y peligros para la salud) frente al
+                        adhesivo base agua (generalmente sin pictogramas de
+                        peligro sistémico). ¿Cómo influye esta diferencia en el
+                        cálculo del grado de riesgo en su matriz de peligros?
+                      </li>
+                      <li class="mb-0"><strong>Impacto en Controles
+                          Derivados:</strong> Al sustituir el n-Hexano por un
+                        adhesivo base agua, ¿qué sucede con la necesidad de usar
+                        respiradores con cartuchos para vapores orgánicos y la
+                        instalación de ventilación industrial a prueba de
+                        explosión? Sustente el ahorro operativo de esta
+                        decisión.</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="card-footer py-4 text-center"
+            style="background-color: #0f172a; color: rgba(255,255,255,0.8); border-top: 5px solid #16a34a;">
+            <small
+              style="font-size: 0.95rem; letter-spacing: 0.5px; font-weight: 500;">
+              <i class="fa fa-shield mr-2" style="color: #16a34a;"></i> Peligros
+              Químicos | Sustitución y Selección de Tecnologías Limpias </small>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<p></p>
