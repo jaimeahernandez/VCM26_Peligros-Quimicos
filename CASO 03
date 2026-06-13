@@ -1,0 +1,185 @@
+<div
+  style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 900px; margin: 0 auto; padding: 20px; border: 2px solid #cc0000; border-radius: 8px; background-color: #ffffff;">
+  <div
+    style="background-color: #cc0000; color: white; padding: 15px; border-radius: 6px 6px 0 0; margin-bottom: 20px;">
+    <h2
+      style="margin: 0; font-size: 1.4em; text-transform: uppercase; letter-spacing: 0.5px;">
+      ⚠️ EXAMEN DE HABILITACIÓN</h2>
+    <p
+      style="margin: 5px 0 0 0; font-size: 1.1em; font-weight: bold; color: #fff;">
+      👤 ESTUDIANTE ASIGNADO: CARABALI ARARAT FAIDER</p>
+  </div>
+  <div
+    style="background-color: #fff8f8; border-left: 4px solid #cc0000; padding: 15px; margin-bottom: 25px; border-radius: 0 4px 4px 0;">
+    <p
+      style="margin: 0 0 8px 0; font-weight: bold; color: #cc0000; font-size: 1.05em;">
+      📋 Condiciones Obligatorias para la Aprobación:</p>
+    <ul style="margin: 0; padding-left: 20px; font-size: 0.95em;">
+      <li><strong>Evidencia Matemática:</strong> Debe mostrar el desglose paso a
+        paso de cada cálculo (fórmulas, sustitución de variables y conversión
+        explícita de unidades de mcg a mg si es necesario). No se aceptarán
+        datos numéricos sin soporte analítico explícito.</li>
+      <li><strong>Defensa Técnico-Gerencial:</strong> Tras resolver el
+        componente matemático, debe explicar y justificar críticamente cada
+        interpretación bajo el perfil de Administrador en SST.</li>
+    </ul>
+  </div>
+  <h3
+    style="color: #003366; margin-top: 20px; border-bottom: 1px solid #ddd; padding-bottom: 5px;">
+    1. Contextualización y Datos de Campo</h3>
+  <p style="text-align: justify;">En una empresa especializada en estructuras
+    metálicas de acero inoxidable, el operario del área de soldadura por arco
+    eléctrico (proceso SMAW/GMAW) cumple una jornada laboral atípica de
+    <strong>1</strong>0 horas diarias, de lunes a sábado (60 horas semanales).
+    Por la composición de las aleaciones, existe una alta criticidad por
+    exposición a Humos Metálicos de Soldadura, específicamente Cromo Hexavalente
+    (Cr VI), cuyo límite de referencia estándar internacional (TLV-TWA de la
+    ACGIH) es de 0,0002 mg/m³ (equivalente a 0,2 mcg/m³). Para valorar de forma
+    legal el puesto, se ejecutó un monitoreo personal consecutivo en la zona
+    respiratoria del trabajador utilizando un tren de muestreo con filtro de
+    membrana acoplado a una bomba calibrada. El laboratorio reportó las masas
+    netas capturadas directamente en microgramos.</p>
+  <table
+    style="width: 100%; border-collapse: collapse; margin-top: 15px; margin-bottom: 25px; text-align: center; font-size: 0.95em;">
+    <thead>
+      <tr style="background-color: #003366; color: white; font-weight: bold;">
+        <th style="padding: 10px; border: 1px solid #ddd;">Muestra Colectada
+        </th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Masa Neta de Cromo
+          (mcg)</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Tiempo de Muestreo
+          (min)</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Flujo de Operación
+          (L/min)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td
+          style="padding: 10px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+          Muestra A (Primer Turno)</td>
+        <td
+          style="padding: 10px; border: 1px solid #ddd; font-weight: bold; color: #cc0000; font-size: 1.05em;">
+          0,19 mcg</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">290</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">2,00</td>
+      </tr>
+      <tr style="background-color: #f9f9f9;">
+        <td style="padding: 10px; border: 1px solid #ddd; font-weight: bold;">
+          Muestra B (Segundo Turno)</td>
+        <td
+          style="padding: 10px; border: 1px solid #ddd; font-weight: bold; color: #cc0000; font-size: 1.05em;">
+          0,24 mcg</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">270</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">2,00</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3
+    style="color: #003366; margin-top: 20px; border-bottom: 1px solid #ddd; padding-bottom: 5px;">
+    2. Matriz de Resultados Higiénicos Obligatoria</h3>
+  <p style="font-size: 0.9em; color: #555;">El estudiante deberá anexar a su
+    entrega los cálculos explícitos que dan origen a cada celda de la siguiente
+    estructura (atendiendo la equivalencia de unidades):</p>
+  <table
+    style="width: 100%; border-collapse: collapse; margin-top: 15px; margin-bottom: 25px; text-align: center; font-size: 0.9em;">
+    <thead>
+      <tr style="background-color: #555555; color: white; font-weight: bold;">
+        <th style="padding: 10px; border: 1px solid #ddd;">ID Muestra</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Volumen del Aire (L)
+        </th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Concentración
+          (mcg/m3)</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Concentración TWA
+          (mg/m3)</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Factor Corrección /
+          TLV ajustado</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Índice de Riesgo (IR)
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+          A</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; color: #999; font-style: italic;">
+          [Dato]</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; color: #999; font-style: italic;">
+          [Dato]</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; background-color: #f5f5f5; font-weight: bold; color: #444;"
+          rowspan="2">[Calcular Concentración Ponderada]</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; background-color: #f5f5f5; font-weight: bold; color: #444;"
+          rowspan="2">[Brief &amp; Scala Semanal]</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; background-color: #f5f5f5; font-weight: bold; color: #444;"
+          rowspan="2">[Calcular IR]</td>
+      </tr>
+      <tr>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+          B</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; color: #999; font-style: italic;">
+          [Dato]</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; color: #999; font-style: italic;">
+          [Dato]</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 30px 0;">
+  <h3 style="color: #cc0000; margin-top: 0;">🎯 RETOS DE EVALUACIÓN E
+    INTERVENCION CRÍTICA</h3>
+  <p style="font-style: italic; color: #555; font-size: 0.95em;">Desarrolle cada
+    ítem demostrando apropiación conceptual avanzada en Higiene de Campo y
+    Teórica:</p>
+  <ol
+    style="padding-left: 20px; line-height: 1.8; text-align: justify; font-size: 0.95em;">
+    <li style="margin-bottom: 18px;"><strong>Evidencias Matemáticas de las
+        Variables del Monitoreo:</strong> Desarrolle minuciosamente las
+      ecuaciones correspondientes al cálculo de los Volúmenes de Aire (L y m3) y
+      las Concentraciones individuales de Cromo expresadas inicialmente en
+      microgramos por metro cúbico (mcg/m3) para cada tramo. Posteriormente,
+      obtenga la Concentración Ponderada en el Tiempo (Cp) en la unidad
+      reglamentaria de miligramos por metro cúbico (mg/m3).</li>
+    <li style="margin-bottom: 18px;"><strong>Análisis Crítico de la Jornada
+        Atípica y Ajuste de Límite (TLV):</strong> Debido a que el operario
+      labora bajo un esquema altamente exigente de 60 horas semanales, efectúe
+      matemáticamente el ajuste del TLV original (0,0002 mg/m3 o 0,2 mcg/m3)
+      utilizando el modelo de <i>Brief &amp; Scala Semanal</i>. Explique
+      técnicamente qué impacto toxicológico y celular (mecanismo
+      mutágeno/carcinógeno sistémico) posee el cromo hexavalente cuando el
+      organismo ve reducidos drásticamente sus periodos semanales de depuración
+      y descanso fisiológico. ¿Cuáles son las consecuencias éticas, técnicas y
+      legales si usted como Administrador en SST omite este ajuste analítico?
+    </li>
+    <li style="margin-bottom: 18px;"><strong>Diagnóstico Higiénico a partir del
+        Índice de Riesgo (IR):</strong> Determine con precisión matemática el
+      Índice de Riesgo ($IR$) contrastando la concentración ponderada real
+      frente al TLV corregido para el Cromo. Explique detalladamente el
+      significado operativo si el IR es superior a 1.0 (vinculándolo con el
+      porcentaje de dosis de referencia técnica alcanzado), así como el valor
+      preventivo del Nivel de Acción (0.5) cuando se evalúan agentes químicos
+      con nexo causal de cáncer ocupacional. Justifique por qué promediar
+      aritméticamente los datos de las muestras en lugar de ponderarlos anularía
+      la validez del dictamen.</li>
+    <li style="margin-bottom: 18px;"><strong>Plan Gerencial de Intervención en
+        Fuente y Medio:</strong> Con base en el diagnóstico higiénico obtenido,
+      diseñe una propuesta de intervención técnica enfocada estrictamente en la
+      Fuente (v.g., sustitución de procesos, antorchas de soldadura con
+      extracción integrada en la boquilla) y el<strong> </strong>Medio (v.g.,
+      sistemas de extracción localizada por brazos articulados de alta
+      velocidad). Debe proyectar mediante una simulación matemática el
+      porcentaje de eficiencia mecánica que requeriría su sistema de ingeniería
+      para abatir la concentración ambiental, forzando a que el nuevo Índice de
+      Riesgo (IR) sea inferior al Nivel de Acción (0.5), demostrando cómo se
+      logra la conformidad higiénica sin depender de la protección respiratoria
+      del trabajador.</li>
+  </ol>
+  <hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 30px 0;">
+</div>
