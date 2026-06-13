@@ -1,0 +1,171 @@
+<div
+  style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 900px; margin: 0 auto; padding: 20px; border: 2px solid #cc0000; border-radius: 8px; background-color: #ffffff;">
+  <div
+    style="background-color: #cc0000; color: white; padding: 15px; border-radius: 6px 6px 0 0; margin-bottom: 20px;">
+    <h2
+      style="margin: 0; font-size: 1.4em; text-transform: uppercase; letter-spacing: 0.5px;">
+      ⚠️ EXAMEN DE HABILITACIÓN</h2>
+    <p
+      style="margin: 5px 0 0 0; font-size: 1.1em; font-weight: bold; color: #fff;">
+      👤 ESTUDIANTE ASIGNADO: BELALCAZAR CARABALI MAICOL STIVEN</p>
+  </div>
+  <div
+    style="background-color: #fff8f8; border-left: 4px solid #cc0000; padding: 15px; margin-bottom: 25px; border-radius: 0 4px 4px 0;">
+    <p
+      style="margin: 0 0 8px 0; font-weight: bold; color: #cc0000; font-size: 1.05em;">
+      📋 Condiciones Obligatorias para la Aprobación:</p>
+    <ul style="margin: 0; padding-left: 20px; font-size: 0.95em;">
+      <li><strong>Evidencia Matemática:</strong> Debe mostrar el desglose paso a
+        paso de cada cálculo (fórmulas, sustitución de variables y unidades). No
+        se aceptarán datos numéricos sin soporte analítico.</li>
+      <li><strong>Defensa Técnica:</strong> Tras resolver el componente
+        matemático, debe explicar y justificar críticamente cada interpretación
+        bajo el perfil de Administrador en SST.</li>
+    </ul>
+  </div>
+  <h3
+    style="color: #003366; margin-top: 20px; border-bottom: 1px solid #ddd; padding-bottom: 5px;">
+    1. Contextualización y Datos de Campo</h3>
+  <p style="text-align: justify;">En una planta de procesamiento de harinas
+    industriales, el operario del área de ensaque labora en una jornada atípica
+    de 10 horas diarias, de lunes a viernes (50 horas semanales). Se sospecha
+    sobreexposición a material particulado (Fracción Inhalable), cuyo límite de
+    referencia estándar internacional (TLV-TWA de la ACGIH) está establecido en
+    10 mg/m<strong>³</strong>. Para evaluar el puesto, se realizó un muestreo
+    consecutivo de jornada completa utilizando una bomba de flujo constante
+    calibrada y cartuchos de filtro específicos para esta fracción.</p>
+  <table
+    style="width: 100%; border-collapse: collapse; margin-top: 15px; margin-bottom: 25px; text-align: center; font-size: 0.95em;">
+    <thead>
+      <tr style="background-color: #003366; color: white; font-weight: bold;">
+        <th style="padding: 10px; border: 1px solid #ddd;">Muestra Colectada
+        </th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Masa Neta de Polvo
+          (mg)</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Tiempo de Muestreo
+          (min)</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Flujo de Operación
+          (L/min)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td
+          style="padding: 10px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+          Muestra A (Mañana)</td>
+        <td
+          style="padding: 10px; border: 1px solid #ddd; font-weight: bold; color: #cc0000;">
+          2,45</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">280</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">2,00</td>
+      </tr>
+      <tr style="background-color: #f9f9f9;">
+        <td style="padding: 10px; border: 1px solid #ddd; font-weight: bold;">
+          Muestra B (Tarde)</td>
+        <td
+          style="padding: 10px; border: 1px solid #ddd; font-weight: bold; color: #cc0000;">
+          3,10</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">260</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">2,00</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3
+    style="color: #003366; margin-top: 20px; border-bottom: 1px solid #ddd; padding-bottom: 5px;">
+    2. Matriz de Resultados Higiénicos Obligatoria</h3>
+  <p style="font-size: 0.9em; color: #555;">El estudiante deberá anexar a su
+    entrega los cálculos explícitos que dan origen a cada celda de la siguiente
+    estructura:</p>
+  <table
+    style="width: 100%; border-collapse: collapse; margin-top: 15px; margin-bottom: 25px; text-align: center; font-size: 0.9em; height: 198.875px;">
+    <thead>
+      <tr
+        style="background-color: #555555; color: white; font-weight: bold; height: 63.625px;">
+        <th style="padding: 10px; border: 1px solid #ddd;">ID Muestra</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Volumen del Aire (L)
+        </th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Concentración (mg/m3)
+        </th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Concentración TWA
+          (mg/m3)</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Factor Corrección /
+          TLV ajustado</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Índice de Riesgo (IR)
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="height: 67.625px;">
+        <td
+          style="padding: 12px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+          A</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; color: #999; font-style: italic;">
+          [Dato]</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; color: #999; font-style: italic;">
+          [Dato]</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; background-color: #f5f5f5; font-weight: bold; color: #444;"
+          rowspan="2">[Calcular Concentración Ponderada]</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; background-color: #f5f5f5; font-weight: bold; color: #444;"
+          rowspan="2">[Brief &amp; Scala Semanal]</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; background-color: #f5f5f5; font-weight: bold; color: #444;"
+          rowspan="2">[Calcular IR]</td>
+      </tr>
+      <tr style="height: 67.625px;">
+        <td
+          style="padding: 12px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+          B</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; color: #999; font-style: italic;">
+          [Dato]</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; color: #999; font-style: italic;">
+          [Dato]</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 30px 0;">
+  <h3 style="color: #cc0000; margin-top: 0;">🎯 RETOS DE EVALUACIÓN E
+    INTERVENCION CRÍTICA</h3>
+  <p style="font-style: italic; color: #555; font-size: 0.95em;">Desarrolle cada
+    ítem demostrando apropiación conceptual avanzada en Higiene de Campo y
+    Teórica:</p>
+  <ol
+    style="padding-left: 20px; line-height: 1.8; text-align: justify; font-size: 0.95em;">
+    <li style="margin-bottom: 18px;"><strong>Evidencias Matemáticas de las
+        Variables del Monitoreo:</strong> Desarrolle minuciosamente las
+      ecuaciones correspondientes al cálculo de los Volúmenes de Aire (L y m3) y
+      las Concentraciones individuales de cada muestra. Posteriormente, obtenga
+      la Concentración Ponderada en el Tiempo (Cp) de la jornada completa.</li>
+    <li style="margin-bottom: 18px;"><strong>Análisis Crítico de la Jornada
+        Atípica y Ajuste de Límite (TLV):</strong> Debido a que el operario
+      labora 50 horas semanales, efectúe matemáticamente el ajuste del TLV
+      original utilizando el modelo matemático de <i>Brief &amp; Scala
+        Semanal</i>. Explique técnicamente qué efectos metabólicos o sobrecarga
+      en las vías respiratorias superiores tiene la fracción inhalable cuando se
+      aumentan los tiempos de exposición. ¿Qué pasaría si como Administrador en
+      SST evalúa esta situación con el límite directo de 8 horas sin corregir?
+    </li>
+    <li style="margin-bottom: 18px;"><strong>Diagnóstico Higiénico a partir del
+        Índice de Riesgo (IR):</strong> Determine con precisión matemática el
+      Índice de Riesgo (IR) contrastando el Cp real frente al TLV corregido.
+      Explique detalladamente el significado técnico y normativo si el IR es
+      superior a 1.0 y qué porcentaje de dosis representa, así como la
+      importancia preventiva si el resultado se ubicara sobre el umbral del
+      Nivel de Acción (0.5). Justifique por qué promediar o analizar una sola de
+      las muestras de forma aislada anularía la validez del diagnóstico legal e
+      higiénico del puesto.</li>
+    <li style="margin-bottom: 18px;"><strong>Plan Gerencial de Intervención en
+        Fuente y Medio:</strong> Con base en el diagnóstico higiénico obtenido,
+      diseñe una propuesta de intervención técnica enfocada estrictamente en
+      la<strong> </strong>Fuente y el Medio. Debe proyectar mediante una
+      simulación matemática el porcentaje de eficiencia que requeriría su
+      sistema de control de ingeniería para mitigar la concentración ambiental,
+      forzando a que el nuevo Índice de Riesgo (IR) sea inferior al Nivel de
+      Acción (0.5), eliminando la dependencia del uso de EPP respiratorio.</li>
+  </ol>
+</div>
