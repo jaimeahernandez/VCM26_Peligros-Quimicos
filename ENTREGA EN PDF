@@ -1,0 +1,71 @@
+<div
+  style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 900px; margin: 0 auto; padding: 20px; border: 2px solid #8B0000; border-radius: 8px; background-color: #ffffff;">
+  <div
+    style="background-color: #8b0000; color: white; padding: 20px; border-radius: 6px 6px 0 0; margin-bottom: 25px; text-align: center;">
+    <h2
+      style="margin: 0; font-size: 1.6em; text-transform: uppercase; letter-spacing: 1px;">
+      📥 ENTREGA DE LA ACTIVIDAD</h2>
+    <p
+      style="margin: 5px 0 0 0; font-size: 1.1em; font-weight: bold; color: #ffcccc;">
+      EXAMEN DE HABILITACIÓN: EVALUACIÓN EN HIGIENE INDUSTRIAL</p>
+  </div>
+  <div
+    style="background-color: #fff5f5; border: 1px solid #ffcccc; border-left: 5px solid #8B0000; padding: 15px; margin-bottom: 25px; border-radius: 4px;">
+    <p style="margin: 0; font-weight: bold; color: #8b0000; font-size: 1.05em;">
+      ⚠️ DIRECTRIZ INSTITUCIONAL:</p>
+    <p style="margin: 4px 0 0 0; font-size: 0.95em; text-align: justify;">Esta
+      plataforma representa el único canal oficial para la recepción de su
+      examen de habilitación. Verifique que el archivo cargado corresponda
+      exactamente al Caso de Estudio asignado. No se admitirán correcciones ni
+      envíos extemporáneos por otros medios.</p>
+  </div>
+  <h3
+    style="color: #2c3e50; margin-top: 0; border-bottom: 2px solid #8B0000; padding-bottom: 5px;">
+    📋 Formato y Parámetros Obligatorios del Entregable</h3>
+  <p style="text-align: justify; font-size: 0.95em;">Para asegurar la validez de
+    su proceso de evaluación, la habilitación debe estructurarse estrictamente
+    bajo las siguientes pautas de presentación:</p>
+  <ul
+    style="padding-left: 20px; margin-bottom: 25px; font-size: 0.95em; line-height: 1.8;">
+    <li><strong>Formato de Archivo único:</strong> El documento final debe ser
+      cargado exclusivamente en formato <strong>PDF</strong>.</li>
+    <li><strong>Nomenclatura del Archivo:</strong> Guarde su documento
+      utilizando la estructura oficial: <code
+        style="background-color: #f4f4f4; padding: 2px 6px; border-radius: 3px; font-weight: bold; color: #8b0000;">Habilitacion_Higiene_PrimerApellido_PrimerNombre.pdf</code>
+    </li>
+    <li><strong>Contenido:</strong> El documento debe incluir la portada
+      institucional, el desarrollo analítico-matemático completo (fórmulas y
+      conversiones), la tabla de resultados diligenciada y el plan gerencial de
+      intervención técnica en fuente y medio.</li>
+  </ul>
+  <div
+    style="background-color: #f9f9f9; border: 1px solid #e0e0e0; padding: 18px; border-radius: 6px; margin-bottom: 30px;">
+    <h4
+      style="margin: 0 0 12px 0; color: #2c3e50; font-size: 1.1em; text-transform: uppercase; letter-spacing: 0.5px;">
+      ✅ Lista de Verificación del Estudiante (Checklist)</h4>
+    <p
+      style="margin: 0 0 10px 0; font-size: 0.9em; color: #666; font-style: italic;">
+      Antes de efectuar el envío, asegúrese de haber resuelto cabalmente:</p>
+    <div style="font-size: 0.95em;">
+      <div style="margin-bottom: 8px;">🔳 <strong>Memoria de Cálculo:</strong>
+        Inclusión del paso a paso matemático (Volúmenes en L y m³,
+        concentraciones en mcg/m³ y su paso formal a mg/m³).</div>
+      <div style="margin-bottom: 8px;">🔳 <strong>Ajuste por Jornada
+          Atípica:</strong> Aplicación explícita del modelo Brief &amp; Scala
+        Semanal según las horas asignadas a su caso.</div>
+      <div style="margin-bottom: 8px;">🔳 <strong>Análisis e Índice de
+          Riesgo:</strong> Contraste analítico del TWA frente al TLV corregido e
+        interpretación del Nivel de Acción (0.5).</div>
+      <div style="margin-bottom: 8px;">🔳 <strong>Respuestas: </strong>Responder
+        lo que se indica en cada caso.</div>
+    </div>
+  </div>
+  <div style="text-align: center; margin: 35px 0 20px 0;">
+    <p style="font-size: 0.9em; color: #666; margin-bottom: 12px;">Haga clic en
+      el botón inferior para abrir el espacio de carga, arrastrar su archivo PDF
+      y consolidar su entrega.</p>
+    <a style="display: inline-block; background-color: #8b0000; color: white; text-decoration: none; padding: 14px 35px; font-weight: bold; border-radius: 4px; font-size: 1.1em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 4px 6px rgba(0,0,0,0.15); transition: background-color 0.3s ease;"
+      href="https://aulasvirtuales.unicamacho.edu.co/mod/assign/view.php?id=1471298"> 🚀
+      CARGAR HABILITACIÓN AQUÍ </a>
+  </div>
+</div>
