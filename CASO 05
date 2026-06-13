@@ -1,0 +1,180 @@
+<div
+  style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; line-height: 1.6; max-width: 900px; margin: 0 auto; padding: 20px; border: 2px solid #7b1fa2; border-radius: 8px; background-color: #ffffff;">
+  <div
+    style="background-color: #7b1fa2; color: white; padding: 15px; border-radius: 6px 6px 0 0; margin-bottom: 20px;">
+    <h2
+      style="margin: 0; font-size: 1.4em; text-transform: uppercase; letter-spacing: 0.5px;">
+      ⚠️ EXAMEN DE HABILITACIÓN</h2>
+    <p
+      style="margin: 5px 0 0 0; font-size: 1.1em; font-weight: bold; color: #fff;">
+      👤 ESTUDIANTE ASIGNADA: CASTRO CASTILLO DARIS YULIANA</p>
+  </div>
+  <div
+    style="background-color: #fbf4fc; border-left: 4px solid #7b1fa2; padding: 15px; margin-bottom: 25px; border-radius: 0 4px 4px 0;">
+    <p
+      style="margin: 0 0 8px 0; font-weight: bold; color: #7b1fa2; font-size: 1.05em;">
+      📋 Condiciones Obligatorias para la Aprobación:</p>
+    <ul style="margin: 0; padding-left: 20px; font-size: 0.95em;">
+      <li><strong>Evidencia Matemática:</strong> Debe mostrar el desglose paso a
+        paso de cada cálculo (fórmulas, sustitución de variables y conversión de
+        unidades de mcg a mg si es necesario). No se aceptarán datos numéricos
+        sin soporte analítico explícito.</li>
+      <li><strong>Defensa Técnico-Gerencial:</strong> Tras resolver el
+        componente matemático, debe explicar y justificar críticamente cada
+        interpretación bajo el perfil de Administradora en SST.</li>
+    </ul>
+  </div>
+  <h3
+    style="color: #003366; margin-top: 20px; border-bottom: 1px solid #ddd; padding-bottom: 5px;">
+    1. Contextualización y Datos de Campo</h3>
+  <p style="text-align: justify;">En una planta de fabricación de componentes de
+    acero de alta resistencia y aleaciones especiales para la industria
+    aeroespacial, el operario del área de soldadura por arco de tungsteno con
+    gas (proceso GTAW/TIG) cumple una jornada laboral atípica de 9 horas
+    diarias, de lunes a sábado (54 horas semanales). Debido a las altas
+    concentraciones de este elemento en las varillas de aporte, existe una
+    preocupación crítica por la generación de Humos Metálicos de Níquel (Ni). El
+    límite de referencia estándar internacional (TLV-TWA de la ACGIH) para
+    Níquel es de 1,5 mg/m³ (equivalente a 1500 mcg/m³). Con el propósito de
+    evaluar legalmente el puesto de trabajo, se realizó un monitoreo higiénico
+    personal consecutivo utilizando un tren de muestreo con bomba calibrada y
+    filtro MCE. El laboratorio de análisis químico reportó los resultados de
+    masa neta en microgramos.</p>
+  <table
+    style="width: 100%; border-collapse: collapse; margin-top: 15px; margin-bottom: 25px; text-align: center; font-size: 0.95em;">
+    <thead>
+      <tr style="background-color: #003366; color: white; font-weight: bold;">
+        <th style="padding: 10px; border: 1px solid #ddd;">Muestra Colectada
+        </th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Masa Neta de Níquel
+          (mcg)</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Tiempo de Muestreo
+          (min)</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Flujo de Operación
+          (L/min)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td
+          style="padding: 10px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+          Muestra A (Primer Turno)</td>
+        <td
+          style="padding: 10px; border: 1px solid #ddd; font-weight: bold; color: #7b1fa2; font-size: 1.05em;">
+          780,50 mcg</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">280 min</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">2,20 L/min</td>
+      </tr>
+      <tr style="background-color: #f9f9f9;">
+        <td style="padding: 10px; border: 1px solid #ddd; font-weight: bold;">
+          Muestra B (Segundo Turno)</td>
+        <td
+          style="padding: 10px; border: 1px solid #ddd; font-weight: bold; color: #7b1fa2; font-size: 1.05em;">
+          920,00 mcg</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">260 min</td>
+        <td style="padding: 10px; border: 1px solid #ddd;">2,20 L/min</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3
+    style="color: #003366; margin-top: 20px; border-bottom: 1px solid #ddd; padding-bottom: 5px;">
+    2. Matriz de Resultados Higiénicos Obligatoria</h3>
+  <p style="font-size: 0.9em; color: #555;">La estudiante deberá anexar a su
+    entrega los cálculos explícitos que dan origen a cada celda de la siguiente
+    estructura (atendiendo la equivalencia de unidades):</p>
+  <table
+    style="width: 100%; border-collapse: collapse; margin-top: 15px; margin-bottom: 25px; text-align: center; font-size: 0.9em;">
+    <thead>
+      <tr style="background-color: #555555; color: white; font-weight: bold;">
+        <th style="padding: 10px; border: 1px solid #ddd;">ID Muestra</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Volumen del Aire (L)
+        </th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Concentración
+          (mcg/m3)</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Concentración TWA
+          (mg/m3)</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Factor Corrección /
+          TLV ajustado</th>
+        <th style="padding: 10px; border: 1px solid #ddd;">Índice de Riesgo (IR)
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+          A</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; color: #999; font-style: italic;">
+          [Dato]</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; color: #999; font-style: italic;">
+          [Dato]</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; background-color: #f5f5f5; font-weight: bold; color: #444;"
+          rowspan="2">[Calcular Concentración Ponderada]</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; background-color: #f5f5f5; font-weight: bold; color: #444;"
+          rowspan="2">[Brief &amp; Scala Semanal]</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; background-color: #f5f5f5; font-weight: bold; color: #444;"
+          rowspan="2">[Calcular IR]</td>
+      </tr>
+      <tr>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; font-weight: bold; background-color: #f9f9f9;">
+          B</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; color: #999; font-style: italic;">
+          [Dato]</td>
+        <td
+          style="padding: 12px; border: 1px solid #ddd; color: #999; font-style: italic;">
+          [Dato]</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 30px 0;">
+  <h3 style="color: #7b1fa2; margin-top: 0;">🎯 RETOS DE EVALUACIÓN E
+    INTERVENCION CRÍTICA</h3>
+  <p style="font-style: italic; color: #555; font-size: 0.95em;">Desarrolle cada
+    ítem demostrando apropiación conceptual avanzada en Higiene de Campo y
+    Teórica:</p>
+  <ol
+    style="padding-left: 20px; line-height: 1.8; text-align: justify; font-size: 0.95em;">
+    <li style="margin-bottom: 18px;"><strong>Evidencias Matemáticas de las
+        Variables del Monitoreo:</strong> Desarrolle minuciosamente las
+      ecuaciones correspondientes al cálculo de los Volúmenes de Aire (L y m3) y
+      las Concentraciones individuales de Níquel expresadas inicialmente en
+      microgramos por metro cúbico (mcg/m3) para cada tramo analizado.
+      Posteriormente, obtenga la Concentración Ponderada en el Tiempo (Cp) en la
+      unidad reglamentaria de miligramos por metro cúbico (mg/m3).</li>
+    <li style="margin-bottom: 18px;"><strong>Análisis Crítico de la Jornada
+        Atípica y Ajuste de Límite (TLV):</strong> Debido a que el operario
+      labora bajo una jornada extendida de 54 horas semanales, efectúe
+      matemáticamente el ajuste del TLV original (1,5 mg/m3 o 1500 mcg/m3)
+      utilizando el modelo de <i>Brief &amp; Scala Semanal</i>. Explique
+      técnicamente el impacto fisiopatológico que tiene el níquel en el sistema
+      respiratorio (potencial de inducción de asma ocupacional, fibrosis
+      pulmonar y carcinogenicidad en senos paranasales y pulmón) cuando los
+      tiempos de no exposición disminuyen. ¿Qué responsabilidades legales asume
+      un Administrador en SST si fundamenta su plan de prevención omitiendo este
+      ajuste?</li>
+    <li style="margin-bottom: 18px;"><strong>Diagnóstico Higiénico a partir del
+        Índice de Riesgo (IR):</strong> Determine con precisión matemática el
+      Índice de Riesgo (IR) contrastando la concentración ponderada real frente
+      al TLV corregido para el Níquel. Explique detalladamente el significado
+      operativo de este indicador y analice críticamente el valor preventivo del
+      Nivel de Acción (0.5). Justifique analíticamente por qué promediar
+      aritméticamente los datos de las muestras en lugar de ponderarlos con base
+      en el tiempo destruiría la validez del dictamen higiénico.</li>
+    <li style="margin-bottom: 18px;"><strong>Plan Gerencial de Intervención en
+        Fuente y Medio:</strong> Con base en el diagnóstico higiénico obtenido,
+      diseñe una propuesta de intervención técnica enfocada estrictamente en la
+      Fuente y el Medio. Debe proyectar mediante una simulación matemática el
+      porcentaje de eficiencia de captación que requeriría su diseño de
+      ingeniería para reducir la concentración ambiental, asegurando que el
+      nuevo Índice de Riesgo (IR) se sitúe por debajo del Nivel de Acción (0.5),
+      eliminando la dependencia exclusiva de los respiradores de libre
+      mantenimiento.</li>
+  </ol>
+</div>
