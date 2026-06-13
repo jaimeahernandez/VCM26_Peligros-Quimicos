@@ -1,0 +1,42 @@
+<div
+  style="font-family: 'Arial', sans-serif; max-width: 900px; margin: 0 auto; color: #334155; line-height: 1.5; background-color: #ffffff; padding: 20px; border: 1px solid #e2e8f0; border-radius: 8px;">
+  <div
+    style="background-color: #1a365d; padding: 20px; border-radius: 6px; color: #ffffff; margin-bottom: 25px; text-align: center;">
+    <h3
+      style="margin: 0; font-size: 22px; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px;">
+      🎥 Tutoriales de Cálculo: Higiene Industrial</h3>
+  </div>
+  <div
+    style="margin-bottom: 35px; border-bottom: 1px solid #e2e8f0; padding-bottom: 25px;">
+    <h4
+      style="margin: 0 0 10px 0; color: #1a365d; font-size: 18px; display: flex; align-items: center;">
+      <span style="margin-right: 10px;">📊</span> Tutorial: Material Particulado
+      (Método NIOSH 600)</h4>
+    <p style="margin: 0 0 15px 0; font-size: 14px; color: #4a5568;">
+      Procedimiento gravimétrico y cálculo de concentraciones para polvo
+      respirable en mg/m³.</p>
+    <div
+      style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+      <iframe
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube.com/embed/ilckv_ieGkI"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen="allowfullscreen"></iframe></div>
+  </div>
+  <div style="margin-bottom: 20px;">
+    <h4
+      style="margin: 0 0 10px 0; color: #1a365d; font-size: 18px; display: flex; align-items: center;">
+      <span style="margin-right: 10px;">🧪</span> Tutorial: Humos Metálicos
+      (Método NIOSH 7300)</h4>
+    <p style="margin: 0 0 15px 0; font-size: 14px; color: #4a5568;">Muestreo y
+      determinación analítica de elementos y trazas metálicas en aire por plasma
+      (µg).</p>
+    <div
+      style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+      <iframe
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+        src="https://www.youtube.com/embed/52AhpXvsZqI"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen="allowfullscreen"></iframe></div>
+  </div>
+</div>
