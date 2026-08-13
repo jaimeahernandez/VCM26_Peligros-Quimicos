@@ -1,98 +1,328 @@
 <div
-  style="font-family: Arial, sans-serif; border: 1px solid #dee2e6; padding: 20px; border-radius: 8px; background-color: #f8f9fa;">
-  <h2
-    style="color: #004a99; border-bottom: 2px solid #004a99; padding-bottom: 10px;">
-    Actividad Integrada: Investigación de Accidente Químico y Modelo de Gestión
-    – Caso MGPI (Kansas)</h2>
-  <p><strong>Contexto:</strong> El 21 de octubre de 2016, una mezcla inadvertida
-    de productos químicos incompatibles generó liberación de gas cloro,
-    afectando a más de 140 personas. El caso fue investigado por la CSB.</p>
-  <div style="margin: 20px 0; text-align: center;"><iframe
-      src="https://www.youtube.com/embed/sGnAMmn8VRs" width="560" height="315"
-      frameborder="0" allowfullscreen="allowfullscreen">
-    </iframe>
-    <p><small>Fuente: CSB – Chemical Mixing Incident</small></p>
-  </div>
-  <h3 style="color: #d9534f;">Fase 1: Análisis Técnico del Evento</h3>
-  <ol>
-    <li><strong>Identificación de Sustancias:</strong> Identifique los químicos
-      involucrados y explique la peligrosidad del gas cloro conforme al SGA y su
-      FDS.</li>
-    <li><strong>Factores Humanos y de Diseño:</strong> Analice cómo el diseño
-      físico de las líneas y la ausencia de señalización favorecieron el error
-      operativo.</li>
-    <li><strong>Fallas en Barreras de Control:</strong> Identifique al menos
-      tres barreras que fallaron (ingeniería, administrativas o EPP).</li>
-  </ol>
-  <hr>
-  <h3 style="color: #f0ad4e;">Fase 2: Análisis de Causas – Metodología de
-    Investigación</h3>
-  <p>El estudiante deberá elaborar un análisis estructurado utilizando UNA de
-    las siguientes metodologías:</p>
-  <ul>
-    <li><strong>Árbol de Causas</strong> (secuencia lógica causa–efecto).</li>
-    <li><strong>Diagrama de Espina de Pescado (Ishikawa)</strong>, considerando
-      como mínimo las categorías: Método, Mano de Obra, Maquinaria, Materiales,
-      Medio Ambiente y Gestión.</li>
-  </ul>
+  style="background: #fdfdfd; border: 1px solid #002d5a; border-radius: 20px; overflow: hidden; font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; box-shadow: 0 20px 50px rgba(0,45,90,0.15); max-width: 1000px; margin: 20px auto;">
+  <!-- ENCABEZADO -->
   <div
-    style="background-color: #fff3cd; padding: 15px; border-left: 5px solid #f0ad4e;">
-    <strong>Exigencia técnica:</strong> El análisis debe diferenciar:
-    <ul>
-      <li>Causas inmediatas.</li>
-      <li>Causas básicas.</li>
-      <li>Fallas del sistema de gestión.</li>
-    </ul>
+    style="background: linear-gradient(135deg, #002d5a 0%, #004a8f 100%); color: #ffffff; padding: 40px; text-align: left; border-bottom: 6px solid #ffc107;">
+    <div
+      style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+      <div
+        style="background: rgba(255,255,255,0.15); padding: 18px; border-radius: 15px; font-size: 38px;">
+        🧪</div>
+      <div>
+        <h2
+          style="margin: 0; text-transform: uppercase; letter-spacing: 2px; font-size: 26px; font-weight: 900; color: #ffffff;">
+          Actividad Integrada: Investigación de Accidente Químico y Modelo de
+          Gestión – Caso MGPI (Kansas)</h2>
+      </div>
+    </div>
   </div>
-  <hr>
-  <h3 style="color: #5cb85c;">Fase 3: Aplicación de Modelo de Gestión y Plan de
-    Intervención</h3>
-  <p>A partir del análisis causal realizado, el estudiante deberá formular un
-    <strong>Plan de Intervención estructurado bajo un Modelo de Gestión del
-      Riesgo Químico</strong>.</p>
-  <p>El plan debe contener:</p>
-  <ol>
-    <li><strong>Diagnóstico resumido</strong> (síntesis del análisis causal).
-    </li>
-    <li><strong>Objetivo general de intervención.</strong></li>
-    <li><strong>Acciones correctivas y preventivas</strong> clasificadas según
-      la Jerarquía de Controles:
-      <ul>
-        <li>Eliminación / Sustitución.</li>
-        <li>Controles de Ingeniería.</li>
-        <li>Controles Administrativos.</li>
-        <li>EPP.</li>
+  <div style="padding: 40px;"><!-- CONTEXTO Y VIDEO -->
+    <div
+      style="background: #f8fafc; border-left: 6px solid #002d5a; padding: 20px 25px; border-radius: 0 15px 15px 0; margin-bottom: 30px; border: 1px solid #e2e8f0; border-left-width: 6px;">
+      <p
+        style="margin: 0 0 15px 0; color: #334155; font-size: 15px; line-height: 1.7;">
+        <strong>Contexto:</strong> El 21 de octubre de 2016, una mezcla
+        inadvertida de productos químicos incompatibles generó liberación de gas
+        cloro, afectando a más de 140 personas. El caso fue investigado por la
+        CSB.</p>
+      <div style="margin: 20px 0; text-align: center;">
+        <div
+          style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);">
+          <iframe
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+            src="https://www.youtube.com/embed/sGnAMmn8VRs"
+            allowfullscreen="allowfullscreen"></iframe></div>
+        <p style="margin-top: 8px;"><small
+            style="color: #64748b; font-weight: 600;">Fuente: CSB – Chemical
+            Mixing Incident</small></p>
+      </div>
+    </div>
+    <!-- FASE 1 -->
+    <div
+      style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 30px; margin-bottom: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+      <div
+        style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+        <span
+          style="background: #d9534f; color: white; padding: 8px 16px; border-radius: 30px; font-weight: 900; font-size: 16px;">Fase
+          1</span>
+        <h3
+          style="color: #d9534f; margin: 0; font-size: 20px; font-weight: 800; text-transform: uppercase;">
+          Fase 1: Análisis Técnico del Evento</h3>
+      </div>
+      <ol
+        style="color: #334155; font-size: 15px; line-height: 1.8; margin: 0; padding-left: 20px;">
+        <li><strong>Identificación de Sustancias:</strong> Identifique los
+          químicos involucrados y explique la peligrosidad del gas cloro
+          conforme al SGA y su FDS.</li>
+        <li><strong>Factores Humanos y de Diseño:</strong> Analice cómo el
+          diseño físico de las líneas y la ausencia de señalización favorecieron
+          el error operativo.</li>
+        <li><strong>Fallas en Barreras de Control:</strong> Identifique al menos
+          tres barreras que fallaron (ingeniería, administrativas o EPP).</li>
+      </ol>
+    </div>
+    <!-- FASE 2 -->
+    <div
+      style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 30px; margin-bottom: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+      <div
+        style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+        <span
+          style="background: #f0ad4e; color: white; padding: 8px 16px; border-radius: 30px; font-weight: 900; font-size: 16px;">Fase
+          2</span>
+        <h3
+          style="color: #b45309; margin: 0; font-size: 20px; font-weight: 800; text-transform: uppercase;">
+          Fase 2: Análisis de Causas – Metodología de Investigación</h3>
+      </div>
+      <p style="color: #334155; font-size: 15px; line-height: 1.7;">El
+        estudiante deberá elaborar un análisis estructurado utilizando UNA de
+        las siguientes metodologías:</p>
+      <ul
+        style="color: #334155; font-size: 15px; line-height: 1.8; margin-bottom: 20px; padding-left: 20px;">
+        <li><strong>Árbol de Causas</strong> (secuencia lógica causa–efecto).
+        </li>
+        <li><strong>Diagrama de Espina de Pescado (Ishikawa)</strong>,
+          considerando como mínimo las categorías: Método, Mano de Obra,
+          Maquinaria, Materiales, Medio Ambiente y Gestión.</li>
       </ul>
-    </li>
-    <li><strong>Responsables.</strong></li>
-    <li><strong>Indicadores de seguimiento.</strong></li>
-    <li><strong>Cronograma general.</strong></li>
-  </ol>
-  <div
-    style="background-color: #e8f5e9; padding: 15px; border-left: 5px solid #5cb85c; margin-top: 20px;">
-    <p><strong>Enfoque requerido:</strong></p>
-    <p>El plan debe evidenciar integración con un Sistema de Gestión de
-      Seguridad y Salud en el Trabajo y demostrar cómo la mejora organizacional
-      reduce la probabilidad de recurrencia del evento.</p>
-  </div>
-  <hr>
-  <h3 style="color: #004a99;">Producto Final a Entregar</h3>
-  <ul>
-    <li>Documento técnico en PDF.</li>
-    <li>Diagrama causal elaborado digitalmente.</li>
-    <li>Plan de intervención estructurado en tabla técnica.</li>
-    <li>Conclusión crítica sobre la cultura de seguridad organizacional.</li>
-  </ul>
-  <div
-    style="background-color: #ffffff; padding: 15px; border-left: 5px solid #004a99; margin-top: 20px;">
-    <p><strong>Criterios de Evaluación:</strong></p>
-    <ul>
-      <li>Rigor técnico en la identificación de causas.</li>
-      <li>Coherencia entre análisis causal y plan de intervención.</li>
-      <li>Uso adecuado de terminología técnica (SGA, barreras, gestión del
-        riesgo).</li>
-      <li>Capacidad de integrar factores humanos, técnicos y organizacionales.
-      </li>
-    </ul>
+      <div
+        style="background-color: #fff3cd; padding: 20px; border-left: 5px solid #f0ad4e; border-radius: 0 10px 10px 0; border-top: 1px solid #fde68a; border-right: 1px solid #fde68a; border-bottom: 1px solid #fde68a;">
+        <strong style="color: #856404; font-size: 15px;">Exigencia
+          técnica:</strong> <span style="color: #856404;">El análisis debe
+          diferenciar:</span>
+        <ul
+          style="color: #856404; font-size: 14px; line-height: 1.8; margin: 10px 0 0 0; padding-left: 20px;">
+          <li>Causas inmediatas.</li>
+          <li>Causas básicas.</li>
+          <li>Fallas del sistema de gestión.</li>
+        </ul>
+      </div>
+    </div>
+    <!-- FASE 3 -->
+    <div
+      style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 30px; margin-bottom: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+      <div
+        style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+        <span
+          style="background: #5cb85c; color: white; padding: 8px 16px; border-radius: 30px; font-weight: 900; font-size: 16px;">Fase
+          3</span>
+        <h3
+          style="color: #2e7d32; margin: 0; font-size: 20px; font-weight: 800; text-transform: uppercase;">
+          Fase 3: Aplicación de Modelo de Gestión y Plan de Intervención</h3>
+      </div>
+      <p style="color: #334155; font-size: 15px; line-height: 1.7;">A partir del
+        análisis causal realizado, el estudiante deberá formular un <strong>Plan
+          de Intervención estructurado bajo un Modelo de Gestión del Riesgo
+          Químico</strong>.</p>
+      <p style="color: #334155; font-size: 15px; line-height: 1.7;">El plan debe
+        contener:</p>
+      <ol
+        style="color: #334155; font-size: 15px; line-height: 1.8; margin-bottom: 20px; padding-left: 20px;">
+        <li><strong>Diagnóstico resumido</strong> (síntesis del análisis
+          causal).</li>
+        <li><strong>Objetivo general de intervención.</strong></li>
+        <li><strong>Acciones correctivas y preventivas</strong> clasificadas
+          según la Jerarquía de Controles:
+          <ul style="margin-top: 5px; padding-left: 20px;">
+            <li>Eliminación / Sustitución.</li>
+            <li>Controles de Ingeniería.</li>
+            <li>Controles Administrativos.</li>
+            <li>EPP.</li>
+          </ul>
+        </li>
+        <li><strong>Responsables.</strong></li>
+        <li><strong>Indicadores de seguimiento.</strong></li>
+        <li><strong>Cronograma general.</strong></li>
+      </ol>
+      <div
+        style="background-color: #e8f5e9; padding: 20px; border-left: 5px solid #5cb85c; border-radius: 0 10px 10px 0; border-top: 1px solid #c8e6c9; border-right: 1px solid #c8e6c9; border-bottom: 1px solid #c8e6c9;">
+        <p style="margin: 0 0 5px 0; color: #1b5e20;"><strong>Enfoque
+            requerido:</strong></p>
+        <p
+          style="margin: 0; color: #1b5e20; font-size: 14px; line-height: 1.6;">
+          El plan debe evidenciar integración con un Sistema de Gestión de
+          Seguridad y Salud en el Trabajo y demostrar cómo la mejora
+          organizacional reduce la probabilidad de recurrencia del evento.</p>
+      </div>
+    </div>
+    <!-- PRODUCTO FINAL A ENTREGAR -->
+    <div
+      style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 30px; margin-bottom: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+      <h3
+        style="color: #004a99; margin: 0 0 15px 0; font-size: 20px; font-weight: 800; text-transform: uppercase;">
+        Producto Final a Entregar</h3>
+      <ul
+        style="color: #334155; font-size: 15px; line-height: 1.8; margin: 0 0 20px 0; padding-left: 20px;">
+        <li>Documento técnico en PDF.</li>
+        <li>Diagrama causal elaborado digitalmente.</li>
+        <li>Plan de intervención estructurado en tabla técnica.</li>
+        <li>Conclusión crítica sobre la cultura de seguridad organizacional.
+        </li>
+      </ul>
+      <div
+        style="background-color: #ffffff; padding: 20px; border-left: 5px solid #004a99; border-radius: 0 10px 10px 0; border-top: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; border-bottom: 1px solid #e2e8f0;">
+        <p style="margin: 0 0 8px 0; color: #004a99;"><strong>Criterios de
+            Evaluación:</strong></p>
+        <ul
+          style="margin: 0; color: #334155; font-size: 14px; line-height: 1.8; padding-left: 20px;">
+          <li>Rigor técnico en la identificación de causas.</li>
+          <li>Coherencia entre análisis causal y plan de intervención.</li>
+          <li>Uso adecuado de terminología técnica (SGA, barreras, gestión del
+            riesgo).</li>
+          <li>Capacidad de integrar factores humanos, técnicos y
+            organizacionales.</li>
+        </ul>
+      </div>
+    </div>
+    <!-- ALERTA DE CONDICIÓN EVALUATIVA (SUSTENTACIÓN 50%) -->
+    <div
+      style="background: #fef2f2; border: 2px dashed #ef4444; border-radius: 12px; padding: 20px; margin-bottom: 35px; text-align: left;">
+      <div
+        style="display: flex; align-items: center; gap: 12px; margin-bottom: 8px;">
+        <span style="font-size: 24px;">⚖️</span>
+        <h4
+          style="margin: 0; color: #991b1b; font-size: 16px; font-weight: 800; text-transform: uppercase;">
+          Criterio Eliminatorio: Sustentación del Trabajo (50%)</h4>
+      </div>
+      <p style="margin: 0; color: #7f1d1d; font-size: 14px; line-height: 1.6;">
+        La sustentación de la actividad representa el <strong>50% de la
+          calificación total</strong>. La aprobación de la sustentación es un
+        requisito obligatorio para la aprobación del taller. <strong>Si el
+          estudiante o equipo no aprueba la sustentación (nota inferior a
+          3.0/5.0), perderá automáticamente la totalidad de la actividad (Nota
+          final: 0.0)</strong>, independientemente del desempeño en los
+        entregables escritos.</p>
+    </div>
+    <!-- RÚBRICA DESPLEGABLE EN ACORDEÓN -->
+    <details
+      style="background: #ffffff; border: 1px solid #1f4e79; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.05); cursor: pointer;">
+      <summary
+        style="background-color: #1f4e79; color: #ffffff; padding: 18px 25px; font-size: 16px; font-weight: bold; outline: none; list-style: none; display: flex; justify-content: space-between; align-items: center;">
+        📋 Rúbrica de Evaluación Alineada a Resultados de Aprendizaje (Haz click
+        para abrir / cerrar) <span style="font-size: 18px;">▼</span></summary>
+      <div
+        style="padding: 25px; background: #ffffff; cursor: default; overflow-x: auto;">
+        <table
+          style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; font-size: 12px; min-width: 750px;">
+          <thead>
+            <tr
+              style="background-color: #1f4e79; color: #ffffff; text-align: center; font-weight: bold;">
+              <th style="border: 1px solid #cbd5e1; padding: 10px; width: 22%;">
+                Criterio &amp; Resultado de Aprendizaje</th>
+              <th style="border: 1px solid #cbd5e1; padding: 10px; width: 10%;">
+                Ponderación</th>
+              <th style="border: 1px solid #cbd5e1; padding: 10px; width: 17%;">
+                Excelente (4.5–5.0)</th>
+              <th style="border: 1px solid #cbd5e1; padding: 10px; width: 17%;">
+                Bueno (4.0–4.4)</th>
+              <th style="border: 1px solid #cbd5e1; padding: 10px; width: 17%;">
+                Aceptable (3.0–3.9)</th>
+              <th style="border: 1px solid #cbd5e1; padding: 10px; width: 17%;">
+                Insuficiente (&lt;3.0)</th>
+            </tr>
+          </thead>
+          <tbody><!-- RAA 1 -->
+            <tr>
+              <td
+                style="border: 1px solid #cbd5e1; padding: 10px; background: #f8fafc;">
+                <strong>Análisis Técnico y Peligrosidad (Fase
+                  1)</strong><br><small
+                  style="color: #475569;"><strong>RAA1:</strong> Analiza los
+                  efectos de los peligros químicos sobre los trabajadores para
+                  identificar áreas de intervención.</small></td>
+              <td
+                style="border: 1px solid #cbd5e1; padding: 10px; text-align: center; font-weight: bold; background: #f8fafc;">
+                15%</td>
+              <td style="border: 1px solid #cbd5e1; padding: 10px;">Identifica
+                rigurosamente los químicos, caracteriza el gas cloro (SGA/FDS),
+                los factores de diseño y barreras fallidas.</td>
+              <td style="border: 1px solid #cbd5e1; padding: 10px;">Identifica
+                los químicos y analiza adecuadamente el evento con mínimos
+                errores técnicos.</td>
+              <td style="border: 1px solid #cbd5e1; padding: 10px;">Análisis
+                superficial del evento o faltan detalles sobre barreras de
+                control y SGA.</td>
+              <td style="border: 1px solid #cbd5e1; padding: 10px;">
+                Identificación o análisis de peligrosidad incompleto y sin
+                sustento técnico.</td>
+            </tr>
+            <!-- RAA 2 -->
+            <tr>
+              <td
+                style="border: 1px solid #cbd5e1; padding: 10px; background: #f8fafc;">
+                <strong>Análisis Causal y Metodología (Fase
+                  2)</strong><br><small
+                  style="color: #475569;"><strong>RAA2:</strong> Evalúa el nivel
+                  de riesgo asociado a la exposición al peligro químico en
+                  lugares de trabajo.</small></td>
+              <td
+                style="border: 1px solid #cbd5e1; padding: 10px; text-align: center; font-weight: bold; background: #f8fafc;">
+                15%</td>
+              <td style="border: 1px solid #cbd5e1; padding: 10px;">Aplica de
+                manera impecable la metodología (Árbol o Ishikawa) diferenciando
+                causas inmediatas, básicas y de gestión.</td>
+              <td style="border: 1px solid #cbd5e1; padding: 10px;">Estructura
+                bien la metodología seleccionada con adecuada diferenciación de
+                niveles de causa.</td>
+              <td style="border: 1px solid #cbd5e1; padding: 10px;">Diagrama
+                causal básico con confusión parcial entre causas inmediatas y
+                básicas.</td>
+              <td style="border: 1px solid #cbd5e1; padding: 10px;">Análisis
+                causal erróneo, incompleto o no aplica ninguna de las
+                metodologías requeridas.</td>
+            </tr>
+            <!-- RAA 3 -->
+            <tr>
+              <td
+                style="border: 1px solid #cbd5e1; padding: 10px; background: #f8fafc;">
+                <strong>Plan de Intervención y Gestión (Fase
+                  3)</strong><br><small
+                  style="color: #475569;"><strong>RAA3:</strong> Propone medidas
+                  de prevención y control en la fuente, medio y persona para
+                  prevenir ATEL.</small></td>
+              <td
+                style="border: 1px solid #cbd5e1; padding: 10px; text-align: center; font-weight: bold; background: #f8fafc;">
+                20%</td>
+              <td style="border: 1px solid #cbd5e1; padding: 10px;">Formula un
+                plan exhaustivo con Jerarquía de Controles, responsabilidades,
+                indicadores, cronograma e integración con SG-SST.</td>
+              <td style="border: 1px solid #cbd5e1; padding: 10px;">Estructura
+                un plan coherente con la Jerarquía de Controles y la mayoría de
+                elementos solicitados.</td>
+              <td style="border: 1px solid #cbd5e1; padding: 10px;">Plan con
+                medidas generales, escasa diferenciación en la Jerarquía de
+                Controles o faltan indicadores.</td>
+              <td style="border: 1px solid #cbd5e1; padding: 10px;">No presenta
+                plan de intervención o este no guarda coherencia con el análisis
+                causal.</td>
+            </tr>
+            <!-- SUSTENTACIÓN (CRITERIO ELIMINATORIO) -->
+            <tr style="background: #fff5f5;">
+              <td style="border: 1px solid #cbd5e1; padding: 10px;"><strong
+                  style="color: #991b1b;">Sustentación Oral del
+                  Trabajo</strong><br><small
+                  style="color: #991b1b;"><strong>Evaluación Transversal (RAA1,
+                    RAA2, RAA3)</strong><br><em>*Criterio Eliminatorio
+                    Obligatorio</em></small></td>
+              <td
+                style="border: 1px solid #cbd5e1; padding: 10px; text-align: center; font-weight: bold; color: #991b1b;">
+                50%</td>
+              <td style="border: 1px solid #cbd5e1; padding: 10px;">Demuestra
+                dominio completo, argumentación técnica fluida y responde
+                acertadamente las preguntas del docente.</td>
+              <td style="border: 1px solid #cbd5e1; padding: 10px;">Sustenta con
+                claridad, conoce las fases del proyecto y responde adecuadamente
+                la mayoría de preguntas.</td>
+              <td style="border: 1px solid #cbd5e1; padding: 10px;">Dominio
+                aceptable del caso, respuestas dudosas o dependencia excesiva
+                del material de apoyo.</td>
+              <td
+                style="border: 1px solid #cbd5e1; padding: 10px; color: #991b1b; font-weight: bold;">
+                Desconoce el trabajo o no responde preguntas técnicas.
+                <strong>(Reprueba la actividad total = 0.0)</strong>.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </details>
   </div>
 </div>
