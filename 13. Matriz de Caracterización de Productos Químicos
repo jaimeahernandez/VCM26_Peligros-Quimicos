@@ -1,0 +1,198 @@
+<!-- CONTENEDOR PRINCIPAL - LIBRO DE MOODLE -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 1000px; margin: 0 auto;">
+  <!-- ENCABEZADO PRINCIPAL LLAMATIVO Y ACADÉMICO -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden mb-4"
+    style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+    <div class="card-body p-4 p-md-5 text-white position-relative">
+      <div class="d-flex align-items-center justify-content-between mb-2"><span
+          class="badge badge-warning text-dark font-weight-bold"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 6px 12px; border-radius: 4px;">
+          Herramienta Técnica • Módulo Académico </span> <span
+          class="d-none d-md-block"
+          style="font-size: 32px; opacity: 0.85;">🧪</span></div>
+      <h2 class="font-weight-bold mb-2"
+        style="color: #ffffff; font-size: 26px; letter-spacing: -0.5px;">Matriz
+        de Caracterización de Productos Químicos (SGA)</h2>
+      <p class="mb-0 text-white-50"
+        style="font-size: 15px; max-width: 800px; line-height: 1.5;">Instrumento
+        Estandarizado de Inventario y Caracterización Técnica según la FDS y la
+        Normativa del SGA.</p>
+    </div>
+  </div>
+  <!-- BLOQUE INTRODUCTORIO Y DEFINICIÓN DE LA MATRIZ -->
+  <div class="card border-0 shadow-sm rounded-lg mb-4"
+    style="background-color: #f8fafc; border-left: 5px solid #002d5a !important;">
+    <div class="card-body p-4">
+      <h4 class="font-weight-bold mb-2"
+        style="color: #002d5a; font-size: 18px; letter-spacing: -0.3px;">📌
+        Definición de la Matriz de Caracterización</h4>
+      <p
+        style="text-align: justify; font-size: 14.5px; line-height: 1.6; color: #334155; margin-bottom: 0;">
+        La <strong>Matriz de Caracterización de Productos Químicos</strong> es
+        un instrumento técnico y documental utilizado para consolidar,
+        sistematizar y estandarizar la información sobre los peligros de los
+        insumos químicos presentes en una organización. Su propósito fundamental
+        es recopilar los datos clave de la <strong>Sección 2 (Identificación de
+          peligros)</strong> y <strong>Sección 14 (Información sobre
+          transporte)</strong> de las Fichas de Datos de Seguridad (FDS),
+        organizando en una estructura homogénea la identificación de la
+        sustancia (N° CAS, N° UN), su nivel de severidad (Categorías y Palabras
+        de Advertencia), las medidas de prevención/respuesta (Frases H y P) y la
+        señalización gráfica (Pictogramas del SGA) para facilitar la gestión del
+        riesgo operativo.</p>
+    </div>
+  </div>
+  <!-- TABLA DE CARACTERIZACIÓN ESTRUCTURADA -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background-color: #ffffff; border: 1px solid #cbd5e1;">
+    <div class="card-body p-3 p-md-4">
+      <h5 class="font-weight-bold mb-3"
+        style="color: #002d5a; font-size: 16px;">📊 Matriz de Caracterización
+        Química SGA</h5>
+      <div class="table-responsive">
+        <table class="table table-bordered table-hover mb-0"
+          style="font-size: 12px; color: #334155; min-width: 950px;">
+          <thead
+            style="background-color: #1e4b7a; color: #ffffff; text-align: center;">
+            <tr>
+              <th style="width: 4%; vertical-align: middle;">N°</th>
+              <th style="width: 13%; vertical-align: middle;">Nombre del
+                Producto</th>
+              <th style="width: 9%; vertical-align: middle;">N° CAS</th>
+              <th style="width: 8%; vertical-align: middle;">N° UN</th>
+              <th style="width: 14%; vertical-align: middle;">Clasificación SGA
+              </th>
+              <th style="width: 11%; vertical-align: middle;">Categorías de
+                Peligro</th>
+              <th style="width: 11%; vertical-align: middle;">Palabra de
+                Advertencia</th>
+              <th style="width: 12%; vertical-align: middle;">Frases H</th>
+              <th style="width: 12%; vertical-align: middle;">Frases P</th>
+              <th style="width: 6%; vertical-align: middle;">Pictogramas</th>
+            </tr>
+          </thead>
+          <tbody><!-- Fila 1 -->
+            <tr>
+              <td class="text-center font-weight-bold"
+                style="vertical-align: middle;">1</td>
+              <td style="vertical-align: middle;"><strong
+                  style="color: #1e3a8a;">Metanol Puro</strong></td>
+              <td class="text-center" style="vertical-align: middle;">67-56-1
+              </td>
+              <td class="text-center" style="vertical-align: middle;">UN 1230
+              </td>
+              <td style="vertical-align: middle;">Líquido
+                inflamable<br>Toxicidad aguda
+                (oral/cutánea/inhalación)<br>Toxicidad específica en órganos
+                diana</td>
+              <td class="text-center" style="vertical-align: middle;">Categoría
+                2<br>Categoría 3<br>Categoría 1</td>
+              <td class="text-center" style="vertical-align: middle;"><span
+                  class="badge badge-danger px-2 py-1 font-weight-bold"
+                  style="font-size: 10.5px; background-color: #e53e3e;">PELIGRO</span>
+              </td>
+              <td style="vertical-align: middle;">
+                H225<br>H301<br>H311<br>H331<br>H370</td>
+              <td style="vertical-align: middle;">
+                P210<br>P260<br>P280<br>P301+P310<br>P501</td>
+              <td class="text-center"
+                style="vertical-align: middle; font-size: 16px;">🔥☠️☣️</td>
+            </tr>
+            <!-- Fila 2 -->
+            <tr>
+              <td class="text-center font-weight-bold"
+                style="vertical-align: middle;">2</td>
+              <td style="vertical-align: middle;"><strong
+                  style="color: #1e3a8a;">Ácido Sulfúrico (98%)</strong></td>
+              <td class="text-center" style="vertical-align: middle;">7664-93-9
+              </td>
+              <td class="text-center" style="vertical-align: middle;">UN 1830
+              </td>
+              <td style="vertical-align: middle;">Corrosivo para los
+                metales<br>Corrosión cutánea<br>Lesiones oculares graves</td>
+              <td class="text-center" style="vertical-align: middle;">Categoría
+                1<br>Categoría 1A<br>Categoría 1</td>
+              <td class="text-center" style="vertical-align: middle;"><span
+                  class="badge badge-danger px-2 py-1 font-weight-bold"
+                  style="font-size: 10.5px; background-color: #e53e3e;">PELIGRO</span>
+              </td>
+              <td style="vertical-align: middle;">H290<br>H314</td>
+              <td style="vertical-align: middle;">
+                P260<br>P280<br>P301+P330+P331<br>P305+P351+P338</td>
+              <td class="text-center"
+                style="vertical-align: middle; font-size: 16px;">🧪</td>
+            </tr>
+            <!-- Fila 3 -->
+            <tr>
+              <td class="text-center font-weight-bold"
+                style="vertical-align: middle;">3</td>
+              <td style="vertical-align: middle;"><strong
+                  style="color: #1e3a8a;">Hipoclorito de Sodio (5%)</strong>
+              </td>
+              <td class="text-center" style="vertical-align: middle;">7681-52-9
+              </td>
+              <td class="text-center" style="vertical-align: middle;">UN 1791
+              </td>
+              <td style="vertical-align: middle;">Irritación
+                cutánea<br>Irritación ocular grave<br>Peligro para el medio
+                ambiente acuático</td>
+              <td class="text-center" style="vertical-align: middle;">Categoría
+                2<br>Categoría 2A<br>Agudo Cat. 1</td>
+              <td class="text-center" style="vertical-align: middle;"><span
+                  class="badge badge-warning text-dark px-2 py-1 font-weight-bold"
+                  style="font-size: 10.5px; background-color: #ffc107;">ATENCIÓN</span>
+              </td>
+              <td style="vertical-align: middle;">H315<br>H319<br>H400</td>
+              <td style="vertical-align: middle;">
+                P264<br>P273<br>P280<br>P302+P352<br>P305+P351+P338</td>
+              <td class="text-center"
+                style="vertical-align: middle; font-size: 16px;">⚠️🐟</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="mt-3 p-2 rounded"
+        style="background-color: #f8fafc; border: 1px solid #e2e8f0; font-size: 12px; color: #64748b;">
+        💡 <em>Nota: Esta plantilla sigue fielmente la estructura estándar de
+          inventario SGA para la identificación rápida de peligros
+          químicos.</em></div>
+    </div>
+  </div>
+  <!-- SECCIÓN DE OBJETIVOS Y APLICACIÓN -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background: linear-gradient(135deg, #f8fafc 0%, #edf2f7 100%); border-top: 4px solid #1e3a8a !important;">
+    <div class="card-body p-4">
+      <div class="d-flex align-items-center mb-3"><span
+          class="badge badge-primary mr-2"
+          style="background-color: #002d5a; font-size: 11px; padding: 6px 10px;">INSTRUCCIONES
+          DE USO</span>
+        <h5 class="font-weight-bold mb-0"
+          style="color: #002d5a; font-size: 17px;">🎯 Instrucciones para el
+          Diligenciamiento</h5>
+      </div>
+      <ol
+        style="font-size: 14px; color: #334155; line-height: 1.7; padding-left: 20px; margin-bottom: 0;">
+        <li style="margin-bottom: 6px;">Consulte la <strong>Ficha de Datos de
+            Seguridad (FDS)</strong> del producto químico (especialmente las
+          Secciones 1, 2 y 14).</li>
+        <li style="margin-bottom: 6px;">Escriba el nombre exacto, el número CAS
+          (Sección 1) y el número UN (Sección 14).</li>
+        <li style="margin-bottom: 6px;">Identifique la Clasificación SGA
+          completa y asigne las categorías numéricas correspondientes (Sección
+          2).</li>
+        <li>Copie los códigos alfanuméricos de las **Frases H** e **Indicaciones
+          P**, asignando la Palabra de Advertencia y los pictogramas asociados.
+        </li>
+      </ol>
+    </div>
+  </div>
+  <!-- FOOTER ACADÉMICO -->
+  <div class="card-footer p-3 rounded-lg text-center"
+    style="background-color: #f1f5f9; border: 1px solid #e2e8f0;">
+    <div
+      class="d-flex align-items-center justify-content-between flex-wrap text-muted"
+      style="font-size: 12.5px;">📋 <strong>Matriz de Inventario
+        Químico</strong> Sistema Globalmente Armonizado SGA / GHS Rev. 9</div>
+  </div>
+</div>
