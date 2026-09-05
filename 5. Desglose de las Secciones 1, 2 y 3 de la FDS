@@ -1,0 +1,177 @@
+<!-- CONTENEDOR PRINCIPAL - LIBRO DE MOODLE -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- ENCABEZADO PRINCIPAL LLAMATIVO Y ACADÉMICO -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden mb-4"
+    style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+    <div class="card-body p-4 p-md-5 text-white position-relative">
+      <div class="d-flex align-items-center justify-content-between mb-2"><span
+          class="badge badge-warning text-dark font-weight-bold"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 6px 12px; border-radius: 4px;">
+          Peligros Químicos • Módulo Académico </span> <span
+          class="d-none d-md-block"
+          style="font-size: 32px; opacity: 0.85;">📄</span></div>
+      <h2 class="font-weight-bold mb-2"
+        style="color: #ffffff; font-size: 26px; letter-spacing: -0.5px;">
+        Desglose de las Secciones 1, 2 y 3 de la FDS</h2>
+      <p class="mb-0 text-white-50"
+        style="font-size: 15px; max-width: 800px; line-height: 1.5;">Unidad de
+        Aprendizaje: Análisis Detallado de la Identificación del Producto, la
+        Clasificación de Peligros y la Composición Química según el SGA.</p>
+    </div>
+  </div>
+  <!-- SECCIÓN DESCRIPTIVA: SECCIONES 1, 2 Y 3 -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background-color: #ffffff; border: 1px solid #e2e8f0;">
+    <div class="card-body p-4"><!-- SECCIÓN 1 -->
+      <div class="mb-4 p-3 rounded"
+        style="background-color: #f8fafc; border-left: 4px solid #002d5a; border: 1px solid #e2e8f0; border-left-width: 4px;">
+        <h5 class="font-weight-bold" style="color: #002d5a; font-size: 16px;">🔹
+          Sección 1: Identificación del producto químico y de la persona
+          jurídica</h5>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6; text-align: justify;"
+          class="mt-2"><strong>Propósito descriptivo:</strong> Esta sección
+          establece la identidad comercial del producto y proporciona los datos
+          institucionales del fabricante, importador o distribuidor, así como
+          los canales de contacto directo y teléfonos para <strong>atención de
+            emergencias las 24 horas</strong>. Es el primer punto de referencia
+          en caso de un derrame o intoxicación.</p>
+        <div class="p-3 rounded mt-2"
+          style="background-color: #ffffff; border: 1px dashed #cbd5e1;"><small
+            class="text-uppercase font-weight-bold"
+            style="color: #002d5a; font-size: 11px; letter-spacing: 0.5px;">💡
+            Ejemplo práctico de llenado:</small>
+          <ul class="mt-1"
+            style="font-size: 13px; color: #475569; margin-bottom: 0; padding-left: 18px;">
+            <li><strong>Nombre del producto:</strong> Acetona Grado Analítico
+              (Pureza 99.5%).</li>
+            <li><strong>Usos recomendados y restricciones:</strong> Solvente de
+              laboratorio e industrial. Se desaconseja el uso en equipos sin
+              extracción localizada o cerca de chispas.</li>
+            <li><strong>Datos del proveedor:</strong> Químicos Industriales
+              S.A.S. - Calle 15 #45-12, Bogotá. Tel: +57 (601) 555-0199.</li>
+            <li><strong>Teléfono de emergencia (24/7):</strong> Línea de
+              atención CISTEMA / CISPROQUIM: 01 8000 916012.</li>
+          </ul>
+        </div>
+      </div>
+      <!-- SECCIÓN 2 -->
+      <div class="mb-4 p-3 rounded"
+        style="background-color: #f8fafc; border-left: 4px solid #e53e3e; border: 1px solid #e2e8f0; border-left-width: 4px;">
+        <h5 class="font-weight-bold" style="color: #c53030; font-size: 16px;">⚠️
+          Sección 2: Identificación de los peligros</h5>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6; text-align: justify;"
+          class="mt-2"><strong>Propósito descriptivo:</strong> Describe con
+          claridad los peligros físicos, para la salud y para el medio ambiente
+          asociados a la sustancia según la clasificación del SGA. Incluye los
+          <strong>elementos de la etiqueta</strong> (palabra de advertencia,
+          pictogramas, indicaciones de peligro "Frases H" y consejos de
+          prudencia "Frases P").</p>
+        <div class="p-3 rounded mt-2"
+          style="background-color: #ffffff; border: 1px dashed #cbd5e1;"><small
+            class="text-uppercase font-weight-bold"
+            style="color: #c53030; font-size: 11px; letter-spacing: 0.5px;">💡
+            Ejemplo práctico de llenado:</small>
+          <ul class="mt-1"
+            style="font-size: 13px; color: #475569; margin-bottom: 0; padding-left: 18px;">
+            <li><strong>Clasificación SGA:</strong> Líquido inflamable
+              (Categoría 2); Irritación ocular (Categoría 2A).</li>
+            <li><strong>Palabra de advertencia:</strong> PELIGRO (DANGER).</li>
+            <li><strong>Pictogramas:</strong> 🔥 Llama (Inflamable) y ❗ Signo de
+              exclamación (Irritante).</li>
+            <li><strong>Indicaciones de peligro (Frases H):</strong> H225
+              (Líquido y vapores muy inflamables); H319 (Provoca irritación
+              ocular grave).</li>
+            <li><strong>Consejos de prudencia (Frases P):</strong> P210
+              (Mantener alejado del calor, chispas, llamas al descubierto);
+              P305+P351+P338 (En caso de contacto con los ojos: Enjuagar con
+              agua cuidadosamente durante varios minutos).</li>
+          </ul>
+        </div>
+      </div>
+      <!-- SECCIÓN 3 -->
+      <div class="p-3 rounded"
+        style="background-color: #f8fafc; border-left: 4px solid #3182ce; border: 1px solid #e2e8f0; border-left-width: 4px;">
+        <h5 class="font-weight-bold" style="color: #2b6cb0; font-size: 16px;">🧪
+          Sección 3: Composición / información sobre los componentes</h5>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6; text-align: justify;"
+          class="mt-2"><strong>Propósito descriptivo:</strong> Identifica si la
+          sustancia es pura o se trata de una mezcla. Detalla la identidad
+          química de sus ingredientes peligrosos, incluyendo su <strong>nombre
+            químico común, número CAS</strong> y la concentración o rango de
+          concentración porcentual del componente dentro del producto final.</p>
+        <div class="p-3 rounded mt-2"
+          style="background-color: #ffffff; border: 1px dashed #cbd5e1;"><small
+            class="text-uppercase font-weight-bold"
+            style="color: #2b6cb0; font-size: 11px; letter-spacing: 0.5px;">💡
+            Ejemplo práctico de llenado (Mezcla de Solvente):</small>
+          <div class="table-responsive mt-2">
+            <table class="table table-sm table-bordered mb-0"
+              style="font-size: 12.5px; color: #334155;">
+              <thead style="background-color: #ebf8ff; color: #2c5282;">
+                <tr>
+                  <th>Componente Químico</th>
+                  <th>Número CAS</th>
+                  <th>Concentración (%)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Acetona (Propanona)</td>
+                  <td>67-64-1</td>
+                  <td>60% - 70%</td>
+                </tr>
+                <tr>
+                  <td>Tolueno (Metilbenceno)</td>
+                  <td>108-88-3</td>
+                  <td>20% - 30%</td>
+                </tr>
+                <tr>
+                  <td>Acetato de Etilo</td>
+                  <td>141-78-6</td>
+                  <td>10% - 15%</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- SECCIÓN DE OBJETIVOS DE APRENDIZAJE -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background: linear-gradient(135deg, #f8fafc 0%, #edf2f7 100%); border-top: 4px solid #1e3a8a !important;">
+    <div class="card-body p-4">
+      <div class="d-flex align-items-center mb-3"><span
+          class="badge badge-primary mr-2"
+          style="background-color: #002d5a; font-size: 11px; padding: 6px 10px;">COMPETENCIAS</span>
+        <h5 class="font-weight-bold mb-0"
+          style="color: #002d5a; font-size: 17px;">🎯 Objetivos de Aprendizaje
+          Asociados</h5>
+      </div>
+      <ul
+        style="font-size: 14.5px; color: #334155; line-height: 1.8; padding-left: 20px; margin-bottom: 0;">
+        <li style="margin-bottom: 6px;">Interpretar el contenido clave de las
+          <strong>Secciones 1, 2 y 3</strong> de la FDS para una respuesta
+          inmediata.</li>
+        <li style="margin-bottom: 6px;">Comprender los <strong>elementos de
+            comunicación de peligro</strong> (Frases H, Frases P, Palabras de
+          advertencia) en la Sección 2.</li>
+        <li style="margin-bottom: 6px;">Identificar componentes peligrosos
+          mediante el <strong>Número CAS y porcentajes de mezcla</strong> en la
+          Sección 3.</li>
+        <li>Aplicar este conocimiento en la <strong>evaluación preliminar de
+            riesgos</strong> en instalaciones industriales o de laboratorio.
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!-- FOOTER ACADÉMICO -->
+  <div class="card-footer p-3 rounded-lg text-center"
+    style="background-color: #f1f5f9; border: 1px solid #e2e8f0;">
+    <div
+      class="d-flex align-items-center justify-content-between flex-wrap text-muted"
+      style="font-size: 12.5px;">📖 <strong>Recurso de Lectura</strong> •
+      Análisis de FDS Gestión del Riesgo Químico</div>
+  </div>
+</div>
