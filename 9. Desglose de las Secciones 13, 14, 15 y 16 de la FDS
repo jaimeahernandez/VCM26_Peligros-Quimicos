@@ -1,0 +1,241 @@
+<!-- CONTENEDOR PRINCIPAL - LIBRO DE MOODLE -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- ENCABEZADO PRINCIPAL LLAMATIVO Y ACADÉMICO -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden mb-4"
+    style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+    <div class="card-body p-4 p-md-5 text-white position-relative">
+      <div class="d-flex align-items-center justify-content-between mb-2"><span
+          class="badge badge-warning text-dark font-weight-bold"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 6px 12px; border-radius: 4px;">
+          Peligros Químicos • Módulo Académico </span> <span
+          class="d-none d-md-block"
+          style="font-size: 32px; opacity: 0.85;">🚚</span></div>
+      <h2 class="font-weight-bold mb-2"
+        style="color: #ffffff; font-size: 26px; letter-spacing: -0.5px;">
+        Desglose de las Secciones 13, 14, 15 y 16 de la FDS</h2>
+      <p class="mb-0 text-white-50"
+        style="font-size: 15px; max-width: 800px; line-height: 1.5;">Unidad de
+        Aprendizaje: Disposición de Residuos, Reglamentación para el Transporte,
+        Marco Normativo e Información Adicional según el SGA.</p>
+    </div>
+  </div>
+  <!-- BLOQUE INTRODUCTORIO Y CONCEPTUAL -->
+  <div class="card border-0 shadow-sm rounded-lg mb-4"
+    style="background-color: #f8fafc; border-left: 5px solid #002d5a !important;">
+    <div class="card-body p-4">
+      <h4 class="font-weight-bold mb-3"
+        style="color: #002d5a; font-size: 18px; letter-spacing: -0.3px;">📌
+        Gestión de Residuos, Logística, Cumplimiento Legal y Metadatos</h4>
+      <p
+        style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 0;">
+        Las <strong>Secciones 13, 14, 15 y 16</strong> constituyen el bloque
+        final de la Ficha de Datos de Seguridad (FDS). Este segmento cierra el
+        ciclo de vida del producto químico al articular las <strong>normativas
+          de eliminación ambientalmente segura, los requisitos internacionales y
+          nacionales para el transporte de mercancías peligrosas, el marco
+          regulatorio vigente y los metadatos de control del documento</strong>
+        (revisiones, fuentes y abreviaturas).</p>
+    </div>
+  </div>
+  <!-- SECCIÓN DESCRIPTIVA: SECCIONES 13, 14, 15 Y 16 -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background-color: #ffffff; border: 1px solid #e2e8f0;">
+    <div class="card-body p-4"><!-- SECCIÓN 13 -->
+      <div class="mb-4 p-3 rounded"
+        style="background-color: #f8fafc; border-left: 4px solid #742a2a; border: 1px solid #e2e8f0; border-left-width: 4px;">
+        <h5 class="font-weight-bold" style="color: #742a2a; font-size: 16px;">♻️
+          Sección 13: Consideraciones Relativas a la Eliminación</h5>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6; text-align: justify;"
+          class="mt-2"><strong>Propósito descriptivo:</strong> Proporciona
+          pautas para la gestión ambientalmente racional de los residuos del
+          producto químico y sus envases contaminados. Detalla los métodos
+          adecuados de tratamiento, recuperación o neutralización, advirtiendo
+          sobre los riesgos de un vertido inadecuado en redes de alcantarillado
+          o cuerpos de agua.</p>
+        <div class="p-3 rounded mt-2"
+          style="background-color: #ffffff; border: 1px dashed #cbd5e1;"><small
+            class="text-uppercase font-weight-bold"
+            style="color: #742a2a; font-size: 11px; letter-spacing: 0.5px;">💡
+            Ejemplo práctico de disposición (Residuo de Solvente
+            Inflamable):</small>
+          <ul class="mt-1"
+            style="font-size: 13px; color: #475569; margin-bottom: 0; padding-left: 18px;">
+            <li><strong>Métodos de tratamiento de residuos:</strong>
+              Incineración controlada en plantas autorizadas para residuos
+              peligrosos (RESPEL) con recuperación de energía.</li>
+            <li><strong>Eliminación de envases contaminados:</strong> Los
+              recipientes vacíos contienen residuos inflamables; no perforar,
+              cortar ni soldar. Entregar a un gestor de residuos peligrosos
+              certificado.</li>
+            <li><strong>Restricciones clave:</strong> Prohibida la descarga
+              directa en redes de drenaje urbano, suelo o cursos de agua.</li>
+          </ul>
+        </div>
+      </div>
+      <!-- SECCIÓN 14 -->
+      <div class="mb-4 p-3 rounded"
+        style="background-color: #f8fafc; border-left: 4px solid #dd6b20; border: 1px solid #e2e8f0; border-left-width: 4px;">
+        <h5 class="font-weight-bold" style="color: #c05621; font-size: 16px;">🚛
+          Sección 14: Información Relativa al Transporte</h5>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6; text-align: justify;"
+          class="mt-2"><strong>Propósito descriptivo:</strong> Proporciona la
+          clasificación técnica de transporte de mercancías peligrosas para los
+          modos terrestre (ADR/RID/Decreto local), marítimo (IMDG) y aéreo
+          (IATA/OACI). Incluye el número UN, la designación oficial de
+          transporte, la clase de peligro y el grupo de embalaje.</p>
+        <div class="p-3 rounded mt-2"
+          style="background-color: #ffffff; border: 1px dashed #cbd5e1;"><small
+            class="text-uppercase font-weight-bold"
+            style="color: #c05621; font-size: 11px; letter-spacing: 0.5px;">💡
+            Ejemplo práctico de datos de transporte (Líquido
+            Inflamable):</small>
+          <div class="table-responsive mt-2">
+            <table class="table table-sm table-bordered mb-0"
+              style="font-size: 12.5px; color: #334155;">
+              <thead style="background-color: #fffaf0; color: #7b341e;">
+                <tr>
+                  <th>Parámetro de Transporte</th>
+                  <th>Regulación Terrestre (ADR/NTC)</th>
+                  <th>Regulación Marítima (IMDG)</th>
+                  <th>Regulación Aérea (IATA)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>Número ONU</strong></td>
+                  <td>UN 1090</td>
+                  <td>UN 1090</td>
+                  <td>UN 1090</td>
+                </tr>
+                <tr>
+                  <td><strong>Designación oficial</strong></td>
+                  <td>ACETONA</td>
+                  <td>ACETONE</td>
+                  <td>ACETONE</td>
+                </tr>
+                <tr>
+                  <td><strong>Clase de peligro</strong></td>
+                  <td>Clase 3 (Líquido inflamable)</td>
+                  <td>Class 3</td>
+                  <td>Class 3</td>
+                </tr>
+                <tr>
+                  <td><strong>Grupo de embalaje</strong></td>
+                  <td>GE II (Riesgo mediano)</td>
+                  <td>PG II</td>
+                  <td>PG II</td>
+                </tr>
+                <tr>
+                  <td><strong>Peligros ambientales</strong></td>
+                  <td>No aplicable</td>
+                  <td>No es Contaminante Marino</td>
+                  <td>No aplicable</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <!-- SECCIÓN 15 -->
+      <div class="mb-4 p-3 rounded"
+        style="background-color: #f8fafc; border-left: 4px solid #2b6cb0; border: 1px solid #e2e8f0; border-left-width: 4px;">
+        <h5 class="font-weight-bold" style="color: #2b6cb0; font-size: 16px;">⚖️
+          Sección 15: Información Reglamentaria</h5>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6; text-align: justify;"
+          class="mt-2"><strong>Propósito descriptivo:</strong> Identifica las
+          disposiciones legales, normativas y reglamentos específicos en materia
+          de seguridad, salud y medio ambiente (nacionales e internacionales)
+          que aplican al producto químico. Detalla si la sustancia está sujeta a
+          restricciones de uso, convenios internacionales o inventarios químicos
+          nacionales.</p>
+        <div class="p-3 rounded mt-2"
+          style="background-color: #ffffff; border: 1px dashed #cbd5e1;"><small
+            class="text-uppercase font-weight-bold"
+            style="color: #2b6cb0; font-size: 11px; letter-spacing: 0.5px;">💡
+            Ejemplo práctico de marco legal:</small>
+          <ul class="mt-1"
+            style="font-size: 13px; color: #475569; margin-bottom: 0; padding-left: 18px;">
+            <li><strong>Reglamentos nacionales:</strong> Cumplimiento del
+              SGA/GHS según normativa de Seguridad y Salud en el Trabajo (SST).
+            </li>
+            <li><strong>Control de sustancias fiscalizadas:</strong> Sujeto a
+              control de insumos químicos para la elaboración de sustancias de
+              uso ilícito (si aplica).</li>
+            <li><strong>Inventarios internacionales:</strong> Registrado en TSCA
+              (EE. UU.), EINECS/REACH (Unión Europea) y DSL (Canadá).</li>
+            <li><strong>Evaluación de la seguridad química:</strong> No se ha
+              realizado una evaluación de seguridad química para esta
+              sustancia/mezcla por parte del proveedor.</li>
+          </ul>
+        </div>
+      </div>
+      <!-- SECCIÓN 16 -->
+      <div class="p-3 rounded"
+        style="background-color: #f8fafc; border-left: 4px solid #4a5568; border: 1px solid #e2e8f0; border-left-width: 4px;">
+        <h5 class="font-weight-bold" style="color: #2d3748; font-size: 16px;">📚
+          Sección 16: Otras Informaciones</h5>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6; text-align: justify;"
+          class="mt-2"><strong>Propósito descriptivo:</strong> Contiene
+          información complementaria indispensable para la gestión documental de
+          la FDS. Incluye la fecha de elaboración o última revisión del
+          documento, un desglose explicativo de las abreviaturas y acrónimos
+          utilizados, referencias bibliográficas clave y descripciones completas
+          de las Frases H y P.</p>
+        <div class="p-3 rounded mt-2"
+          style="background-color: #ffffff; border: 1px dashed #cbd5e1;"><small
+            class="text-uppercase font-weight-bold"
+            style="color: #2d3748; font-size: 11px; letter-spacing: 0.5px;">💡
+            Ejemplo práctico de metadatos de la FDS:</small>
+          <ul class="mt-1"
+            style="font-size: 13px; color: #475569; margin-bottom: 0; padding-left: 18px;">
+            <li><strong>Control de cambios:</strong> Versión 3.0 (Sustituye a la
+              Versión 2.1). Fecha de revisión: 15/01/2026. Modificaciones
+              principales en la Sección 8 (Ajuste de TLV).</li>
+            <li><strong>Glosario de acrónimos:</strong> CAS (Chemical Abstracts
+              Service), IMDG (International Maritime Dangerous Goods), IATA
+              (International Air Transport Association), ACGIH (American
+              Conference of Governmental Industrial Hygienists).</li>
+            <li><strong>Exención de responsabilidad:</strong> La información
+              contenida en esta FDS se basa en nuestros conocimientos actuales y
+              tiene por objeto describir el producto desde el punto de vista de
+              la seguridad, sin constituir una garantía de sus propiedades.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- SECCIÓN DE OBJETIVOS DE APRENDIZAJE -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background: linear-gradient(135deg, #f8fafc 0%, #edf2f7 100%); border-top: 4px solid #1e3a8a !important;">
+    <div class="card-body p-4">
+      <div class="d-flex align-items-center mb-3"><span
+          class="badge badge-primary mr-2"
+          style="background-color: #002d5a; font-size: 11px; padding: 6px 10px;">COMPETENCIAS</span>
+        <h5 class="font-weight-bold mb-0"
+          style="color: #002d5a; font-size: 17px;">🎯 Objetivos de Aprendizaje
+          Asociados</h5>
+      </div>
+      <ul
+        style="font-size: 14.5px; color: #334155; line-height: 1.8; padding-left: 20px; margin-bottom: 0;">
+        <li style="margin-bottom: 6px;">Determinar las **vías y procedimientos
+          de eliminación de residuos peligrosos (RESPEL)** basados en la Sección
+          13.</li>
+        <li style="margin-bottom: 6px;">Interpretar los **códigos UN y clases de
+          peligro del transporte multimodal** según la Sección 14.</li>
+        <li style="margin-bottom: 6px;">Verificar el **cumplimiento normativo y
+          legal** del producto químico utilizando la Sección 15.</li>
+        <li>Auditar el **historial de revisiones, validez técnica y glosario
+          normativo** del documento mediante la Sección 16.</li>
+      </ul>
+    </div>
+  </div>
+  <!-- FOOTER ACADÉMICO -->
+  <div class="card-footer p-3 rounded-lg text-center"
+    style="background-color: #f1f5f9; border: 1px solid #e2e8f0;">
+    <div
+      class="d-flex align-items-center justify-content-between flex-wrap text-muted"
+      style="font-size: 12.5px;">📖 <strong>Recurso de Lectura</strong> •
+      Análisis de FDS Gestión del Riesgo Químico</div>
+  </div>
+</div>
