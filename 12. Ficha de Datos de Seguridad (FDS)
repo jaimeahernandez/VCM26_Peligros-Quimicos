@@ -1,0 +1,101 @@
+<!-- CONTENEDOR PRINCIPAL - LIBRO DE MOODLE -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- ENCABEZADO PRINCIPAL LLAMATIVO Y ACADÉMICO -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden mb-4"
+    style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+    <div class="card-body p-4 p-md-5 text-white position-relative">
+      <div class="d-flex align-items-center justify-content-between mb-2"><span
+          class="badge badge-warning text-dark font-weight-bold"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 6px 12px; border-radius: 4px;">
+          Peligros Químicos • Recurso Audiovisual </span> <span
+          class="d-none d-md-block"
+          style="font-size: 32px; opacity: 0.85;">📋</span></div>
+      <h2 class="font-weight-bold mb-2"
+        style="color: #ffffff; font-size: 26px; letter-spacing: -0.5px;">
+        Secciones de la Ficha de Datos de Seguridad (FDS)</h2>
+      <p class="mb-0 text-white-50"
+        style="font-size: 15px; max-width: 800px; line-height: 1.5;">Unidad de
+        Aprendizaje: Desglose Sistemático y Técnico de las 16 Secciones
+        Normativas según el SGA.</p>
+    </div>
+  </div>
+  <!-- BLOQUE INTRODUCTORIO Y CONCEPTUAL -->
+  <div class="card border-0 shadow-sm rounded-lg mb-4"
+    style="background-color: #f8fafc; border-left: 5px solid #002d5a !important;">
+    <div class="card-body p-4">
+      <h4 class="font-weight-bold mb-3"
+        style="color: #002d5a; font-size: 18px; letter-spacing: -0.3px;">📌
+        Estructura Oficial y Función de la FDS</h4>
+      <p
+        style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 0;">
+        El siguiente recurso audiovisual explica de manera sistemática la
+        <strong>estructura oficial de la Ficha de Datos de Seguridad
+          (FDS)</strong>, documento técnico fundamental en la gestión del riesgo
+        químico y en la comunicación de peligros conforme al <strong>Sistema
+          Globalmente Armonizado (SGA)</strong>. El video desarrolla el
+        propósito de cada una de las 16 secciones que conforman la FDS,
+        destacando su importancia para la identificación de peligros, medidas de
+        primeros auxilios, control de exposición, manipulación segura,
+        almacenamiento, información toxicológica, consideraciones ecológicas y
+        normativas aplicables.</p>
+    </div>
+  </div>
+  <p style="text-align: justify; font-size: 15px; line-height: 1.7; color: #475569;"
+    class="px-2">Este recurso permite al estudiante comprender la
+    <strong>función integral de la FDS</strong> como herramienta preventiva y
+    como instrumento clave para la toma de decisiones en seguridad y salud en el
+    trabajo.</p>
+  <!-- RECURSO AUDIOVISUAL RESPONSIVE -->
+  <div class="card border-0 my-4 shadow-sm rounded-lg overflow-hidden"
+    style="background-color: #ffffff; border: 1px solid #e2e8f0;">
+    <div class="card-body p-3 text-center">
+      <!-- CONTENEDOR FLUIDO / RESPONSIVE PARA YOUTUBE -->
+      <div class="shadow-sm"
+        style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px; border: 1px solid #cbd5e1;">
+        <iframe
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+          title="Secciones de la Ficha de Datos de Seguridad"
+          src="https://www.youtube.com/embed/IZqAQZUNSQs"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen="allowfullscreen">
+        </iframe></div>
+      <!-- PIE DE FIGURA Y FUENTE --><small class="text-muted font-italic"
+        style="font-size: 12.5px; color: #64748b;"> <strong>Fuente:</strong>
+        Lic. Jaime A. Hernández J. – Recurso educativo sobre la estructura
+        técnica de la Ficha de Datos de Seguridad (FDS). </small>
+    </div>
+  </div>
+  <!-- SECCIÓN DE OBJETIVOS DE APRENDIZAJE -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background: linear-gradient(135deg, #f8fafc 0%, #edf2f7 100%); border-top: 4px solid #1e3a8a !important;">
+    <div class="card-body p-4">
+      <div class="d-flex align-items-center mb-3"><span
+          class="badge badge-primary mr-2"
+          style="background-color: #002d5a; font-size: 11px; padding: 6px 10px;">COMPETENCIAS</span>
+        <h5 class="font-weight-bold mb-0"
+          style="color: #002d5a; font-size: 17px;">🎯 Objetivos de Aprendizaje
+          Asociados</h5>
+      </div>
+      <ul
+        style="font-size: 14.5px; color: #334155; line-height: 1.8; padding-left: 20px; margin-bottom: 0;">
+        <li style="margin-bottom: 6px;">Reconocer las <strong>16 secciones
+            reglamentarias</strong> de una Ficha de Datos de Seguridad.</li>
+        <li style="margin-bottom: 6px;">Comprender la <strong>finalidad técnica
+            de cada sección</strong> dentro del marco del SGA.</li>
+        <li style="margin-bottom: 6px;">Relacionar la información de la FDS con
+          la <strong>prevención de riesgos laborales</strong>.</li>
+        <li>Fortalecer la <strong>capacidad de interpretación
+            documental</strong> en seguridad química.</li>
+      </ul>
+    </div>
+  </div>
+  <!-- FOOTER ACADÉMICO -->
+  <div class="card-footer p-3 rounded-lg text-center"
+    style="background-color: #f1f5f9; border: 1px solid #e2e8f0;">
+    <div
+      class="d-flex align-items-center justify-content-between flex-wrap text-muted"
+      style="font-size: 12.5px;">🎥 <strong>Recurso Audiovisual</strong> •
+      Capítulo 5 Peligros Químicos</div>
+  </div>
+</div>
