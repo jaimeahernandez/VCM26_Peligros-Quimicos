@@ -1,0 +1,212 @@
+<!-- CONTENEDOR PRINCIPAL - LIBRO DE MOODLE -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- ENCABEZADO PRINCIPAL LLAMATIVO Y ACADÉMICO -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden mb-4"
+    style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+    <div class="card-body p-4 p-md-5 text-white position-relative">
+      <div class="d-flex align-items-center justify-content-between mb-2"><span
+          class="badge badge-warning text-dark font-weight-bold"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 6px 12px; border-radius: 4px;">
+          Peligros Químicos • Módulo Académico </span> <span
+          class="d-none d-md-block"
+          style="font-size: 32px; opacity: 0.85;">⚠️</span></div>
+      <h2 class="font-weight-bold mb-2"
+        style="color: #ffffff; font-size: 26px; letter-spacing: -0.5px;">Clases
+        de Peligrosidad según el SGA: Definiciones y Ejemplos</h2>
+      <p class="mb-0 text-white-50"
+        style="font-size: 15px; max-width: 800px; line-height: 1.5;">Unidad de
+        Aprendizaje: Estándares Internacionales de Clasificación y Etiquetado de
+        Sustancias Químicas.</p>
+    </div>
+  </div>
+  <!-- BLOQUE INTRODUCTORIO Y CONCEPTUAL -->
+  <div class="card border-0 shadow-sm rounded-lg mb-4"
+    style="background-color: #f8fafc; border-left: 5px solid #002d5a !important;">
+    <div class="card-body p-4">
+      <h4 class="font-weight-bold mb-3"
+        style="color: #002d5a; font-size: 18px; letter-spacing: -0.3px;">📢
+        Clasificación Normativa del Riesgo Químico</h4>
+      <p
+        style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 0;">
+        El <strong>Sistema Globalmente Armonizado (SGA)</strong> agrupa las
+        sustancias y mezclas químicas en distintas clases de peligrosidad según
+        sus propiedades físicas, de salud y ambientales. Reconocer cada
+        categoría permite interpretar correctamente las Fichas de Datos de
+        Seguridad (FDS) y las etiquetas en el entorno laboral.</p>
+    </div>
+  </div>
+  <!-- SECCIÓN DE DEFINICIONES Y EJEMPLOS PRÁCTICOS -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background-color: #ffffff; border: 1px solid #e2e8f0;">
+    <div class="card-body p-4">
+      <div class="row"><!-- Inflamables -->
+        <div class="col-md-6 mb-3">
+          <div class="p-3 rounded h-100"
+            style="background-color: #fff5f5; border-left: 4px solid #e53e3e;">
+            <h6 class="font-weight-bold"
+              style="color: #c53030; font-size: 15px;">🔥 Inflamables</h6>
+            <p
+              style="font-size: 13.5px; color: #4a5568; line-height: 1.5; margin-bottom: 8px;">
+              <strong>Definición:</strong> Sustancias o mezclas que en presencia
+              de una fuente de ignición (chispa, llama, calor) pueden inflamarse
+              rápidamente en el aire.</p>
+            <small style="color: #742a2a; font-weight: 600;">Ejemplos
+              prácticos:</small> <span style="font-size: 13px; color: #4a5568;">
+              Gasolina, alcohol etílico, acetona, pintura en aerosol.</span>
+          </div>
+        </div>
+        <!-- Comburentes -->
+        <div class="col-md-6 mb-3">
+          <div class="p-3 rounded h-100"
+            style="background-color: #fffaf0; border-left: 4px solid #dd6b20;">
+            <h6 class="font-weight-bold"
+              style="color: #c05621; font-size: 15px;">⭕ Comburentes</h6>
+            <p
+              style="font-size: 13.5px; color: #4a5568; line-height: 1.5; margin-bottom: 8px;">
+              <strong>Definición:</strong> Sustancias que, sin ser
+              necesariamente combustibles, aportan oxígeno y pueden causar o
+              contribuir a la combustión de otros materiales.</p>
+            <small style="color: #9c4221; font-weight: 600;">Ejemplos
+              prácticos:</small> <span style="font-size: 13px; color: #4a5568;">
+              Peróxido de hidrógeno (agua oxigenada concentrada), nitrato de
+              potasio, permanganato de potasio.</span>
+          </div>
+        </div>
+        <!-- Toxicidad Aguda -->
+        <div class="col-md-6 mb-3">
+          <div class="p-3 rounded h-100"
+            style="background-color: #f7fafc; border-left: 4px solid #2d3748;">
+            <h6 class="font-weight-bold"
+              style="color: #1a202c; font-size: 15px;">☠️ Toxicidad Aguda</h6>
+            <p
+              style="font-size: 13.5px; color: #4a5568; line-height: 1.5; margin-bottom: 8px;">
+              <strong>Definición:</strong> Sustancias que provocan efectos
+              adversos graves o la muerte tras la inhalación, ingestión o
+              absorción cutánea en pequeñas dosis.</p>
+            <small style="color: #2d3748; font-weight: 600;">Ejemplos
+              prácticos:</small> <span style="font-size: 13px; color: #4a5568;">
+              Cianuro de sodio, plaguicidas organofosforados, monóxido de
+              carbono.</span>
+          </div>
+        </div>
+        <!-- Gases a Presión -->
+        <div class="col-md-6 mb-3">
+          <div class="p-3 rounded h-100"
+            style="background-color: #ebf8ff; border-left: 4px solid #3182ce;">
+            <h6 class="font-weight-bold"
+              style="color: #2b6cb0; font-size: 15px;">🛢️ Gases a Presión</h6>
+            <p
+              style="font-size: 13.5px; color: #4a5568; line-height: 1.5; margin-bottom: 8px;">
+              <strong>Definición:</strong> Gases contenidos en un recipiente a
+              una presión de 200 kPa o superior, o que están licuados o
+              refrigerados. Riesgo de explosión por calor.</p>
+            <small style="color: #2c5282; font-weight: 600;">Ejemplos
+              prácticos:</small> <span style="font-size: 13px; color: #4a5568;">
+              Cilindros de nitrógeno, oxígeno medicinal, helio comprimido,
+              GLP.</span>
+          </div>
+        </div>
+        <!-- Corrosivos -->
+        <div class="col-md-6 mb-3">
+          <div class="p-3 rounded h-100"
+            style="background-color: #f0fff4; border-left: 4px solid #38a169;">
+            <h6 class="font-weight-bold"
+              style="color: #276749; font-size: 15px;">🧪 Corrosivos</h6>
+            <p
+              style="font-size: 13.5px; color: #4a5568; line-height: 1.5; margin-bottom: 8px;">
+              <strong>Definición:</strong> Sustancias que por acción química
+              causan daños irreversibles en la piel (quemaduras) o destruyen
+              metales de forma progresiva.</p>
+            <small style="color: #22543d; font-weight: 600;">Ejemplos
+              prácticos:</small> <span style="font-size: 13px; color: #4a5568;">
+              Ácido sulfúrico, hidróxido de sodio (soda cáustica), ácido
+              clorhídrico.</span>
+          </div>
+        </div>
+        <!-- Explosivos -->
+        <div class="col-md-6 mb-3">
+          <div class="p-3 rounded h-100"
+            style="background-color: #fff5f5; border-left: 4px solid #e53e3e;">
+            <h6 class="font-weight-bold"
+              style="color: #c53030; font-size: 15px;">💥 Explosivos</h6>
+            <p
+              style="font-size: 13.5px; color: #4a5568; line-height: 1.5; margin-bottom: 8px;">
+              <strong>Definición:</strong> Sustancias sólidas o líquidas capaces
+              de reaccionar químicamente produciendo gases a temperatura,
+              presión y velocidad tales que causan daños alrededor.</p>
+            <small style="color: #742a2a; font-weight: 600;">Ejemplos
+              prácticos:</small> <span style="font-size: 13px; color: #4a5568;">
+              Nitroglicerina, pólvora negra, dinamita, fuegos
+              pirotécnicos.</span>
+          </div>
+        </div>
+        <!-- Peligro para la Salud (Crónico) -->
+        <div class="col-md-6 mb-3">
+          <div class="p-3 rounded h-100"
+            style="background-color: #faf5ff; border-left: 4px solid #805ad5;">
+            <h6 class="font-weight-bold"
+              style="color: #6b46c1; font-size: 15px;">👤 Peligro para la Salud
+              (Efectos Crónicos)</h6>
+            <p
+              style="font-size: 13.5px; color: #4a5568; line-height: 1.5; margin-bottom: 8px;">
+              <strong>Definición:</strong> Sustancias que pueden inducir cáncer
+              (carcinógenos), mutaciones genéticas, toxicidad reproductiva o
+              daños progresivos a órganos.</p>
+            <small style="color: #553c9a; font-weight: 600;">Ejemplos
+              prácticos:</small> <span style="font-size: 13px; color: #4a5568;">
+              Benceno, asbesto, formaldehído, plomo.</span>
+          </div>
+        </div>
+        <!-- Peligro para el Medio Ambiente -->
+        <div class="col-md-6 mb-3">
+          <div class="p-3 rounded h-100"
+            style="background-color: #f0fff4; border-left: 4px solid #319795;">
+            <h6 class="font-weight-bold"
+              style="color: #2c7a7b; font-size: 15px;">🐟 Peligro Ambiental</h6>
+            <p
+              style="font-size: 13.5px; color: #4a5568; line-height: 1.5; margin-bottom: 8px;">
+              <strong>Definición:</strong> Sustancias que representan un riesgo
+              agudo o de largo plazo para organismos acuáticos y ecosistemas
+              terrestres.</p>
+            <small style="color: #234e52; font-weight: 600;">Ejemplos
+              prácticos:</small> <span style="font-size: 13px; color: #4a5568;">
+              Sulfato de cobre, plaguicidas piretroides, insecticidas de
+              síntesis.</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- SECCIÓN DE OBJETIVOS DE APRENDIZAJE -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background: linear-gradient(135deg, #f8fafc 0%, #edf2f7 100%); border-top: 4px solid #1e3a8a !important;">
+    <div class="card-body p-4">
+      <div class="d-flex align-items-center mb-3"><span
+          class="badge badge-primary mr-2"
+          style="background-color: #002d5a; font-size: 11px; padding: 6px 10px;">COMPETENCIAS</span>
+        <h5 class="font-weight-bold mb-0"
+          style="color: #002d5a; font-size: 17px;">🎯 Objetivos de Aprendizaje
+          Asociados</h5>
+      </div>
+      <ul
+        style="font-size: 14.5px; color: #334155; line-height: 1.8; padding-left: 20px; margin-bottom: 0;">
+        <li style="margin-bottom: 6px;">Diferenciar las principales
+          <strong>clases de peligro químico</strong> según el estándar del SGA.
+        </li>
+        <li style="margin-bottom: 6px;">Comprender el <strong>significado
+            técnico y normativo</strong> detrás de cada categoría.</li>
+        <li>Relacionar cada categoría de peligro con sus <strong>ejemplos
+            prácticos</strong> de aplicación industrial y de laboratorio.</li>
+      </ul>
+    </div>
+  </div>
+  <!-- FOOTER ACADÉMICO -->
+  <div class="card-footer p-3 rounded-lg text-center"
+    style="background-color: #f1f5f9; border: 1px solid #e2e8f0;">
+    <div
+      class="d-flex align-items-center justify-content-between flex-wrap text-muted"
+      style="font-size: 12.5px;">📖 <strong>Recurso de Lectura</strong> •
+      Glosario Técnico Gestión del Riesgo Químico Peligros Químicos</div>
+  </div>
+</div>
