@@ -1,0 +1,325 @@
+<!-- CONTENEDOR PRINCIPAL - LIBRO DE MOODLE -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- ENCABEZADO PRINCIPAL LLAMATIVO Y ACADÉMICO -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden mb-4"
+    style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+    <div class="card-body p-4 p-md-5 text-white position-relative">
+      <div class="d-flex align-items-center justify-content-between mb-2"><span
+          class="badge badge-warning text-dark font-weight-bold"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 6px 12px; border-radius: 4px;">
+          Peligros Químicos • Módulo Académico </span> <span
+          class="d-none d-md-block"
+          style="font-size: 32px; opacity: 0.85;">⚠️</span></div>
+      <h2 class="font-weight-bold mb-2"
+        style="color: #ffffff; font-size: 26px; letter-spacing: -0.5px;">
+        Elementos de Comunicación de Peligro: Palabras de Advertencia, Frases H
+        y Frases P</h2>
+      <p class="mb-0 text-white-50"
+        style="font-size: 15px; max-width: 800px; line-height: 1.5;">Unidad de
+        Aprendizaje: Estandarización de la Comunicación de Riesgo Químico según
+        el Sistema Globalmente Armonizado (SGA).</p>
+    </div>
+  </div>
+  <!-- BLOQUE INTRODUCTORIO Y CONCEPTUAL -->
+  <div class="card border-0 shadow-sm rounded-lg mb-4"
+    style="background-color: #f8fafc; border-left: 5px solid #002d5a !important;">
+    <div class="card-body p-4">
+      <h4 class="font-weight-bold mb-3"
+        style="color: #002d5a; font-size: 18px; letter-spacing: -0.3px;">📌 La
+        Estandarización del Lenguaje de Riesgo Químico</h4>
+      <p
+        style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 0;">
+        El Sistema Globalmente Armonizado (SGA) establece un conjunto
+        estandarizado de elementos cualitativos y textuales para informar sobre
+        los peligros de los productos químicos tanto en etiquetas como en las
+        Fichas de Datos de Seguridad (FDS). Las <strong>Palabras de
+          Advertencia</strong>, las <strong>Indicaciones de Peligro (Frases
+          H)</strong> y los <strong>Consejos de Prudencia (Frases P)</strong>
+        conforman una estructura lógica que comunica de forma precisa la
+        severidad del riesgo, la naturaleza del peligro y las acciones
+        preventivas necesarias para su manipulación segura.</p>
+    </div>
+  </div>
+  <!-- SECCIÓN DESCRIPTIVA: ELEMENTOS DEL SGA -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background-color: #ffffff; border: 1px solid #e2e8f0;">
+    <div class="card-body p-4"><!-- 1. PALABRAS DE ADVERTENCIA -->
+      <div class="mb-4 p-3 rounded"
+        style="background-color: #f8fafc; border-left: 4px solid #dd6b20; border: 1px solid #e2e8f0; border-left-width: 4px;">
+        <h5 class="font-weight-bold" style="color: #c05621; font-size: 16px;">
+          🗣️ 1. Palabras de Advertencia (Signal Words)</h5>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6; text-align: justify;"
+          class="mt-2"><strong>Definición:</strong> Es un vocablo estandarizado
+          que se utiliza en la etiqueta y en la Sección 2 de la FDS para indicar
+          la gravedad relativa del peligro e alertar al lector sobre un peligro
+          potencial. Existen únicamente dos palabras de advertencia en el SGA:
+        </p>
+        <div class="p-3 rounded mt-2"
+          style="background-color: #ffffff; border: 1px dashed #cbd5e1;">
+          <ul
+            style="font-size: 13.5px; color: #475569; margin-bottom: 0; padding-left: 18px;">
+            <li class="mb-2"><strong style="color: #c53030;">PELIGRO
+                (Danger):</strong> Se utiliza para las categorías de peligro más
+              graves (p. ej., toxicidad aguda alta, líquidos inflamables de
+              categoría 1, corrosión cutánea).</li>
+            <li><strong style="color: #d69e2e;">ATENCIÓN (Warning):</strong> Se
+              utiliza para las categorías de peligro de menor gravedad o impacto
+              moderado (p. ej., irritación cutánea ligera, líquidos inflamables
+              de categoría 3).</li>
+          </ul>
+          <div class="mt-2 p-2 rounded"
+            style="background-color: #fffaf0; font-size: 12.5px; color: #7b341e;">
+            <em>Nota técnica: Si un producto presenta múltiples peligros, en la
+              etiqueta y FDS solo figurará la palabra de advertencia
+              correspondiente al peligro más severo ("PELIGRO" prevalece sobre
+              "ATENCIÓN").</em></div>
+        </div>
+      </div>
+      <!-- 2. FRASES H -->
+      <div class="mb-4 p-3 rounded"
+        style="background-color: #f8fafc; border-left: 4px solid #e53e3e; border: 1px solid #e2e8f0; border-left-width: 4px;">
+        <h5 class="font-weight-bold" style="color: #c53030; font-size: 16px;">⚠️
+          2. Indicaciones de Peligro — Frases H (Hazard Statements)</h5>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6; text-align: justify;"
+          class="mt-2"><strong>Definición:</strong> Son frases asignadas a una
+          clase y categoría de peligro que describen la naturaleza de los
+          peligros de un producto químico y, cuando corresponda, el grado de
+          peligro. Cada indicación posee un código alfanumérico único compuesto
+          por la letra <strong>H</strong> seguida de 3 dígitos:</p>
+        <div class="p-3 rounded mt-2"
+          style="background-color: #ffffff; border: 1px dashed #cbd5e1;"><small
+            class="text-uppercase font-weight-bold"
+            style="color: #c53030; font-size: 11px; letter-spacing: 0.5px;">Estructura
+            de Codificación del SGA:</small>
+          <ul class="mt-1"
+            style="font-size: 13px; color: #475569; margin-bottom: 10px; padding-left: 18px;">
+            <li><strong>H200 - H299:</strong> Peligros Físicos (Explosivos,
+              inflamables, reactivos).</li>
+            <li><strong>H300 - H399:</strong> Peligros para la Salud Humana
+              (Toxicidad, corrosión, carcinogenicidad).</li>
+            <li><strong>H400 - H499:</strong> Peligros para el Medio Ambiente
+              (Ecotoxicidad acuática o terrestre).</li>
+          </ul>
+          <small class="text-uppercase font-weight-bold"
+            style="color: #c53030; font-size: 11px; letter-spacing: 0.5px;">Ejemplos
+            Representativos:</small>
+          <div class="table-responsive mt-2">
+            <table class="table table-sm table-bordered mb-0"
+              style="font-size: 12.5px; color: #334155;">
+              <thead style="background-color: #fff5f5; color: #9b2c2c;">
+                <tr>
+                  <th>Código</th>
+                  <th>Texto de la Indicación (Frase H)</th>
+                  <th>Clase / Tipo de Peligro</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>H225</strong></td>
+                  <td>Líquido y vapores muy inflamables.</td>
+                  <td>Peligro Físico (Líquidos Inflamables, Cat. 2)</td>
+                </tr>
+                <tr>
+                  <td><strong>H301</strong></td>
+                  <td>Tóxico en caso de ingestión.</td>
+                  <td>Peligro para la Salud (Toxicidad Aguda Oral, Cat. 3)</td>
+                </tr>
+                <tr>
+                  <td><strong>H314</strong></td>
+                  <td>Provoca graves quemaduras en la piel y lesiones oculares.
+                  </td>
+                  <td>Peligro para la Salud (Corrosión Cutánea, Cat. 1)</td>
+                </tr>
+                <tr>
+                  <td><strong>H410</strong></td>
+                  <td>Muy tóxico para los organismos acuáticos, con efectos
+                    nocivos duraderos.</td>
+                  <td>Peligro Ambiental (Toxicidad Acuática Crónica, Cat. 1)
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <!-- 3. FRASES P -->
+      <div class="p-3 rounded"
+        style="background-color: #f8fafc; border-left: 4px solid #3182ce; border: 1px solid #e2e8f0; border-left-width: 4px;">
+        <h5 class="font-weight-bold" style="color: #2b6cb0; font-size: 16px;">
+          🛡️ 3. Consejos de Prudencia — Frases P (Precautionary Statements)
+        </h5>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6; text-align: justify;"
+          class="mt-2"><strong>Definición:</strong> Es una frase que describe
+          las medidas recomendadas que conviene adoptar para reducir o prevenir
+          los efectos nocivos de la exposición a un producto químico, o
+          resultantes de su almacenamiento, manipulación o eliminación
+          incorrectos. Su código se compone de la letra <strong>P</strong>
+          seguida de 3 dígitos:</p>
+        <div class="p-3 rounded mt-2"
+          style="background-color: #ffffff; border: 1px dashed #cbd5e1;"><small
+            class="text-uppercase font-weight-bold"
+            style="color: #2b6cb0; font-size: 11px; letter-spacing: 0.5px;">Estructura
+            de Codificación según el Ámbito de Acción:</small>
+          <ul class="mt-1"
+            style="font-size: 13px; color: #475569; margin-bottom: 10px; padding-left: 18px;">
+            <li><strong>P100 - P199:</strong> Consejos de Prudencia Generales.
+            </li>
+            <li><strong>P200 - P299:</strong> Consejos de Prevención (Manejo e
+              higiene).</li>
+            <li><strong>P300 - P399:</strong> Consejos de Intervención /
+              Respuesta (Primeros auxilios e incendios).</li>
+            <li><strong>P400 - P499:</strong> Consejos de Almacenamiento.</li>
+            <li><strong>P500 - P599:</strong> Consejos de Eliminación /
+              Disposición.</li>
+          </ul>
+          <small class="text-uppercase font-weight-bold"
+            style="color: #2b6cb0; font-size: 11px; letter-spacing: 0.5px;">Ejemplos
+            Representativos:</small>
+          <div class="table-responsive mt-2">
+            <table class="table table-sm table-bordered mb-0"
+              style="font-size: 12.5px; color: #334155;">
+              <thead style="background-color: #ebf8ff; color: #2c5282;">
+                <tr>
+                  <th>Código</th>
+                  <th>Texto del Consejo de Prudencia (Frase P)</th>
+                  <th>Tipo de Consejo</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>P210</strong></td>
+                  <td>Mantener alejado del calor, superficies calientes,
+                    chispas, llamas abiertas y otras fuentes de ignición. No
+                    fumar.</td>
+                  <td>Prevención</td>
+                </tr>
+                <tr>
+                  <td><strong>P280</strong></td>
+                  <td>Usar guantes, ropa de protección, equipo de protección
+                    para los ojos y la cara.</td>
+                  <td>Prevención</td>
+                </tr>
+                <tr>
+                  <td><strong>P301 + P310</strong></td>
+                  <td>EN CASO DE INGESTIÓN: Llamar inmediatamente a un CENTRO DE
+                    TOXICOLOGÍA o a un médico.</td>
+                  <td>Intervención / Respuesta</td>
+                </tr>
+                <tr>
+                  <td><strong>P403 + P235</strong></td>
+                  <td>Almacenar en un lugar bien ventilado. Mantener fresco.
+                  </td>
+                  <td>Almacenamiento</td>
+                </tr>
+                <tr>
+                  <td><strong>P501</strong></td>
+                  <td>Eliminar el contenido/el recipiente en una planta de
+                    eliminación de residuos autorizada.</td>
+                  <td>Eliminación</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- EJEMPLO DE INTEGRACIÓN EN UNA ETIQUETA / FDS (CORREGIDO) -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background-color: #ffffff; border: 1px solid #cbd5e1;">
+    <div class="card-body p-4">
+      <h5 class="font-weight-bold mb-3"
+        style="color: #002d5a; font-size: 16px;">🧩 Ejemplo de Integración
+        Práctica (Caso: Metanol Puro)</h5>
+      <p style="font-size: 14px; color: #334155; line-height: 1.6; text-align: justify;"
+        class="mb-3">A continuación se muestra cómo se articulan estos tres
+        elementos en la Sección 2 (Identificación de Peligros) de una FDS o en
+        el cuerpo de una etiqueta bajo normativa SGA:</p>
+      <div class="p-3 rounded"
+        style="background-color: #f1f5f9; border: 1px solid #cbd5e1;">
+        <div class="row align-items-stretch">
+          <!-- Columna Izquierda: Palabra de Advertencia en caja responsiva -->
+          <div
+            class="col-12 col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0">
+            <div class="w-100 p-3 text-center rounded text-white shadow-sm"
+              style="background-color: #e53e3e; border: 2px solid #c53030;">
+              <span class="d-block text-uppercase font-weight-bold"
+                style="font-size: 11px; letter-spacing: 1px; opacity: 0.9;">Palabra
+                de Advertencia</span> <strong
+                style="font-size: 20px; letter-spacing: 1.5px; display: block; margin-top: 4px;">PELIGRO</strong>
+            </div>
+          </div>
+          <!-- Columna Derecha: Frases H y P bien legibles -->
+          <div class="col-12 col-md-8">
+            <div class="mb-2"><strong class="mb-1"
+                style="font-size: 13px; color: #9b2c2c; display: block;">Indicaciones
+                de Peligro (Frases H):</strong>
+              <ul
+                style="font-size: 12.5px; color: #334155; margin-bottom: 0; padding-left: 18px;">
+                <li class="mb-1"><strong>H225:</strong> Líquido y vapores muy
+                  inflamables.</li>
+                <li class="mb-1"><strong>H301 + H311 + H331:</strong> Tóxico en
+                  caso de ingestión, en contacto con la piel o si se inhala.
+                </li>
+                <li><strong>H370:</strong> Provoca daños en los órganos (sistema
+                  nervioso central, vista).</li>
+              </ul>
+            </div>
+            <hr class="my-2" style="border-top: 1px dashed #cbd5e1;">
+            <div><strong class="mb-1"
+                style="font-size: 13px; color: #2c5282; display: block;">Consejos
+                de Prudencia (Frases P):</strong>
+              <ul
+                style="font-size: 12.5px; color: #334155; margin-bottom: 0; padding-left: 18px;">
+                <li class="mb-1"><strong>P210:</strong> Mantener alejado de
+                  fuentes de calor, chispas y llamas abiertas. No fumar.</li>
+                <li class="mb-1"><strong>P260:</strong> No respirar
+                  polvos/humos/gases/nieblas/vapores/aerosoles.</li>
+                <li class="mb-1"><strong>P280:</strong> Usar equipo de
+                  protección individual (EPI) adecuado.</li>
+                <li><strong>P301 + P310:</strong> EN CASO DE INGESTIÓN: Llamar
+                  inmediatamente a un centro de toxicología o médico.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- SECCIÓN DE OBJETIVOS DE APRENDIZAJE -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background: linear-gradient(135deg, #f8fafc 0%, #edf2f7 100%); border-top: 4px solid #1e3a8a !important;">
+    <div class="card-body p-4">
+      <div class="d-flex align-items-center mb-3"><span
+          class="badge badge-primary mr-2"
+          style="background-color: #002d5a; font-size: 11px; padding: 6px 10px;">COMPETENCIAS</span>
+        <h5 class="font-weight-bold mb-0"
+          style="color: #002d5a; font-size: 17px;">🎯 Objetivos de Aprendizaje
+          Asociados</h5>
+      </div>
+      <ul
+        style="font-size: 14.5px; color: #334155; line-height: 1.8; padding-left: 20px; margin-bottom: 0;">
+        <li style="margin-bottom: 6px;">Diferenciar la **jerarquía de
+          severidad** expresada por las palabras de advertencia "Peligro" y
+          "Atención".</li>
+        <li style="margin-bottom: 6px;">Interpretar el **sistema de codificación
+          numérica** de las indicaciones H (peligros físicos, de salud y
+          ambientales).</li>
+        <li style="margin-bottom: 6px;">Asignar de forma precisa los **consejos
+          de prudencia P** según la etapa operativa (prevención, respuesta,
+          almacenamiento y eliminación).</li>
+        <li>Elaborar **etiquetas SGA normalizadas** integrando correctamente
+          pictogramas, palabras de advertencia, frases H y frases P.</li>
+      </ul>
+    </div>
+  </div>
+  <!-- FOOTER ACADÉMICO -->
+  <div class="card-footer p-3 rounded-lg text-center"
+    style="background-color: #f1f5f9; border: 1px solid #e2e8f0;">
+    <div
+      class="d-flex align-items-center justify-content-between flex-wrap text-muted"
+      style="font-size: 12.5px;">📖 <strong>Recurso de Lectura</strong> •
+      Comunicación del Riesgo Gestión del Riesgo Químico SGA / GHS Rev. 9</div>
+  </div>
+</div>
