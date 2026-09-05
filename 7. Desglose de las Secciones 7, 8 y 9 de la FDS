@@ -1,0 +1,208 @@
+<!-- CONTENEDOR PRINCIPAL - LIBRO DE MOODLE -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- ENCABEZADO PRINCIPAL LLAMATIVO Y ACADÉMICO -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden mb-4"
+    style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+    <div class="card-body p-4 p-md-5 text-white position-relative">
+      <div class="d-flex align-items-center justify-content-between mb-2"><span
+          class="badge badge-warning text-dark font-weight-bold"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 6px 12px; border-radius: 4px;">
+          Peligros Químicos • Módulo Académico </span> <span
+          class="d-none d-md-block"
+          style="font-size: 32px; opacity: 0.85;">⚙️</span></div>
+      <h2 class="font-weight-bold mb-2"
+        style="color: #ffffff; font-size: 26px; letter-spacing: -0.5px;">
+        Desglose de las Secciones 7, 8 y 9 de la FDS</h2>
+      <p class="mb-0 text-white-50"
+        style="font-size: 15px; max-width: 800px; line-height: 1.5;">Unidad de
+        Aprendizaje: Manipulación Segura, Controles de Exposición/Protección
+        Individual y Propiedades Físicas y Químicas según el SGA.</p>
+    </div>
+  </div>
+  <!-- BLOQUE INTRODUCTORIO Y CONCEPTUAL -->
+  <div class="card border-0 shadow-sm rounded-lg mb-4"
+    style="background-color: #f8fafc; border-left: 5px solid #002d5a !important;">
+    <div class="card-body p-4">
+      <h4 class="font-weight-bold mb-3"
+        style="color: #002d5a; font-size: 18px; letter-spacing: -0.3px;">📌
+        Prevención Operativa y Caracterización Fisicoquímica</h4>
+      <p
+        style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 0;">
+        Las <strong>Secciones 7, 8 y 9</strong> de la Ficha de Datos de
+        Seguridad (FDS) forman el núcleo operativo para la <strong>gestión del
+          riesgo rutinario en el entorno laboral</strong>. Este bloque
+        especifica las mejores prácticas para el almacenamiento y manejo seguro,
+        los límites de exposición ocupacional junto con los Equipos de
+        Protección Individual (EPI) requeridos, y las constantes fisicoquímicas
+        que permiten predecir el comportamiento de la sustancia en el ambiente y
+        en los procesos industriales.</p>
+    </div>
+  </div>
+  <!-- SECCIÓN DESCRIPTIVA: SECCIONES 7, 8 Y 9 -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background-color: #ffffff; border: 1px solid #e2e8f0;">
+    <div class="card-body p-4"><!-- SECCIÓN 7 -->
+      <div class="mb-4 p-3 rounded"
+        style="background-color: #f8fafc; border-left: 4px solid #2b6cb0; border: 1px solid #e2e8f0; border-left-width: 4px;">
+        <h5 class="font-weight-bold" style="color: #2b6cb0; font-size: 16px;">📦
+          Sección 7: Manipulación y Almacenamiento</h5>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6; text-align: justify;"
+          class="mt-2"><strong>Propósito descriptivo:</strong> Orienta la
+          operativa diaria mediante pautas para la manipulación segura
+          (prevención de fugas, inhalación o contacto) y condiciones de
+          almacenamiento seguro (incompatibilidades químicas, rangos de
+          temperatura, ventilación, requisitos de conexión a tierra e
+          iluminación antiderflagrante).</p>
+        <div class="p-3 rounded mt-2"
+          style="background-color: #ffffff; border: 1px dashed #cbd5e1;"><small
+            class="text-uppercase font-weight-bold"
+            style="color: #2b6cb0; font-size: 11px; letter-spacing: 0.5px;">💡
+            Ejemplo práctico de aplicación (Sustancia Inflamable y
+            Volátil):</small>
+          <ul class="mt-1"
+            style="font-size: 13px; color: #475569; margin-bottom: 0; padding-left: 18px;">
+            <li><strong>Manipulación segura:</strong> Prohibido comer, beber o
+              fumar en el área. Usar herramientas antichispa. Asegurar conexión
+              a tierra en trasvases para evitar descargas electrostáticas.</li>
+            <li><strong>Condiciones de almacenamiento:</strong> Almacenar en
+              depósitos frescos, secos y bien ventilados. Mantener separado de
+              agentes oxidantes fuertes, ácidos concentrados y fuentes de
+              calor/ignición.</li>
+            <li><strong>Embalajes y recipientes:</strong> Conservar únicamente
+              en los contenedores originales herméticamente cerrados y
+              etiquetados.</li>
+          </ul>
+        </div>
+      </div>
+      <!-- SECCIÓN 8 -->
+      <div class="mb-4 p-3 rounded"
+        style="background-color: #f8fafc; border-left: 4px solid #d69e2e; border: 1px solid #e2e8f0; border-left-width: 4px;">
+        <h5 class="font-weight-bold" style="color: #b7791f; font-size: 16px;">
+          🛡️ Sección 8: Controles de Exposición / Protección Individual</h5>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6; text-align: justify;"
+          class="mt-2"><strong>Propósito descriptivo:</strong> Establece los
+          parámetros permisibles de exposición ocupacional (valores límite como
+          TLV, TWA, STEL o VLA) y detalla las medidas de ingeniería (extracción
+          localizada) junto con los Equipos de Protección Individual (EPI)
+          necesarios para minimizar el riesgo en el trabajador.</p>
+        <div class="p-3 rounded mt-2"
+          style="background-color: #ffffff; border: 1px dashed #cbd5e1;"><small
+            class="text-uppercase font-weight-bold"
+            style="color: #b7791f; font-size: 11px; letter-spacing: 0.5px;">💡
+            Ejemplo práctico de aplicación (Límites y EPI
+            Especificados):</small>
+          <ul class="mt-1"
+            style="font-size: 13px; color: #475569; margin-bottom: 0; padding-left: 18px;">
+            <li><strong>Parámetros de control:</strong> TLV-TWA: 200 ppm;
+              TLV-STEL: 500 ppm (ACGIH).</li>
+            <li><strong>Controles de ingeniería:</strong> Trabajar
+              exclusivamente bajo campana de extracción química o con sistemas
+              de ventilación exhaustiva local.</li>
+            <li><strong>Protección respiratoria:</strong> Mascarilla media cara
+              con cartuchos para vapores orgánicos (A2) si se superan los
+              límites de exposición.</li>
+            <li><strong>Protección de manos y ojos:</strong> Guantes de caucho
+              de nitrilo o butilo (espesor ≥ 0.4 mm); gafas de seguridad de
+              estanqueidad integral frente a salpicaduras.</li>
+          </ul>
+        </div>
+      </div>
+      <!-- SECCIÓN 9 -->
+      <div class="p-3 rounded"
+        style="background-color: #f8fafc; border-left: 4px solid #319795; border: 1px solid #e2e8f0; border-left-width: 4px;">
+        <h5 class="font-weight-bold" style="color: #2c7a7b; font-size: 16px;">🧪
+          Sección 9: Propiedades Físicas y Químicas</h5>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6; text-align: justify;"
+          class="mt-2"><strong>Propósito descriptivo:</strong> Consolida los
+          datos empíricos y analíticos de la sustancia o mezcla. Estas
+          constantes fisicoquímicas son indispensables para caracterizar la
+          peligrosidad inherente del reactivo, calcular la dispersión de vapores
+          y diseñar sistemas de seguridad industrial.</p>
+        <div class="p-3 rounded mt-2"
+          style="background-color: #ffffff; border: 1px dashed #cbd5e1;"><small
+            class="text-uppercase font-weight-bold"
+            style="color: #2c7a7b; font-size: 11px; letter-spacing: 0.5px;">💡
+            Ejemplo práctico de datos fisicoquímicos (Solvente
+            Orgánico):</small>
+          <div class="table-responsive mt-2">
+            <table class="table table-sm table-bordered mb-0"
+              style="font-size: 12.5px; color: #334155;">
+              <thead style="background-color: #e6fffa; color: #234e52;">
+                <tr>
+                  <th>Propiedad Fisicoquímica</th>
+                  <th>Valor / Parámetro</th>
+                  <th>Implicación Técnica / Riesgo</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>Estado físico y color</strong></td>
+                  <td>Líquido incoloro</td>
+                  <td>Facilidad de identificación visual rápida.</td>
+                </tr>
+                <tr>
+                  <td><strong>Punto de inflamación (Flash Point)</strong></td>
+                  <td>-20 °C (copa cerrada)</td>
+                  <td>Extremadamente inflamable a temperatura ambiente.</td>
+                </tr>
+                <tr>
+                  <td><strong>Presión de vapor</strong></td>
+                  <td>240 hPa (a 20 °C)</td>
+                  <td>Alta volatilidad; genera atmósferas inflamables/tóxicas.
+                  </td>
+                </tr>
+                <tr>
+                  <td><strong>Límites de explosividad (LEL / UEL)</strong></td>
+                  <td>2.6% - 12.8% en aire</td>
+                  <td>Rango en el cual la mezcla aire-vapor puede explotar.</td>
+                </tr>
+                <tr>
+                  <td><strong>Densidad relativa de vapor</strong></td>
+                  <td>2.0 (Aire = 1)</td>
+                  <td>Los vapores son más pesados que el aire y se acumulan en
+                    zonas bajas.</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- SECCIÓN DE OBJETIVOS DE APRENDIZAJE -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background: linear-gradient(135deg, #f8fafc 0%, #edf2f7 100%); border-top: 4px solid #1e3a8a !important;">
+    <div class="card-body p-4">
+      <div class="d-flex align-items-center mb-3"><span
+          class="badge badge-primary mr-2"
+          style="background-color: #002d5a; font-size: 11px; padding: 6px 10px;">COMPETENCIAS</span>
+        <h5 class="font-weight-bold mb-0"
+          style="color: #002d5a; font-size: 17px;">🎯 Objetivos de Aprendizaje
+          Asociados</h5>
+      </div>
+      <ul
+        style="font-size: 14.5px; color: #334155; line-height: 1.8; padding-left: 20px; margin-bottom: 0;">
+        <li style="margin-bottom: 6px;">Establecer **protocolos de
+          almacenamiento seguro e incompatibilidades** a partir de la Sección 7.
+        </li>
+        <li style="margin-bottom: 6px;">Seleccionar correctamente los **EPI e
+          implementar controles de ingeniería** basados en los TLV de la Sección
+          8.</li>
+        <li style="margin-bottom: 6px;">Utilizar las **constantes
+          fisicoquímicas** de la Sección 9 para evaluar el comportamiento del
+          producto ante fugas o variaciones térmicas.</li>
+        <li>Diseñar **estándares operacionales de trabajo seguro** alineados con
+          la normativa de seguridad y salud en el trabajo.</li>
+      </ul>
+    </div>
+  </div>
+  <!-- FOOTER ACADÉMICO -->
+  <div class="card-footer p-3 rounded-lg text-center"
+    style="background-color: #f1f5f9; border: 1px solid #e2e8f0;">
+    <div
+      class="d-flex align-items-center justify-content-between flex-wrap text-muted"
+      style="font-size: 12.5px;">📖 <strong>Recurso de Lectura</strong> •
+      Análisis de FDS Gestión del Riesgo Químico</div>
+  </div>
+</div>
