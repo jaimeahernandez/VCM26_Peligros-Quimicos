@@ -1,0 +1,197 @@
+<!-- CONTENEDOR PRINCIPAL - LIBRO DE MOODLE -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- ENCABEZADO PRINCIPAL LLAMATIVO Y ACADÉMICO -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden mb-4"
+    style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+    <div class="card-body p-4 p-md-5 text-white position-relative">
+      <div class="d-flex align-items-center justify-content-between mb-2"><span
+          class="badge badge-warning text-dark font-weight-bold"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 6px 12px; border-radius: 4px;">
+          Peligros Químicos • Módulo Académico </span> <span
+          class="d-none d-md-block"
+          style="font-size: 32px; opacity: 0.85;">🚨</span></div>
+      <h2 class="font-weight-bold mb-2"
+        style="color: #ffffff; font-size: 26px; letter-spacing: -0.5px;">
+        Desglose de las Secciones 4, 5 y 6 de la FDS</h2>
+      <p class="mb-0 text-white-50"
+        style="font-size: 15px; max-width: 800px; line-height: 1.5;">Unidad de
+        Aprendizaje: Protocolos de Respuesta Directa e Intervención Inicial ante
+        Emergencias Químicas según el SGA.</p>
+    </div>
+  </div>
+  <!-- BLOQUE INTRODUCTORIO Y CONCEPTUAL -->
+  <div class="card border-0 shadow-sm rounded-lg mb-4"
+    style="background-color: #f8fafc; border-left: 5px solid #002d5a !important;">
+    <div class="card-body p-4">
+      <h4 class="font-weight-bold mb-3"
+        style="color: #002d5a; font-size: 18px; letter-spacing: -0.3px;">📌
+        Respuestas Inmediatas y Control de Incidencias Químicas</h4>
+      <p
+        style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 0;">
+        Las <strong>Secciones 4, 5 y 6</strong> de la Ficha de Datos de
+        Seguridad (FDS) constituyen el bloque de <strong>actuación técnica
+          prioritaria ante eventos no deseados</strong>. Están orientadas a
+        brindar pautas claras y normadas para la atención de personas expuestas,
+        el combate de incendios donde intervengan productos químicos y la
+        contención de vertidos o fugas accidentales. Su dominio es fundamental
+        para brigadas de emergencia, personal médico laboral y técnicos de
+        prevención de riesgos.</p>
+    </div>
+  </div>
+  <!-- SECCIÓN DESCRIPTIVA: SECCIONES 4, 5 Y 6 -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background-color: #ffffff; border: 1px solid #e2e8f0;">
+    <div class="card-body p-4"><!-- SECCIÓN 4 -->
+      <div class="mb-4 p-3 rounded"
+        style="background-color: #f8fafc; border-left: 4px solid #e53e3e; border: 1px solid #e2e8f0; border-left-width: 4px;">
+        <h5 class="font-weight-bold" style="color: #c53030; font-size: 16px;">🚑
+          Sección 4: Medidas de Primeros Auxilios</h5>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6; text-align: justify;"
+          class="mt-2"><strong>Propósito descriptivo:</strong> Define la
+          atención médica inicial y sin equipos especializados que debe
+          administrarse inmediatamente a una persona expuesta a la sustancia
+          química. Se subdivide según las principales vías de entrada al
+          organismo (inhalación, contacto cutáneo, contacto ocular e ingestión),
+          especificando síntomas agudos o retardados relevantes e indicaciones
+          sobre asistencia médica de urgencia.</p>
+        <div class="p-3 rounded mt-2"
+          style="background-color: #ffffff; border: 1px dashed #cbd5e1;"><small
+            class="text-uppercase font-weight-bold"
+            style="color: #c53030; font-size: 11px; letter-spacing: 0.5px;">💡
+            Ejemplo práctico de aplicación (Exposición a Ácido Sulfúrico
+            Concentrado):</small>
+          <ul class="mt-1"
+            style="font-size: 13px; color: #475569; margin-bottom: 0; padding-left: 18px;">
+            <li><strong>Contacto con la piel:</strong> Retirar inmediatamente la
+              ropa contaminada. Lavar la zona afectada con abundante agua
+              corriente durante al menos 15 a 20 minutos. No aplicar
+              neutralizantes químicos directos (como bases).</li>
+            <li><strong>Contacto ocular:</strong> Enjuagar los ojos abiertos con
+              agua limpia de forma continua por 20 minutos, separando suavemente
+              los párpados. Trasladar al oftalmólogo de inmediato.</li>
+            <li><strong>Inhalación:</strong> Trasladar a la víctima al aire
+              libre. Si no respira, administrar respiración artificial con
+              barrera de protección. Mantener en reposo y abrigada.</li>
+            <li><strong>Ingestión:</strong> Lavar la boca con agua. <strong>No
+                provocar el vómito</strong> bajo ninguna circunstancia (riesgo
+              de re-quemadura esofágica). Solicitar asistencia médica urgente.
+            </li>
+          </ul>
+        </div>
+      </div>
+      <!-- SECCIÓN 5 -->
+      <div class="mb-4 p-3 rounded"
+        style="background-color: #f8fafc; border-left: 4px solid #dd6b20; border: 1px solid #e2e8f0; border-left-width: 4px;">
+        <h5 class="font-weight-bold" style="color: #c05621; font-size: 16px;">🔥
+          Sección 5: Medidas de Lucha Contra Incendios</h5>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6; text-align: justify;"
+          class="mt-2"><strong>Propósito descriptivo:</strong> Establece las
+          pautas para extinguir un fuego en el que el producto químico esté
+          involucrado o rodeado por las llamas. Precisa cuáles son los
+          <strong>medios de extinción apropiados e inapropiados</strong>, los
+          peligros específicos derivados de la combustión (generación de gases
+          tóxicos) y los equipos de protección especial que debe utilizar la
+          brigada contra incendios.</p>
+        <div class="p-3 rounded mt-2"
+          style="background-color: #ffffff; border: 1px dashed #cbd5e1;"><small
+            class="text-uppercase font-weight-bold"
+            style="color: #c05621; font-size: 11px; letter-spacing: 0.5px;">💡
+            Ejemplo práctico de aplicación (Incendio con Acetona):</small>
+          <ul class="mt-1"
+            style="font-size: 13px; color: #475569; margin-bottom: 0; padding-left: 18px;">
+            <li><strong>Medios de extinción adecuados:</strong> Polvo químico
+              seco (PQS), dióxido de carbono (CO₂), o espuma resistente al
+              alcohol. Use agua en forma de rocío únicamente para enfriar
+              recipientes expuestos.</li>
+            <li><strong>Medios de extinción no adecuados:</strong> Chorro
+              directo de agua a alta presión (puede propagar la superficie del
+              líquido en llamas).</li>
+            <li><strong>Peligros específicos de la combustión:</strong> La
+              descomposición térmica produce monóxido de carbono (CO), dióxido
+              de carbono (CO₂) y vapores irritantes pesados que pueden
+              desplazarse hasta fuentes de ignición distantes.</li>
+            <li><strong>Protección especial para bomberos:</strong> Uso
+              obligatorio de equipo de respiración autónoma (ERA) de presión
+              positiva y traje de protección estructural completo.</li>
+          </ul>
+        </div>
+      </div>
+      <!-- SECCIÓN 6 -->
+      <div class="p-3 rounded"
+        style="background-color: #f8fafc; border-left: 4px solid #3182ce; border: 1px solid #e2e8f0; border-left-width: 4px;">
+        <h5 class="font-weight-bold" style="color: #2b6cb0; font-size: 16px;">🧪
+          Sección 6: Medidas en Caso de Vertido Accidental</h5>
+        <p style="font-size: 14px; color: #334155; line-height: 1.6; text-align: justify;"
+          class="mt-2"><strong>Propósito descriptivo:</strong> Proporciona
+          instrucciones detalladas sobre las acciones que deben emprenderse para
+          aislar, contener y limpiar derrames, fugas o vertidos imprevistos del
+          producto químico. Diferencia las precauciones individuales (uso de EPP
+          y evacuación), las precauciones ambientales (evitar contaminación de
+          alcantarillados y fuentes de agua) y las técnicas de neutralización o
+          absorción adecuadas.</p>
+        <div class="p-3 rounded mt-2"
+          style="background-color: #ffffff; border: 1px dashed #cbd5e1;"><small
+            class="text-uppercase font-weight-bold"
+            style="color: #2b6cb0; font-size: 11px; letter-spacing: 0.5px;">💡
+            Ejemplo práctico de aplicación (Derrame de Solvente
+            Orgánico):</small>
+          <ul class="mt-1"
+            style="font-size: 13px; color: #475569; margin-bottom: 0; padding-left: 18px;">
+            <li><strong>Precauciones personales:</strong> Evacuar al personal no
+              esencial del área afectada. Eliminar todas las fuentes de ignición
+              (chispas, llamas, trabajo en caliente). Utilizar respirador con
+              cartucho para vapores orgánicos, guantes de nitrilo/butilo y gafas
+              de seguridad antiderrames.</li>
+            <li><strong>Precauciones relativas al medio ambiente:</strong>
+              Prevenir la entrada del vertido a drenajes, alcantarillados, fosas
+              de agua subterránea o cursos de agua superficial mediante el uso
+              de barreras o cordones absorbentes.</li>
+            <li><strong>Métodos y materiales de limpieza:</strong> Detener la
+              fuga si no hay peligro. Absorber el líquido vertido con material
+              inerte no combustible (tierra de diatomeas, vermiculita o arena
+              seca). Evitar el uso de trapos o aserrín seco. Recoger con
+              herramientas antichispa y depositar en contenedores herméticos
+              etiquetados para su posterior disposición final según la normativa
+              ambiental.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- SECCIÓN DE OBJETIVOS DE APRENDIZAJE -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background: linear-gradient(135deg, #f8fafc 0%, #edf2f7 100%); border-top: 4px solid #1e3a8a !important;">
+    <div class="card-body p-4">
+      <div class="d-flex align-items-center mb-3"><span
+          class="badge badge-primary mr-2"
+          style="background-color: #002d5a; font-size: 11px; padding: 6px 10px;">COMPETENCIAS</span>
+        <h5 class="font-weight-bold mb-0"
+          style="color: #002d5a; font-size: 17px;">🎯 Objetivos de Aprendizaje
+          Asociados</h5>
+      </div>
+      <ul
+        style="font-size: 14.5px; color: #334155; line-height: 1.8; padding-left: 20px; margin-bottom: 0;">
+        <li style="margin-bottom: 6px;">Aplicar de forma oportuna las **medidas
+          de primeros auxilios** según la vía de exposición identificada en la
+          Sección 4.</li>
+        <li style="margin-bottom: 6px;">Seleccionar los **agentes extintores y
+          métodos de protección adecuados** ante incendios químicos conforme a
+          la Sección 5.</li>
+        <li style="margin-bottom: 6px;">Implementar **procedimientos de
+          contención y absorción de derrames** reduciendo el impacto ambiental y
+          laboral conforme a la Sección 6.</li>
+        <li>Integrar estas tres secciones en la elaboración de **Planos de
+          Respuesta ante Emergencias Químicas** industriales.</li>
+      </ul>
+    </div>
+  </div>
+  <!-- FOOTER ACADÉMICO -->
+  <div class="card-footer p-3 rounded-lg text-center"
+    style="background-color: #f1f5f9; border: 1px solid #e2e8f0;">
+    <div
+      class="d-flex align-items-center justify-content-between flex-wrap text-muted"
+      style="font-size: 12.5px;">📖 <strong>Recurso de Lectura</strong> •
+      Análisis de FDS Gestión del Riesgo Químico</div>
+  </div>
+</div>
