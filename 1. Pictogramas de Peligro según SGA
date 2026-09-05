@@ -1,30 +1,96 @@
-<hr>
-<p>La comunicación visual de los peligros químicos es un componente esencial del
-  Sistema Globalmente Armonizado de clasificación y etiquetado de sustancias
-  químicas (SGA). Los pictogramas de peligro son símbolos estandarizados que
-  permiten a cualquier persona identificar rápidamente el tipo de riesgo
-  asociado a una sustancia, sin necesidad de leer texto técnico
-  completo. <br><br>La siguiente ilustración resume los principales pictogramas
-  usados en etiquetas y Fichas de Datos de Seguridad (FDS), representando
-  diferentes categorías de peligro, como inflamabilidad, toxicidad,
-  corrosividad, peligro ambiental y más.</p>
-<div class="text-center" style="margin-top: 25px; margin-bottom: 25px;"><img
-    class="img-fluid"
-    style="width: 80%; max-width: 900px; border: 2px solid #2c3e50; border-radius: 8px;"
-    src="https://www.vivecer.com.mx/uploads/blog/1695755888.jpg"
-    alt="Pictogramas de peligro según el SGA"></div>
-<p style="text-align: center;"><small class="text-muted"> Fuente: Representación
-    gráfica de los pictogramas de peligro según el Sistema Globalmente
-    Armonizado (SGA). </small></p>
-<p><strong>Objetivos de aprendizaje asociados:</strong></p>
-<ul>
-  <li>Identificar y diferenciar los 9 pictogramas de peligro oficiales del SGA.
-  </li>
-  <li>Comprender el significado técnico detrás de cada símbolo.</li>
-  <li>Relacionar cada pictograma con su categoría de peligro (toxicidad,
-    inflamabilidad, etc.).</li>
-  <li>Aplicar esta comprensión en la lectura e interpretación de etiquetas y
-    FDS.</li>
-</ul>
-<p></p>
-<hr>
+<!-- CONTENEDOR PRINCIPAL - LIBRO DE MOODLE -->
+<div class="container my-4"
+  style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #2d3748; max-width: 950px; margin: 0 auto;">
+  <!-- ENCABEZADO PRINCIPAL LLAMATIVO Y ACADÉMICO -->
+  <div class="card shadow-lg border-0 rounded-lg overflow-hidden mb-4"
+    style="background: linear-gradient(135deg, #002d5a 0%, #1e3a8a 100%);">
+    <div class="card-body p-4 p-md-5 text-white position-relative">
+      <div class="d-flex align-items-center justify-content-between mb-2"><span
+          class="badge badge-warning text-dark font-weight-bold"
+          style="background-color: #ffc107; font-size: 11px; letter-spacing: 1px; text-transform: uppercase; padding: 6px 12px; border-radius: 4px;">
+          Peligros Químicos • Módulo Académico </span> <span
+          class="d-none d-md-block"
+          style="font-size: 32px; opacity: 0.85;">⚠️</span></div>
+      <h2 class="font-weight-bold mb-2"
+        style="color: #ffffff; font-size: 26px; letter-spacing: -0.5px;">
+        Identificación y Pictogramas del Sistema Globalmente Armonizado (SGA)
+      </h2>
+      <p class="mb-0 text-white-50"
+        style="font-size: 15px; max-width: 800px; line-height: 1.5;">Unidad de
+        Aprendizaje: Estándares Internacionales de Clasificación y Etiquetado de
+        Sustancias Químicas.</p>
+    </div>
+  </div>
+  <!-- BLOQUE INTRODUCTORIO Y CONCEPTUAL -->
+  <div class="card border-0 shadow-sm rounded-lg mb-4"
+    style="background-color: #f8fafc; border-left: 5px solid #002d5a !important;">
+    <div class="card-body p-4">
+      <h4 class="font-weight-bold mb-3"
+        style="color: #002d5a; font-size: 18px; letter-spacing: -0.3px;">📢 La
+        Comunicación Visual del Riesgo Químico</h4>
+      <p
+        style="text-align: justify; font-size: 15px; line-height: 1.7; color: #334155; margin-bottom: 0;">
+        La comunicación visual de los peligros químicos es un componente
+        esencial del <strong>Sistema Globalmente Armonizado de Clasificación y
+          Etiquetado de Sustancias Químicas (SGA)</strong>. Los pictogramas de
+        peligro son símbolos estandarizados que permiten a cualquier persona
+        identificar rápidamente el tipo de riesgo asociado a una sustancia, sin
+        necesidad de leer texto técnico completo.</p>
+    </div>
+  </div>
+  <p style="text-align: justify; font-size: 15px; line-height: 1.7; color: #475569;"
+    class="px-2">La siguiente ilustración resume los principales pictogramas
+    usados en etiquetas y <strong>Fichas de Datos de Seguridad (FDS)</strong>,
+    representando diferentes categorías de peligro, como inflamabilidad,
+    toxicidad, corrosividad, peligro ambiental y más.</p>
+  <!-- RECURSO GRÁFICO Y FIGURA ACADÉMICA -->
+  <div class="card border-0 my-4 shadow-sm rounded-lg overflow-hidden"
+    style="background-color: #ffffff; border: 1px solid #e2e8f0;">
+    <div class="card-body p-3 text-center">
+      <div class="position-relative d-inline-block"
+        style="width: 100%; max-width: 900px;"><img
+          class="img-fluid rounded shadow-sm"
+          style="width: 85%; max-width: 900px; border: 1px solid #cbd5e1;"
+          src="https://www.vivecer.com.mx/uploads/blog/1695755888.jpg"
+          alt="Pictogramas de peligro según el SGA"></div>
+      <!-- PIE DE FIGURA Y FUENTE --><small class="text-muted font-italic"
+        style="font-size: 12.5px; color: #64748b;"> <strong>Figura 1.</strong>
+        Representación gráfica de los pictogramas de peligro oficiales según el
+        Sistema Globalmente Armonizado (SGA). </small>
+    </div>
+  </div>
+  <!-- SECCIÓN DE OBJETIVOS DE APRENDIZAJE -->
+  <div class="card border-0 rounded-lg shadow-sm mb-4"
+    style="background: linear-gradient(135deg, #f8fafc 0%, #edf2f7 100%); border-top: 4px solid #1e3a8a !important;">
+    <div class="card-body p-4">
+      <div class="d-flex align-items-center mb-3"><span
+          class="badge badge-primary mr-2"
+          style="background-color: #002d5a; font-size: 11px; padding: 6px 10px;">COMPETENCIAS</span>
+        <h5 class="font-weight-bold mb-0"
+          style="color: #002d5a; font-size: 17px;">🎯 Objetivos de Aprendizaje
+          Asociados</h5>
+      </div>
+      <ul
+        style="font-size: 14.5px; color: #334155; line-height: 1.8; padding-left: 20px; margin-bottom: 0;">
+        <li style="margin-bottom: 6px;">Identificar y diferenciar los <strong>9
+            pictogramas de peligro oficiales</strong> del SGA.</li>
+        <li style="margin-bottom: 6px;">Comprender el <strong>significado
+            técnico</strong> detrás de cada símbolo.</li>
+        <li style="margin-bottom: 6px;">Relacionar cada pictograma con su
+          categoría de peligro específica (toxicidad, inflamabilidad,
+          corrosividad, etc.).</li>
+        <li>Aplicar esta comprensión en la <strong>lectura e interpretación
+            práctica</strong> de etiquetas y Fichas de Datos de Seguridad (FDS).
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!-- FOOTER ACADÉMICO -->
+  <div class="card-footer p-3 rounded-lg text-center"
+    style="background-color: #f1f5f9; border: 1px solid #e2e8f0;">
+    <div
+      class="d-flex align-items-center justify-content-between flex-wrap text-muted"
+      style="font-size: 12.5px;">📖 <strong>Recurso de Lectura</strong> Gestión
+      del Riesgo Químico Peligros Químicos</div>
+  </div>
+</div>
